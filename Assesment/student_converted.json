@@ -1,0 +1,32 @@
+[
+    {
+        "RollNo":101,
+        "Name":"Aakash",
+        "Course":"B.Tech",
+        "GPA":8.9
+    },
+    {
+        "RollNo":102,
+        "Name":"Bhavya",
+        "Course":"BCA",
+        "GPA":9.2
+    },
+    {
+        "RollNo":103,
+        "Name":"Chetan",
+        "Course":"B.Tech",
+        "GPA":7.8
+    },
+    {
+        "RollNo":104,
+        "Name":"Divya",
+        "Course":"B.Sc",
+        "GPA":8.5
+    },
+    {
+        "RollNo":105,
+        "Name":"Esha",
+        "Course":"B.Tech",
+        "GPA":9.5
+    }
+]

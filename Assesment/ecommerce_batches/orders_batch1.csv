@@ -1,0 +1,6 @@
+OrderID,Customer,Product,Category,Quantity,Price,OrderDate,City,PaymentMode
+1001,Aarav Sharma,Wireless Mouse,Electronics,2.0,1200.0,2024-01-12,Bengaluru,UPI
+1002,Bhavna Patel,Mechanical Keyboard,Electronics,1.0,3500.0,2024-01-15,Mumbai,Credit Card
+1003,Chirag Verma,USB-C Hub,Accessories,3.0,1800.0,2024-01-20,Delhi,Net Banking
+1001,Aarav Sharma,Wireless Mouse,Electronics,2.0,1200.0,2024-01-12,Bengaluru,UPI
+1004,,Wireless Mouse,Electronics,,1200.0,2024-01-22,Chennai,Cash on Delivery

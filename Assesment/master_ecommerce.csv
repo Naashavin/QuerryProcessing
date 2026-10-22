@@ -1,0 +1,4 @@
+OrderID,Customer,Product,Category,Quantity,Price,OrderDate,City,PaymentMode,TotalPrice
+1,Aarav,Mouse,Electronics,2,500,2024-01-10,Delhi,UPI,1000
+2,Bhavna,Keyboard,Electronics,1,1500,2024-01-11,Mumbai,Card,1500
+3,Chirag,Mouse,Electronics,3,500,2024-01-12,Chennai,UPI,1500

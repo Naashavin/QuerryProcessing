@@ -1,0 +1,3 @@
+OrderID,Customer,Product,Category,Quantity,Price,OrderDate,City,PaymentMode
+3,Chirag,Mouse,Electronics,3,500,2024-01-12,Chennai,UPI
+4,,Monitor,Electronics,1,8000,2024-01-13,Kolkata,Cash

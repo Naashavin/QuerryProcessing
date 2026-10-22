@@ -1,0 +1,9 @@
+PatientID,Age,BloodPressure,Cholesterol,Smoker,Outcome
+101,45.0,120.0,210.0,No,Recovered
+102,,135.0,195.0,Yes,Under Treatment
+103,52.0,,230.0,,Recovered
+104,38.0,118.0,,No,Recovered
+105,,140.0,245.0,No,Critical
+106,61.0,,205.0,,Recovered
+107,29.0,115.0,,No,Under Treatment
+108,50.0,122.0,185.0,Yes,Recovered

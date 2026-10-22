@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Aarav",
+        "Department": "IT",
+        "Salary": 75000
+    },
+    {
+        "Name": "Bhavna",
+        "Department": "HR",
+        "Salary": 50000
+    },
+    {
+        "Name": "Chirag",
+        "Department": "IT",
+        "Salary": 55000
+    },
+    {
+        "Name": "Divya",
+        "Department": "IT",
+        "Salary": 85000
+    },
+    {
+        "Name": "Eeshan",
+        "Department": "Finance",
+        "Salary": 65000
+    }
+]

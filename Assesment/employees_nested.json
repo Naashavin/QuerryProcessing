@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Aarav",
+        "address": {
+            "city": "Bengaluru",
+            "state": "Karnataka"
+        }
+    },
+    {
+        "name": "Bhavna",
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra"
+        }
+    },
+    {
+        "name": "Chirag",
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi"
+        }
+    }
+]

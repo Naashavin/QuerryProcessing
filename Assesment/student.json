@@ -1,0 +1,32 @@
+[
+    {
+        "StudentID":1,
+        "Name":"Aarav",
+        "DeptID":1,
+        "Marks":85
+    },
+    {
+        "StudentID":2,
+        "Name":"Bhavna",
+        "DeptID":2,
+        "Marks":92
+    },
+    {
+        "StudentID":3,
+        "Name":"Chirag",
+        "DeptID":1,
+        "Marks":78
+    },
+    {
+        "StudentID":4,
+        "Name":"Divya",
+        "DeptID":3,
+        "Marks":88
+    },
+    {
+        "StudentID":5,
+        "Name":"Eeshan",
+        "DeptID":2,
+        "Marks":65
+    }
+]

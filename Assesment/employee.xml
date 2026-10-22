@@ -1,0 +1,5 @@
+<employees>
+    <employee><name>Aarav</name><salary>65000</salary></employee>
+    <employee><name>Bhavna</name><salary>48000</salary></employee>
+    <employee><name>Chirag</name><salary>72000</salary></employee>
+</employees>

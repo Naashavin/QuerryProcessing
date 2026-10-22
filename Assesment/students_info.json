@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Aditi Sharma",
+        "marks": 88.5,
+        "department": "CSE"
+    },
+    {
+        "id": 2,
+        "name": "Bikram Roy",
+        "marks": 94.0,
+        "department": "ECE"
+    },
+    {
+        "id": 3,
+        "name": "Chaitanya Patel",
+        "marks": 76.0,
+        "department": "MECH"
+    },
+    {
+        "id": 4,
+        "name": "Deepika Reddy",
+        "marks": 98.0,
+        "department": "CSE"
+    },
+    {
+        "id": 5,
+        "name": "Eshwar Iyer",
+        "marks": 91.5,
+        "department": "CIVIL"
+    }
+]

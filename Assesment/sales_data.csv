@@ -1,0 +1,16 @@
+ProductID,ProductName,SalesAmount
+P001,Laptop,1250000
+P002,Smartphone,980000
+P003,Wireless Earbuds,340000
+P004,Smartwatch,450000
+P005,Tablet,520000
+P006,Monitor,610000
+P007,Mechanical Keyboard,180000
+P008,Gaming Mouse,120000
+P009,External SSD,400000
+P010,Webcam,150000
+P011,Desk Lamp,75000
+P012,Bluetooth Speaker,220000
+P013,Power Bank,190000
+P014,USB Hub,95000
+P015,Headphones,310000

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product id="P001">
+        <name>Wireless Mouse</name>
+        <price>1200.00</price>
+    </product>
+    <product id="P002">
+        <name>Mechanical Keyboard</name>
+        <price>3500.00</price>
+    </product>
+    <product id="P003">
+        <name>USB-C Hub</name>
+        <price>1800.00</price>
+    </product>
+    <product id="P004">
+        <name>HD Webcam</name>
+        <price>2400.00</price>
+    </product>
+</products>

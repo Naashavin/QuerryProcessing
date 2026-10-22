@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav",
+        "marks": 88
+    },
+    {
+        "id": 2,
+        "name": "Bhavna",
+        "marks": 94
+    },
+    {
+        "id": 3,
+        "name": "Chirag",
+        "marks": 76
+    },
+    {
+        "id": 4,
+        "name": "Divya",
+        "marks": 91
+    }
+]

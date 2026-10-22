@@ -1,0 +1,9 @@
+OrderID,Customer,Product,Category,Quantity,Price,OrderDate,City,PaymentMode,TotalPrice
+1001,Aarav Sharma,Wireless Mouse,Electronics,2,1200.0,2024-01-12,Bengaluru,UPI,2400.0
+1002,Bhavna Patel,Mechanical Keyboard,Electronics,1,3500.0,2024-01-15,Mumbai,Credit Card,3500.0
+1003,Chirag Verma,USB-C Hub,Accessories,3,1800.0,2024-01-20,Delhi,Net Banking,5400.0
+1004,Guest Customer,Wireless Mouse,Electronics,1,1200.0,2024-01-22,Chennai,Cash on Delivery,1200.0
+1005,Divya Nair,Mechanical Keyboard,Electronics,2,3500.0,2024-02-05,Hyderabad,Debit Card,7000.0
+1006,Eeshan Gupta,Monitor Stand,Furniture,1,2400.0,2024-02-14,Pune,UPI,2400.0
+1007,Farhan Ali,Wireless Mouse,Electronics,4,1200.0,2024-02-18,Kolkata,UPI,4800.0
+1008,Gayatri Joshi,Noise-Cancelling Headphones,Audio,1,7500.0,2024-02-25,Bengaluru,Credit Card,7500.0

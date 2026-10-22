@@ -1,0 +1,7 @@
+StudentID,Name,Maths,Science,English,Marks
+1,Aarav,85.0,90.0,70.0,82
+2,Bhavna,,75.0,80.0,74
+3,Chirag,78.0,,65.0,58
+4,Divya,92.0,88.0,,43
+5,Eeshan,,82.0,75.0,35
+6,Farhan,64.0,,85.0,91

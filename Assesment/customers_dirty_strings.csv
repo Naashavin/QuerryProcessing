@@ -1,0 +1,8 @@
+CustomerID,Name,Email
+1,  john   DOE  ,john.doe@example.com
+2,ANANYA   sharma ,ananya_sharma@gmail.com
+3, rahul   kUMAR ,rahul@@invalid..com
+4,vikram   singh  ,vikram.singh@company.co.in
+5,  priya  NAIR ,priya.nair_at_gmail.com
+6,rohit,rohit#domain.com
+7,  DEEPAK  VERMA   ,deepak.verma@service.net

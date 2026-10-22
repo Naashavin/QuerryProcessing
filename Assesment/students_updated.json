@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav",
+        "marks": 88,
+        "Grade": "B"
+    },
+    {
+        "id": 2,
+        "name": "Bhavna",
+        "marks": 94,
+        "Grade": "A"
+    },
+    {
+        "id": 3,
+        "name": "Chirag",
+        "marks": 76,
+        "Grade": "B"
+    },
+    {
+        "id": 4,
+        "name": "Divya",
+        "marks": 91,
+        "Grade": "A"
+    }
+]

@@ -1,0 +1,5 @@
+OrderID,Customer,Product,Category,Quantity,Price,OrderDate,City,PaymentMode
+1005,Divya Nair,Mechanical Keyboard,Electronics,2,3500.0,2024-02-05,Hyderabad,Debit Card
+1006,Eeshan Gupta,Monitor Stand,Furniture,1,2400.0,2024-02-14,Pune,UPI
+1007,Farhan Ali,Wireless Mouse,Electronics,4,1200.0,2024-02-18,Kolkata,UPI
+1008,Gayatri Joshi,Noise-Cancelling Headphones,Audio,1,7500.0,2024-02-25,Bengaluru,Credit Card

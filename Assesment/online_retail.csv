@@ -1,0 +1,7 @@
+InvoiceNo,CustomerID,ProductName,Quantity,UnitPrice,Country,InvoiceDate
+INV1,101.0,Mouse,2,500,India,2024-01-10
+INV2,,Keyboard,1,1500,India,2024-01-11
+INV3,103.0,Monitor,1,8000,UK,2024-01-12
+INV1,101.0,Mouse,2,500,India,2024-01-10
+INV4,,Speaker,3,1200,USA,2024-01-13
+INV5,105.0,Webcam,1,2000,India,2024-01-14

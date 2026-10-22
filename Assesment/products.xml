@@ -1,0 +1,5 @@
+<products>
+    <product><id>1</id><name>Mouse</name><price>500</price></product>
+    <product><id>2</id><name>Keyboard</name><price>1500</price></product>
+    <product><id>3</id><name>Monitor</name><price>8000</price></product>
+</products>

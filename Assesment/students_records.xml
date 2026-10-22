@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Aarav Sharma</name>
+        <department>CSE</department>
+        <marks>92</marks>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Bhavna Verma</name>
+        <department>ECE</department>
+        <marks>88</marks>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Chirag Patel</name>
+        <department>CSE</department>
+        <marks>96</marks>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Divya Nair</name>
+        <department>MECH</department>
+        <marks>85</marks>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Eeshan Gupta</name>
+        <department>ECE</department>
+        <marks>91</marks>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Farhan Ali</name>
+        <department>MECH</department>
+        <marks>89</marks>
+    </student>
+    <student>
+        <id>7</id>
+        <name>Gayatri Joshi</name>
+        <department>CSE</department>
+        <marks>84</marks>
+    </student>
+</students>

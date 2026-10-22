@@ -1,0 +1,6 @@
+<library>
+    <book><title>Python Basics</title><year>2019</year><price>400</price></book>
+    <book><title>Data Science</title><year>2022</year><price>750</price></book>
+    <book><title>Machine Learning</title><year>2021</year><price>900</price></book>
+    <book><title>AI Fundamentals</title><year>2023</year><price>450</price></book>
+</library>

@@ -1,0 +1,6 @@
+<students>
+    <student><name>Aarav</name><department>CSE</department><marks>85</marks></student>
+    <student><name>Bhavna</name><department>ECE</department><marks>92</marks></student>
+    <student><name>Chirag</name><department>CSE</department><marks>95</marks></student>
+    <student><name>Divya</name><department>ECE</department><marks>89</marks></student>
+</students>
