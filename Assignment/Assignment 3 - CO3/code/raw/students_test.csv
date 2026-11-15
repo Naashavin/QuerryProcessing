@@ -1,0 +1,264 @@
+student_id,full_name,dob,gender,department,email,phone,city,admission_date,attendance_pct,marks
+MU22CIV7000,  chirag choudhury  ,17/11/2002,F,Civil Engineering,chirag.choudhury@meridian.edu,+91-7473571432,Salem,2022-08-01,72.1,43
+MU21MEC7001,Pavithra Singh,2005-02-30,MALE,Mechanical Engineering,pavithra.singh@meridian.edu,8466361660,Trichy,2021-08-01,86.0,82
+MU22CSE7002,Jagan Sundaram,25/02/2004,F,CSE,jagan.sundaram@meridian.edu,95972,Trivandrum,2022-08-01,76.9,120
+MU21BAD7003,  lavanya choudhury  ,2005-02-30,MALE,Business Administration,lavanya.choudhury@meridian.edu,7872124561,Trichy,2021-08-01,97.1,86
+MU22ECE7004,Pavithra Murugan,2005-02-30,MALE,Electronics and Comm,pavithra.murugan@meridian.edu,83142-00697,Chennai,2022-08-01,87.1,81
+MU22ECE7005,  chirag verma  ,2005-07-21,Female,Electronics and Communication Engineering,chirag.verma@meridian.edu,78132 12515,Erode,2022-08-01,71.4,85
+MU23ECE7006,Indumathi Singh,14/04/2004,M,Electronics and Communication Engineering,indumathi.singh@meridian.edu,9403095770,Vellore,2023-08-01,63.5,67
+MU24BAD7007,Kavitha Reddy,2005-02-30,Female,Business Administration,kavitha.reddy@meridian.edu,60491-19758,Salem,2024-08-01,75.6,47
+MU21ITE7008,Monika Venkatesh,2003/03/24,Female,information technology,monika.venkatesh@meridian.edu,7720388319,Madurai,2021-08-01,78.9,95
+MU21MEC7009,Dinesh R,25/07/2004,MALE,Mechanical Engineering,dinesh.r@meridian.edu,(044) 4801 4432,Chennai,2021-08-01,76.6,55
+MU22ECE7010,Gita Pillai,07-Apr-2005,MALE,Electronics and Comm,gita.pillai@meridian.edu,79277,Kochi,2022-08-01,-5.0,83
+MU24CIV7011,  vijay s  ,2005-11-10,Female,Civil Engineering,vijay.s@meridian.edu,+91-7057060503,Hyderabad,2024-08-01,81.9,71
+MU24ECE7012,Farhan Murugan,28-May-2006,MALE,Electronics and Communication Engineering,farhan.murugan@meridian.edu,07287436800,Trichy,2024-08-01,65.9,120
+MU22ECE7013,Revathi Pillai,2003-08-24,F,Electronics and Communication Engineering,revathi.pillai@meridian.edu,(044) 9718 0745,Vellore,2022-08-01,84.9,550
+MU22BAD7014,Anitha Verma,01/02/2006,F,Business Administration,anitha.verma@meridian.edu,8282848993,Kanchipuram,2022-08-01,94.9,81
+MU22MEC7015,Sanjay Singh,06/03/2003,Female,Mechanical,sanjay.singh@meridian.edu,(044) 7025 1942,Trivandrum,2022-08-01,63.6,-15
+MU24ITE7016,Ezhil Venkatesh,2004/03/25,M,Information Technology,ezhil.venkatesh@meridian.edu,+91-8565394448,Madurai,2024-08-01,69.0,76
+MU24ITE7017,Vijay Murugan,19/08/2005,Female,Information Technology,vijay.murugan@meridian.edu,71166 04292,Kochi,2024-08-01,72.1,120
+MU23CSE7018,Lakshmi S,2005/06/23,F,Computer Science and Engineering,lakshmi.s@meridian.edu,(044) 7235 2077,Erode,2023-08-01,82.4,77
+MU23BAD7019,Karthik Joshi,2005-01-26,Female,Business Administration,karthik.joshi@meridian.edu,08595101764,Thanjavur,2023-08-01,87.5,76
+MU23ECE7020,Sandhya Rao,2003/06/23,M,Electronics and Communication Engineering,sandhya.rao@meridian.edu,6296594595,Trichy,2023-08-01,65.9,95
+MU23ITE7021,Swetha Gupta,22-02-2003,M,Information Technology,swetha.gupta@meridian.edu,+91-6484250330,Trivandrum,2023-08-01,94.6,93
+MU24MEC7022,Lavanya Gupta,2005-02-19,MALE,Mechanical Engineering,lavanya.gupta@meridian.edu,84871 63203,Hyderabad,2024-08-01,72.5,46
+MU24MEC7023,Meena Balaji,N/A,Female,Mechanical Engineering,meena.balaji@meridian.edu,79402 59060,Salem,2024-08-01,64.9,57
+MU24CSE7024,Monika de Souza,06-Jul-2003,F,Computer Science and Engineering,monika.de souza@meridian.edu,(044) 1180 6287,Madurai,2024-08-01,88.8,84
+MU22CSE7025,  hemalatha d'silva  ,23/04/2003,F,Comp Sci & Engg,hemalatha.d'silva@meridian.edu,6890243537,Trivandrum,2022-08-01,94.6,95
+MU23CSE7026,Swetha Das,2004/03/02,MALE,Computer Science and Engineering,swetha.das@meridian.edu,(044) 4910 0111,Chennai,2023-08-01,85.2,76
+MU21BAD7027,Rajesh Sharma,21-07-2005,M,Business Administration,rajesh.sharma@meridian.edu,06752579935,Bengaluru,2021-08-01,76.4,67
+MU22ITE7028,Subramanian Kumar,16-08-2003,M,Information Technology,subramanian.kumar@meridian.edu,+91-8174544636,Kochi,2022-08-01,125.0,79
+MU24ITE7029,  gayathri gupta  ,2004/04/25,MALE,Information Technology,gayathri.gupta@meridian.edu,06053681427,Madurai,2024-08-01,83.2,66
+MU21ECE7030,Lavanya Menon,2006-09-24,MALE,Electronics and Communication Engineering,lavanya.menon@meridian.edu,07713054471,Kanchipuram,2021-08-01,71.9,78
+MU24BAD7031,Yamini Gupta,02-04-2003,MALE,Business Administration,yamini.gupta@meridian.edu,86871 04675,Hyderabad,2024-08-01,93.1,73
+MU21ECE7032,Sneha Fernandez,2005/05/10,MALE,Electronics and Communication Engineering,sneha.fernandez@meridian.edu,(044) 0703 5593,Thanjavur,2021-08-01,82.8,64
+MU24CSE7033,Uma Verma,N/A,M,Computer Science and Engineering,uma.verma@meridian.edu,8529867578,Madurai,2024-08-01,77.5,67
+MU21ITE7034,Revathi Nathan,2004-04-02,M,information technology,revathi.nathan@meridian.edu,70347,Vellore,2021-08-01,125.0,63
+MU24MEC7035,Jayanth Menon,04-10-2006,Female,Mechanical Engineering,jayanth.menon@meridian.edu,+91-7128488346,Erode,2024-08-01,84.0,90
+MU23ECE7036,Rohit Singh,05-06-2006,F,Electronics and Communication Engineering,rohit.singh@meridian.edu,87848-93873,Vellore,2023-08-01,-5.0,550
+MU22ECE7037,Mohammed Patel,20-01-2003,Female,Electronics and Communication Engineering,mohammed.patel@meridian.edu,73799 38914,Coimbatore,2022-08-01,76.0,66
+MU21ECE7038,  karthik joshi  ,N/A,MALE,Electronics and Communication Engineering,karthik.joshi@meridian.edu,62592-38266,Hyderabad,2021-08-01,58.4,40
+MU24CIV7039,Uma Pereira,2005-02-30,M,Civil Engineering,uma.pereira@meridian.edu,(044) 1192 7502,Hyderabad,2024-08-01,87.4,56
+MU21CSE7040,Monika R,N/A,M,Computer Science and Engineering,monika.r@meridian.edu,63115,Kochi,2021-08-01,88.1,72
+MU21CIV7041,Lavanya Sundaram,2005/11/01,F,Civil Engineering,lavanya.sundaram@meridian.edu,7445193196,Thanjavur,2021-08-01,82.5,90
+MU24BAD7042,Yamini Sharma,21-Apr-2004,F,Business Administration,yamini.sharma@meridian.edu,67557,Trivandrum,2024-08-01,79.3,40
+MU22ITE7043,  priya das  ,2004/05/18,Female,Information Technology,priya.das@meridian.edu,75368-15589,Tirunelveli,2022-08-01,62.6,85
+MU21ECE7044,  jayanth singh  ,N/A,M,Electronics and Communication Engineering,jayanth.singh@meridian.edu,86864-89427,Tirunelveli,2021-08-01,98.0,70
+MU22ECE7045,Rohit Irfan,02-11-2003,MALE,Electronics and Communication Engineering,rohit.irfan@meridian.edu,99373,Vellore,2022-08-01,73.0,52
+MU21CSE7046,Rajesh Patel,N/A,M,Computer Science and Engineering,rajesh.patel@meridian.edu,92658 84897,Erode,2021-08-01,85.5,46
+MU23MEC7047,Monika Pereira,24-06-2006,M,Mechanical Engineering,monika.pereira@meridian.edu,8739536707,Vellore,2023-08-01,67.5,73
+MU22CSE7048,Yamini Iyer,2006-07-22,F,Computer Science and Engineering,yamini.iyer@meridian.edu,(044) 2137 3139,Bengaluru,2022-08-01,81.0,68
+MU23CSE7049,Jagan K,22-05-2005,MALE,comp sci,jagan.k@meridian.edu,(044) 1600 9723,Chennai,2023-08-01,90.6,54
+MU22CIV7050,Ishwarya Gupta,2002/08/25,F,Civil Engineering,ishwarya.gupta@meridian.edu,(044) 1655 8228,Tirunelveli,2022-08-01,68.1,66
+MU21BAD7051,Aarav Joshi,2002/07/28,M,Business Administration,aarav.joshi@meridian.edu,+91-8234791507,Mysuru,2021-08-01,80.7,67
+MU21ECE7052,Divya Kumar,2005-02-30,MALE,Electronics and Communication Engineering,divya.kumar@meridian.edu,(044) 6084 7234,Salem,2021-08-01,98.0,63
+MU22BAD7053,Ishwarya R,2005-02-30,F,Business Management,ishwarya.r@meridian.edu,(044) 5341 8354,Trivandrum,2022-08-01,86.4,63
+MU24ECE7054,Mohammed de Souza,2005-02-30,F,Electronics and Communication Engineering,mohammed.de souza@meridian.edu,87534,Mysuru,2024-08-01,83.2,65
+MU21MEC7055,Bhavna Rao,11/10/2005,Female,Mechanical Engineering,bhavna.rao@meridian.edu,86432-10655,Hyderabad,2021-08-01,76.1,94
+MU22CIV7056,Suresh Banerjee,06-Jun-2004,MALE,Civil Engineering,suresh.banerjee@meridian.edu,84340,Bengaluru,2022-08-01,76.6,95
+MU21MEC7057,  pradeep rao  ,2002/11/08,F,Mechanical Engineering,pradeep.rao@meridian.edu,79078 99843,Chennai,2021-08-01,72.6,65
+MU23ECE7058,Aarav Banerjee,2002/06/25,Female,Electronics and Communication Engineering,aarav.banerjee@meridian.edu,09063773856,Kanchipuram,2023-08-01,91.1,40
+MU21MEC7059,Ashwin Iyer,03-10-2004,MALE,Mech. Engineering,ashwin.iyer@meridian.edu,+91-6698312934,Erode,2021-08-01,63.3,72
+MU23CSE7060,Harish Fernandez,15-Oct-2006,F,CSE,harish.fernandez@meridian.edu,64678 32292,Bengaluru,2023-08-01,84.8,80
+MU21ECE7061,Rajesh Choudhury,19/12/2004,F,Electronics and Communication Engineering,rajesh.choudhury@meridian.edu,(044) 6536 4272,Mysuru,2021-08-01,76.7,550
+MU22BAD7062,Bhavna Kumar,12-03-2006,F,Business Administration,bhavna.kumar@meridian.edu,84138-51703,Bengaluru,2022-08-01,88.3,78
+MU22BAD7063,  rahul d'silva  ,N/A,M,Business Administration,rahul.d'silva@meridian.edu,+91-8156267226,Trivandrum,2022-08-01,68.6,73
+MU22ITE7064,Naveen Choudhury,N/A,Female,Information Technology,naveen.choudhury@meridian.edu,09508774626,Madurai,2022-08-01,98.0,73
+MU24MEC7065,Aarav Menon,2004-08-08,F,Mechanical Engineering,aarav.menon@meridian.edu,73767-52658,Trivandrum,2024-08-01,68.0,65
+MU24BAD7066,Meena Nair,22/03/2003,Female,Business Administration,meena.nair@meridian.edu,9265110078,Kochi,2024-08-01,76.3,76
+MU24BAD7067,Rohit Pereira,2005/12/01,F,Management,rohit.pereira@meridian.edu,+91-9402264965,Bengaluru,2024-08-01,89.1,58
+MU24CIV7068,Ashwin Verma,2006-03-28,MALE,Civil Engineering,ashwin.verma@meridian.edu,8915921354,Hyderabad,2024-08-01,73.4,86
+MU21BAD7069,Gayathri Das,20-Jul-2002,Female,Business Administration,gayathri.das@meridian.edu,7150142918,Salem,2021-08-01,87.5,91
+MU21CIV7070,Revathi Sharma,13-Apr-2003,M,Civil Engineering,revathi.sharma@meridian.edu,7730752170,Mysuru,2021-08-01,65.1,58
+MU24ECE7071,Sneha Gupta,28-05-2003,Female,Electronics and Communication Engineering,sneha.gupta@meridian.edu,6338319370,Tirunelveli,2024-08-01,90.2,58
+MU21ITE7072,Gayathri Rao,24-Nov-2004,MALE,Info Tech,gayathri.rao@meridian.edu,87050,Chennai,2021-08-01,83.3,71
+MU21MEC7073,Bhavna Gupta,10/01/2002,F,Mechanical Engineering,bhavna.gupta@meridian.edu,74326-39505,Bengaluru,2021-08-01,72.4,92
+MU23MEC7074,Manoj Irfan,2003-09-25,Female,Mechanical Engineering,manoj.irfan@meridian.edu,77875 49804,Hyderabad,2023-08-01,79.8,64
+MU22CIV7075,Sandhya Das,N/A,F,Civil Engineering,sandhya.das@meridian.edu,84262,Thanjavur,2022-08-01,78.3,75
+MU21ITE7076,Swetha Verma,08-01-2004,F,Information Technology,swetha.verma@meridian.edu,6192032664,Vellore,2021-08-01,63.9,59
+MU21ITE7077,Lavanya Bose,24-Oct-2002,M,Information Technology,lavanya.bose@meridian.edu,80303,Bengaluru,2021-08-01,66.9,41
+MU23ECE7078,Varun Joshi,18-Mar-2006,F,Electronics & Comm.,varun.joshi@meridian.edu,(044) 7869 4685,Salem,2023-08-01,89.9,92
+MU23BAD7079,Harish Fernandez,27-04-2003,F,Business Administration,harish.fernandez@meridian.edu,6301686860,Erode,2023-08-01,92.1,-15
+MU24ECE7080,Ezhil Joshi,12-07-2006,M,Electronics and Communication Engineering,ezhil.joshi@meridian.edu,(044) 1796 7624,Tirunelveli,2024-08-01,84.0,81
+MU22ITE7081,Vasanth Iyengar,11-Mar-2002,M,I.T.,vasanth.iyengar@meridian.edu,06831430327,Kochi,2022-08-01,74.2,-15
+MU23ECE7082,Subramanian Singh,2006/05/11,F,Electronics and Communication Engineering,subramanian.singh@meridian.edu,(044) 4382 9913,Kanchipuram,2023-08-01,68.6,56
+MU22ITE7083,Varun Pillai,2003-12-04,F,Information Technology,varun.pillai@meridian.edu,69491,Hyderabad,2022-08-01,71.5,61
+MU22ECE7084,Ishwarya Kumar,05-11-2004,M,Electronics & Comm.,ishwarya.kumar@meridian.edu,68976-70763,Vellore,2022-08-01,69.7,85
+MU21MEC7085,Lakshmi R,N/A,Female,Mechanical Engineering,lakshmi.r@meridian.edu,09931157010,Vellore,2021-08-01,69.1,65
+MU21CSE7086,Lakshmi de Souza,27/12/2002,F,Computer Science and Engineering,lakshmi.de souza@meridian.edu,63802-99944,Trichy,2021-08-01,73.5,95
+MU23MEC7087,Karthik Patel,14/06/2002,Female,Mechanical Engineering,karthik.patel@meridian.edu,8835533600,Tirunelveli,2023-08-01,70.8,78
+MU21MEC7088,Subramanian Singh,02-09-2002,F,mechanical,subramanian.singh@meridian.edu,(044) 9408 0936,Madurai,2021-08-01,98.0,550
+MU23ITE7089,Hemalatha de Souza,08-05-2006,F,Infotech,hemalatha.de souza@meridian.edu,(044) 2870 3774,Erode,2023-08-01,71.5,-15
+MU21CIV7090,Pradeep Kumar,23-Nov-2003,MALE,Civil Engineering,pradeep.kumar@meridian.edu,89224-14200,Kanchipuram,2021-08-01,66.5,89
+MU22BAD7091,Bhavna Fernandez,2005-02-30,MALE,Business Administration,bhavna.fernandez@meridian.edu,73416,Thanjavur,2022-08-01,75.1,86
+MU24BAD7092,Sneha R,11-04-2002,MALE,Business Administration,sneha.r@meridian.edu,(044) 2099 0554,Trivandrum,2024-08-01,85.3,72
+MU24MEC7093,Pavithra Irfan,2005-02-30,MALE,Mechanical Engineering,pavithra.irfan@meridian.edu,78926 88999,Chennai,2024-08-01,89.6,67
+MU22BAD7094,Priya Iyer,N/A,F,Business Administration,priya.iyer@meridian.edu,98670 80459,Erode,2022-08-01,90.6,53
+MU21CSE7095,Farhan Iyer,19/03/2006,F,Computer Science and Engineering,farhan.iyer@meridian.edu,07951575140,Bengaluru,2021-08-01,-5.0,88
+MU24BAD7096,Tarun Verma,11-04-2003,MALE,Business Administration,tarun.verma@meridian.edu,(044) 2190 9725,Kochi,2024-08-01,-5.0,78
+MU22CIV7097,Anitha Patel,2004-07-09,Female,Civil Engineering,anitha.patel@meridian.edu,98346-67229,Kanchipuram,2022-08-01,75.8,64
+MU21MEC7098,Dinesh Murugan,09-06-2002,M,Mechanical Engineering,dinesh.murugan@meridian.edu,(044) 6181 9245,Tirunelveli,2021-08-01,73.0,90
+MU23BAD7099,Zeeshan Banerjee,24/11/2004,F,Business Administration,zeeshan.banerjee@meridian.edu,60475 65277,Hyderabad,2023-08-01,64.6,83
+MU22CSE7100,  rohit das  ,06-01-2003,F,Computer Science and Engineering,rohit.das@meridian.edu,6220734128,Thanjavur,2022-08-01,84.8,65
+MU24ITE7101,Ezhil Gupta,2005-02-30,M,Information Technology,ezhil.gupta@meridian.edu,68460 37463,Vellore,2024-08-01,79.1,81
+MU24CIV7102,Manoj Reddy,03-02-2003,F,Civil Engineering,manoj.reddy@meridian.edu,08370239710,Trichy,2024-08-01,74.0,50
+MU24CSE7103,Deepa Banerjee,N/A,MALE,Computer Science and Engineering,deepa.banerjee@meridian.edu,78497,Hyderabad,2024-08-01,82.8,60
+MU24MEC7104,Indumathi de Souza,19-08-2002,MALE,Mechanical Engineering,indumathi.de souza@meridian.edu,76567,Bengaluru,2024-08-01,75.9,72
+MU21MEC7105,Varun Rao,24-11-2004,F,Mechanical Engineering,varun.rao@meridian.edu,(044) 9422 5158,Thanjavur,2021-08-01,87.4,95
+MU22CSE7106,Yamini Irfan,2005-02-30,F,Computer Science and Engineering,yamini.irfan@meridian.edu,06637137638,Trichy,2022-08-01,83.4,73
+MU22MEC7107,Dinesh Menon,09-06-2005,M,Mechanical Engineering,dinesh.menon@meridian.edu,6522995766,Madurai,2022-08-01,88.2,76
+MU24CSE7108,Ashwin K,N/A,MALE,Computer Science and Engineering,ashwin.k@meridian.edu,87627,Mysuru,2024-08-01,63.1,63
+MU23BAD7109,Nithya Fernandez,2005-02-30,Female,Business Administration,nithya.fernandez@meridian.edu,64592,Kochi,2023-08-01,67.6,81
+MU22ITE7110,Vijay Sharma,2006/04/22,MALE,Information Technology,vijay.sharma@meridian.edu,+91-8622645556,Chennai,2022-08-01,92.7,76
+MU23CIV7111,Vijay Irfan,22-08-2003,M,Civil Engineering,vijay.irfan@meridian.edu,65240 94421,Thanjavur,2023-08-01,69.7,-15
+MU21BAD7112,Ashwin Gupta,N/A,MALE,Business Administration,ashwin.gupta@meridian.edu,88787,Kanchipuram,2021-08-01,70.4,75
+MU22CIV7113,Vijay Choudhury,28-01-2003,Female,Civil Engineering,vijay.choudhury@meridian.edu,(044) 2748 4733,Trivandrum,2022-08-01,68.0,120
+MU22ITE7114,Charulatha Nathan,2005-02-30,Female,I.T.,charulatha.nathan@meridian.edu,82579 78730,Madurai,2022-08-01,66.0,72
+MU24CSE7115,Revathi Fernandez,2005/10/01,F,Computer Science and Engineering,revathi.fernandez@meridian.edu,96621-71061,Erode,2024-08-01,73.4,78
+MU21ITE7116,Tharani D'Silva,01-Jun-2005,M,Information Technology,tharani.d'silva@meridian.edu,+91-6575059861,Madurai,2021-08-01,67.0,78
+MU21BAD7117,Nithya Nathan,14-12-2002,Female,Business Administration,nithya.nathan@meridian.edu,97340,Vellore,2021-08-01,73.8,89
+MU23CIV7118,Suresh Das,2002-02-21,F,Civil Engineering,suresh.das@meridian.edu,6403873211,Tirunelveli,2023-08-01,90.2,68
+MU22MEC7119,  anitha irfan  ,21/07/2004,Female,Mech Engg,anitha.irfan@meridian.edu,(044) 7996 7792,Erode,2022-08-01,81.1,75
+MU24BAD7120,Indumathi de Souza,2002-05-06,F,Business Administration,indumathi.de souza@meridian.edu,+91-9160184043,Madurai,2024-08-01,84.6,68
+MU22MEC7121,Suresh Choudhury,2005-02-30,M,Mechanical Engineering,suresh.choudhury@meridian.edu,09459534078,Hyderabad,2022-08-01,91.0,64
+MU24ECE7122,Abishek Choudhury,2005-02-30,F,Electronics and Communication Engineering,abishek.choudhury@meridian.edu,8260598536,Coimbatore,2024-08-01,60.7,75
+MU23BAD7123,Tharani de Souza,2005-02-30,M,Business Administration,tharani.de souza@meridian.edu,60087,Madurai,2023-08-01,78.9,83
+MU21ITE7124,Subramanian Gupta,2005-02-30,MALE,Information Technology,subramanian.gupta@meridian.edu,+91-6267260823,Hyderabad,2021-08-01,125.0,73
+MU23ITE7125,Lakshmi Fernandez,09-07-2006,F,Information Technology,lakshmi.fernandez@meridian.edu,9553881632,Hyderabad,2023-08-01,81.1,73
+MU22CSE7126,Bhavna Nathan,23-Jun-2003,Female,Computer Science and Engineering,bhavna.nathan@meridian.edu,06474225022,Tirunelveli,2022-08-01,73.4,-15
+MU21MEC7127,Suresh Irfan,26/01/2003,M,Mechanical Engineering,suresh.irfan@meridian.edu,88853,Coimbatore,2021-08-01,71.8,70
+MU21CSE7128,Sneha Kumar,08-05-2005,F,Computer Science and Engineering,sneha.kumar@meridian.edu,(044) 5356 0766,Erode,2021-08-01,57.3,65
+MU21BAD7129,Nithya D'Silva,2003/06/27,F,Business Administration,nithya.d'silva@meridian.edu,+91-7637645814,Tirunelveli,2021-08-01,70.2,70
+MU21CIV7130,Jagan Joshi,14-04-2004,M,Civil Engineering,jagan.joshi@meridian.edu,78477,Kanchipuram,2021-08-01,71.9,72
+MU23ITE7131,Varun Reddy,2002/07/20,F,Information Technology,varun.reddy@meridian.edu,81717,Kanchipuram,2023-08-01,77.7,90
+MU24ITE7132,Tarun Gupta,N/A,F,Information Technology,tarun.gupta@meridian.edu,99386,Madurai,2024-08-01,76.6,68
+MU23BAD7133,Vasanth Murugan,07-08-2005,MALE,Business Administration,vasanth.murugan@meridian.edu,8341909021,Thanjavur,2023-08-01,80.3,46
+MU22MEC7134,Arun R,20/10/2004,M,Mechanical Engineering,arun.r@meridian.edu,87254 24650,Vellore,2022-08-01,69.3,92
+MU22ITE7135,Karthik Das,N/A,Female,Information Technology,karthik.das@meridian.edu,84739-73738,Madurai,2022-08-01,85.2,73
+MU24ITE7136,Revathi Singh,01/12/2006,F,Information Technology,revathi.singh@meridian.edu,72687 37896,Trivandrum,2024-08-01,125.0,-15
+MU23BAD7137,Ezhil Sharma,2006-08-19,M,Business Administration,ezhil.sharma@meridian.edu,74400-17342,Kochi,2023-08-01,77.5,67
+MU21ECE7138,Keerthi Pereira,23-01-2006,F,Electronics and Communication Engineering,keerthi.pereira@meridian.edu,(044) 7415 6343,Salem,2021-08-01,62.2,85
+MU24CSE7139,Aarav Verma,25/11/2005,Female,Computer Science and Engineering,aarav.verma@meridian.edu,7518679047,Bengaluru,2024-08-01,78.1,70
+MU23ITE7140,Charulatha Das,03-05-2004,F,Information Technology,charulatha.das@meridian.edu,09525278245,Trichy,2023-08-01,76.7,63
+MU22ITE7141,Uma Banerjee,25-Jan-2004,M,Information Technology,uma.banerjee@meridian.edu,09551798262,Chennai,2022-08-01,57.4,74
+MU23ECE7142,Pradeep Reddy,2005-02-30,Female,Electronics and Communication Engineering,pradeep.reddy@meridian.edu,09845348895,Trichy,2023-08-01,98.0,85
+MU21BAD7143,Keerthi Banerjee,09-Nov-2003,MALE,Business Administration,keerthi.banerjee@meridian.edu,6182906532,Mysuru,2021-08-01,77.1,59
+MU23CIV7144,Pradeep Nair,N/A,MALE,Civil Engineering,pradeep.nair@meridian.edu,09685993544,Bengaluru,2023-08-01,80.3,77
+MU22BAD7145,Priya Patel,2006-08-14,Female,Business Administration,priya.patel@meridian.edu,06291056298,Madurai,2022-08-01,-5.0,83
+MU21ECE7146,Anitha D'Silva,07-08-2005,M,Electronics and Communication Engineering,anitha.d'silva@meridian.edu,(044) 6900 9240,Madurai,2021-08-01,70.5,86
+MU22CSE7147,Farhan Gupta,09-Jun-2006,Female,Computer Science and Engineering,farhan.gupta@meridian.edu,(044) 1476 6679,Madurai,2022-08-01,81.6,64
+MU21MEC7148,Sandhya Gupta,N/A,MALE,Mechanical Engineering,sandhya.gupta@meridian.edu,+91-6744759459,Thanjavur,2021-08-01,77.2,76
+MU21ECE7149,Lakshmi Iyer,N/A,MALE,Electronics and Communication Engineering,lakshmi.iyer@meridian.edu,8072901616,Salem,2021-08-01,87.6,73
+MU23BAD7150,Revathi Venkatesh,01-10-2003,Female,Business Administration,revathi.venkatesh@meridian.edu,68034,Vellore,2023-08-01,85.8,95
+MU21BAD7151,Revathi K,01/01/2004,Female,Business Administration,revathi.k@meridian.edu,+91-9267965896,Salem,2021-08-01,63.6,43
+MU24ITE7152,Swetha Nathan,2006/11/26,M,Information Technology,swetha.nathan@meridian.edu,75428-98963,Chennai,2024-08-01,80.9,58
+MU23BAD7153,  deepa patel  ,06/02/2005,MALE,Business Administration,deepa.patel@meridian.edu,09898570628,Hyderabad,2023-08-01,81.1,49
+MU24ITE7154,Tarun Irfan,12/05/2003,F,Information Technology,tarun.irfan@meridian.edu,+91-8755181923,Vellore,2024-08-01,81.3,90
+MU24CSE7155,Naveen Iyer,27-Jan-2002,MALE,Computer Science and Engineering,naveen.iyer@meridian.edu,(044) 8560 3631,Bengaluru,2024-08-01,91.1,56
+MU23ECE7156,Anitha Iyengar,05-01-2005,M,Electronics and Communication Engineering,anitha.iyengar@meridian.edu,67886-95141,Erode,2023-08-01,76.9,84
+MU23ECE7157,Bhavna Venkatesh,02-04-2004,MALE,ECE,bhavna.venkatesh@meridian.edu,77801,Vellore,2023-08-01,98.0,58
+MU22CSE7158,  jagan sundaram  ,04/04/2002,MALE,Computer Science,jagan.sundaram@meridian.edu,9614053662,Vellore,2022-08-01,71.5,87
+MU24ITE7159,Gayathri Pillai,07-09-2003,M,Information Technology,gayathri.pillai@meridian.edu,(044) 9926 0242,Vellore,2024-08-01,76.4,57
+MU21BAD7160,Gita Patel,05-08-2003,Female,Business Administration,gita.patel@meridian.edu,83717 99959,Vellore,2021-08-01,90.5,48
+MU22BAD7161,Deepa Sharma,N/A,M,Business Administration,deepa.sharma@meridian.edu,+91-8417326332,Salem,2022-08-01,73.2,85
+MU23BAD7162,Pradeep K,02-02-2002,F,Business Administration,pradeep.k@meridian.edu,06223353442,Thanjavur,2023-08-01,-5.0,82
+MU24CSE7163,Kavitha K,2003-07-04,F,Computer Science and Engineering,kavitha.k@meridian.edu,7293284993,Trivandrum,2024-08-01,67.7,82
+MU24CSE7164,Aarav Iyengar,08/12/2005,MALE,Computer Science and Engineering,aarav.iyengar@meridian.edu,96293-56229,Erode,2024-08-01,84.7,94
+MU21CIV7165,Rohit Reddy,11-03-2003,M,Civil Engineering,rohit.reddy@meridian.edu,8312841932,Kanchipuram,2021-08-01,77.5,67
+MU21ITE7166,Vasanth de Souza,N/A,Female,Information Technology,vasanth.de souza@meridian.edu,+91-7712468859,Coimbatore,2021-08-01,79.0,86
+MU21MEC7167,Anitha Balaji,N/A,Female,Mechanical Engineering,anitha.balaji@meridian.edu,68154 81179,Trichy,2021-08-01,72.6,70
+MU24ITE7168,Pradeep Iyengar,21-04-2004,F,Information Technology,pradeep.iyengar@meridian.edu,+91-8549671365,Bengaluru,2024-08-01,125.0,82
+MU24ECE7169,Sandhya Choudhury,06-12-2003,MALE,Electronics & Comm Engg,sandhya.choudhury@meridian.edu,66048 65191,Madurai,2024-08-01,87.2,64
+MU24ECE7170,Kavitha Gupta,02-May-2005,Female,Electronics and Communication Engineering,kavitha.gupta@meridian.edu,97730 68710,Kanchipuram,2024-08-01,88.6,550
+MU24ECE7171,Nithya Gupta,13-Mar-2002,MALE,Electronics and Communication Engineering,nithya.gupta@meridian.edu,+91-7856954787,Coimbatore,2024-08-01,65.1,58
+MU21CIV7172,Zeeshan R,2005-02-30,MALE,Civil Engineering,zeeshan.r@meridian.edu,9858057724,Trichy,2021-08-01,94.2,74
+MU24ITE7173,Ezhil de Souza,2005-07-14,F,Information Technology,ezhil.de souza@meridian.edu,88611-30606,Erode,2024-08-01,70.7,66
+MU22BAD7174,Pavithra Singh,2004-04-13,MALE,Business Administration,pavithra.singh@meridian.edu,76028,Kochi,2022-08-01,84.5,88
+MU21ECE7175,Priya Joshi,2005-10-28,Female,Electronics and Communication Engineering,priya.joshi@meridian.edu,+91-7937817276,Erode,2021-08-01,63.7,90
+MU24MEC7176,Gita Das,2004-08-25,F,Mechanical Engineering,gita.das@meridian.edu,8248297208,Bengaluru,2024-08-01,89.3,62
+MU22CIV7177,Rajesh Menon,N/A,Female,Civil Engineering,rajesh.menon@meridian.edu,65598,Kochi,2022-08-01,76.0,78
+MU21ECE7178,Ishwarya Iyer,2003/11/20,F,Electronics and Communication Engineering,ishwarya.iyer@meridian.edu,78515 89145,Vellore,2021-08-01,77.1,120
+MU23MEC7179,Manoj R,2005-02-30,F,Mechanical Engineering,manoj.r@meridian.edu,(044) 4221 2537,Vellore,2023-08-01,69.4,46
+MU23ECE7180,Gayathri Sharma,04-11-2005,MALE,Electronics and Communication Engineering,gayathri.sharma@meridian.edu,9704945497,Erode,2023-08-01,98.0,74
+MU23ECE7181,Tharani Balaji,02-05-2005,M,Electronics and Communication Engineering,tharani.balaji@meridian.edu,07381830460,Trichy,2023-08-01,82.2,79
+MU22ITE7182,Divya Singh,2002-12-28,Female,Information Technology,divya.singh@meridian.edu,75899-62830,Trichy,2022-08-01,93.4,85
+MU23CSE7183,Sandhya Nathan,14-01-2005,F,Computer Science and Engineering,sandhya.nathan@meridian.edu,95375,Salem,2023-08-01,69.7,70
+MU24ECE7184,Pradeep Choudhury,2005-02-30,M,Electronics and Communication Engineering,pradeep.choudhury@meridian.edu,(044) 5925 2283,Chennai,2024-08-01,80.7,82
+MU22MEC7185,Uma Nair,01-06-2004,Female,Mechanical Engineering,uma.nair@meridian.edu,83080,Salem,2022-08-01,74.0,77
+MU23CSE7186,Vijay R,2004/11/01,Female,Computer Science and Engineering,vijay.r@meridian.edu,09007504389,Hyderabad,2023-08-01,82.3,91
+MU23BAD7187,Pradeep Gupta,2005-02-30,MALE,Business Administration,pradeep.gupta@meridian.edu,6842940660,Trichy,2023-08-01,53.9,73
+MU21MEC7188,  tarun joshi  ,10-09-2003,Female,Mechanical Engineering,tarun.joshi@meridian.edu,(044) 2663 6172,Kanchipuram,2021-08-01,83.4,81
+MU21ITE7189,Charulatha Sundaram,2005-02-30,M,Information Technology,charulatha.sundaram@meridian.edu,91714,Trivandrum,2021-08-01,79.9,60
+MU23BAD7190,Nithya Patel,11-10-2004,MALE,Business Administration,nithya.patel@meridian.edu,+91-9862001387,Hyderabad,2023-08-01,86.7,77
+MU21CIV7191,Sneha Irfan,24-09-2004,Female,Civil Engineering,sneha.irfan@meridian.edu,09756787264,Vellore,2021-08-01,71.6,52
+MU22ECE7192,Ashwin Menon,2005/10/01,M,Electronics,ashwin.menon@meridian.edu,07414624630,Tirunelveli,2022-08-01,85.6,59
+MU23MEC7193,Sanjay R,2002-01-28,Female,Mechanical Engineering,sanjay.r@meridian.edu,09868635785,Chennai,2023-08-01,86.5,93
+MU24BAD7194,Pavithra Sundaram,12-Feb-2003,MALE,Business Administration,pavithra.sundaram@meridian.edu,+91-6444538985,Bengaluru,2024-08-01,125.0,75
+MU21CIV7195,Chirag Banerjee,2005-02-30,MALE,Civil Engineering,chirag.banerjee@meridian.edu,92197-42257,Trivandrum,2021-08-01,81.3,91
+MU23ITE7196,Ishwarya Das,19/02/2004,F,Information Technology,ishwarya.das@meridian.edu,7812912294,Mysuru,2023-08-01,94.0,73
+MU21ECE7197,Ishwarya Sundaram,2005-02-30,MALE,Electronics and Communication Engineering,ishwarya.sundaram@meridian.edu,6122170984,Kanchipuram,2021-08-01,87.4,72
+MU23MEC7198,Tharani Nair,04/01/2006,MALE,Mechanical Engineering,tharani.nair@meridian.edu,+91-7328000635,Madurai,2023-08-01,75.0,82
+MU24ECE7199,Mohammed Rao,03-12-2002,F,Electronics and Communication Engineering,mohammed.rao@meridian.edu,+91-6130474072,Hyderabad,2024-08-01,79.1,60
+MU21MEC7200,Pradeep Venkatesh,2005-02-30,Female,Mechanical Engineering,pradeep.venkatesh@meridian.edu,(044) 7594 3448,Kochi,2021-08-01,65.0,85
+MU23ITE7201,Suresh Pillai,2006-03-06,M,Information Technology,suresh.pillai@meridian.edu,(044) 7217 1709,Salem,2023-08-01,70.4,56
+MU22CSE7202,Gita Fernandez,2002/02/05,M,Computer Science and Engineering,gita.fernandez@meridian.edu,(044) 4584 6384,Erode,2022-08-01,77.4,82
+MU22ITE7203,  revathi bose  ,17-Sep-2005,M,Information Technology,revathi.bose@meridian.edu,80276,Coimbatore,2022-08-01,62.7,80
+MU22CIV7204,  sanjay r  ,05-Aug-2004,Female,Civil Engineering,sanjay.r@meridian.edu,+91-8811996449,Kochi,2022-08-01,83.9,54
+MU23CSE7205,Vijay Choudhury,2005-02-30,MALE,Computer Science and Engineering,vijay.choudhury@meridian.edu,7310022450,Coimbatore,2023-08-01,68.6,69
+MU21ECE7206,Vasanth Balaji,01/06/2005,MALE,Electronics & Comm Engg,vasanth.balaji@meridian.edu,(044) 2011 5093,Chennai,2021-08-01,98.0,-15
+MU21CIV7207,Deepa Fernandez,2006/10/14,F,Civil Engineering,deepa.fernandez@meridian.edu,98415,Trichy,2021-08-01,90.9,85
+MU24ITE7208,Monika Bose,07/01/2006,M,Information Technology,monika.bose@meridian.edu,66528 60521,Trichy,2024-08-01,64.1,71
+MU23CIV7209,Tarun D'Silva,24-06-2003,M,Civil Engineering,tarun.d'silva@meridian.edu,71902 83956,Thanjavur,2023-08-01,-5.0,65
+MU21MEC7210,Karthik Patel,02/10/2003,Female,Mechanical Engineering,karthik.patel@meridian.edu,99984-54197,Mysuru,2021-08-01,92.2,120
+MU23ECE7211,Keerthi Reddy,26-10-2002,MALE,Electronics and Communication Engineering,keerthi.reddy@meridian.edu,(044) 3507 8435,Kochi,2023-08-01,65.3,65
+MU23ITE7212,Subramanian Nathan,2005-02-30,F,Information Technology,subramanian.nathan@meridian.edu,90495,Madurai,2023-08-01,86.6,-15
+MU23CSE7213,Sandhya Banerjee,N/A,Female,Computer Science and Engineering,sandhya.banerjee@meridian.edu,87353-99376,Mysuru,2023-08-01,89.2,50
+MU22CSE7214,Sneha Patel,2003/08/14,M,Computer Science and Engineering,sneha.patel@meridian.edu,88864-53442,Madurai,2022-08-01,74.2,-15
+MU23MEC7215,Mohammed Iyer,2005-02-30,F,Mechanical Engineering,mohammed.iyer@meridian.edu,67031 96537,Thanjavur,2023-08-01,55.5,76
+MU23CIV7216,Keerthi Pillai,07-12-2005,M,Civil Engineering,keerthi.pillai@meridian.edu,(044) 5073 0129,Kochi,2023-08-01,71.1,61
+MU22MEC7217,Jayanth de Souza,2004-01-17,Female,Mechanical Engineering,jayanth.de souza@meridian.edu,8227011918,Chennai,2022-08-01,76.8,51
+MU23CIV7218,Lakshmi S,2005/03/12,F,Civil Engineering,lakshmi.s@meridian.edu,60843,Erode,2023-08-01,89.3,80
+MU22ECE7219,Revathi K,24-Mar-2004,Female,Electronics and Communication Engineering,revathi.k@meridian.edu,73521,Madurai,2022-08-01,-5.0,550
+MU23BAD7220,Arun Fernandez,2003/02/08,Female,Business Administration,arun.fernandez@meridian.edu,60558,Trichy,2023-08-01,70.6,81
+MU21CIV7221,Pavithra S,2005-02-30,MALE,Civil Engineering,pavithra.s@meridian.edu,62779 30529,Tirunelveli,2021-08-01,66.7,59
+MU22BAD7222,Lavanya Iyengar,2004-11-10,M,BBA,lavanya.iyengar@meridian.edu,+91-6784236527,Mysuru,2022-08-01,98.0,87
+MU21CIV7223,  jayanth nair  ,2006-04-19,F,Civil Engineering,jayanth.nair@meridian.edu,67113,Tirunelveli,2021-08-01,84.5,120
+MU24ECE7224,Subramanian R,23-11-2003,F,Electronics and Communication Engineering,subramanian.r@meridian.edu,(044) 5796 3618,Kochi,2024-08-01,77.2,80
+MU22CIV7225,Varun Fernandez,2006-07-07,M,Civil Engineering,varun.fernandez@meridian.edu,85164-52880,Kanchipuram,2022-08-01,71.9,67
+MU24CIV7226,Nithya Fernandez,2005-11-19,M,Civil Engineering,nithya.fernandez@meridian.edu,08523110122,Kochi,2024-08-01,81.0,93
+MU22MEC7227,Zeeshan Bose,2005-02-30,MALE,Mechanical Engineering,zeeshan.bose@meridian.edu,91583 60622,Trichy,2022-08-01,73.1,86
+MU24CIV7228,Dinesh Sharma,12-06-2003,M,Civil Engineering,dinesh.sharma@meridian.edu,60673-18351,Madurai,2024-08-01,80.0,47
+MU22MEC7229,Kavitha Pillai,24/08/2005,Female,Mechanical Engineering,kavitha.pillai@meridian.edu,+91-6107557391,Erode,2022-08-01,60.8,62
+MU21CIV7230,Vijay Sharma,06-08-2003,M,Civil Engineering,vijay.sharma@meridian.edu,9215860204,Trichy,2021-08-01,90.9,75
+MU24ITE7231,Kavitha S,12-03-2004,MALE,Information Technology,kavitha.s@meridian.edu,72474,Trivandrum,2024-08-01,-5.0,74
+MU24ITE7232,Vasanth Patel,2004-04-22,F,Information Technology,vasanth.patel@meridian.edu,(044) 8802 6551,Chennai,2024-08-01,94.3,75
+MU21ECE7233,  pradeep balaji  ,2005-02-30,Female,Electronics and Communication Engineering,pradeep.balaji@meridian.edu,70273,Kanchipuram,2021-08-01,-5.0,82
+MU21ECE7234,Divya O'Brien,N/A,MALE,Electronics & Comm.,divya.o'brien@meridian.edu,84464 19472,Trivandrum,2021-08-01,72.7,52
+MU21BAD7235,Hemalatha Das,01/11/2003,MALE,Business Administration,hemalatha.das@meridian.edu,09270433296,Madurai,2021-08-01,72.6,66
+MU21MEC7236,Yamini Irfan,27-05-2002,Female,Mechanical Engineering,yamini.irfan@meridian.edu,91039,Kanchipuram,2021-08-01,82.6,84
+MU22CSE7237,Jayanth Balaji,09-09-2002,M,Computer Science and Engineering,jayanth.balaji@meridian.edu,60340-52488,Bengaluru,2022-08-01,86.2,95
+MU24ECE7238,Manoj S,2005-02-30,F,Electronics and Communication Engineering,manoj.s@meridian.edu,(044) 6320 9545,Coimbatore,2024-08-01,125.0,69
+MU23CSE7239,Jayanth Joshi,N/A,MALE,Computer Science and Engineering,jayanth.joshi@meridian.edu,84929 02714,Tirunelveli,2023-08-01,98.0,67
+MU24CSE7240,Pradeep S,2004-03-22,Female,Computer Science,pradeep.s@meridian.edu,07951890856,Erode,2024-08-01,67.5,61
+MU23MEC7241,Dinesh Banerjee,19-Dec-2005,F,Mechanical Engineering,dinesh.banerjee@meridian.edu,(044) 7546 2812,Madurai,2023-08-01,70.4,-15
+MU22ECE7242,Sandhya K,2002/02/02,MALE,Electronics and Communication Engineering,sandhya.k@meridian.edu,07145483958,Vellore,2022-08-01,125.0,52
+MU24ITE7243,Jayanth Singh,2003-01-28,F,Information Technology,jayanth.singh@meridian.edu,+91-8843276027,Thanjavur,2024-08-01,73.2,92
+MU22CIV7244,Arun Venkatesh,2005/11/25,MALE,Civil Engineering,arun.venkatesh@meridian.edu,+91-6442077373,Thanjavur,2022-08-01,125.0,-15
+MU21ITE7245,Subramanian Nathan,10/05/2004,M,Information Technology,subramanian.nathan@meridian.edu,07801611647,Salem,2021-08-01,76.4,85
+MU24CSE7246,  sanjay nathan  ,01-03-2005,F,Computer Science and Engineering,sanjay.nathan@meridian.edu,78434,Coimbatore,2024-08-01,70.0,85
+MU21MEC7247,  swetha das  ,2002/08/11,MALE,Mechanical Engineering,swetha.das@meridian.edu,62809 42304,Kanchipuram,2021-08-01,81.5,69
+MU21ECE7248,Vasanth Bose,16-Sep-2003,MALE,Electronics and Communication Engineering,vasanth.bose@meridian.edu,8449877054,Trivandrum,2021-08-01,74.9,85
+MU23ECE7249,Rajesh Banerjee,08-Aug-2006,Female,Electronics and Communication Engineering,rajesh.banerjee@meridian.edu,07527628321,Kanchipuram,2023-08-01,83.6,120
+MU23MEC7250,Ezhil Menon,11-02-2006,F,Mechanical Engineering,ezhil.menon@meridian.edu,(044) 6871 9519,Tirunelveli,2023-08-01,81.4,57
+MU21ITE7251,Kavitha Banerjee,13-06-2003,MALE,Information Technology,kavitha.banerjee@meridian.edu,7215120359,Trivandrum,2021-08-01,93.1,91
+MU24BAD7252,Vignesh Kumar,2003-05-09,M,Business Administration,vignesh.kumar@meridian.edu,(044) 4459 1112,Trichy,2024-08-01,91.7,76
+MU21BAD7253,Dinesh Iyer,2005-02-30,Female,Business Administration,dinesh.iyer@meridian.edu,8623629060,Bengaluru,2021-08-01,85.4,53
+MU23CSE7254,Aarav K,10/01/2004,Female,Computer Science and Engineering,aarav.k@meridian.edu,+91-9785935525,Erode,2023-08-01,76.6,69
+MU24MEC7255,Divya Fernandez,2005-02-30,M,Mechanical Engineering,divya.fernandez@meridian.edu,(044) 3209 7301,Mysuru,2024-08-01,79.0,81
+MU22MEC7256,Chirag Iyengar,08-Apr-2006,Female,Mechanical Engineering,chirag.iyengar@meridian.edu,8960900453,Madurai,2022-08-01,75.9,62
+MU23MEC7257,Vijay Rao,04-Apr-2005,F,Mech Engg,vijay.rao@meridian.edu,7180157782,Tirunelveli,2023-08-01,92.4,68
+MU22CIV7258,  naveen reddy  ,2002-04-12,F,Civil Engineering,naveen.reddy@meridian.edu,65196 13627,Mysuru,2022-08-01,73.9,44
+MU21CSE7259,Harish Sharma,2006/06/08,F,Computer Science and Engineering,harish.sharma@meridian.edu,8140677186,Erode,2021-08-01,66.6,69
+MU24AER0999,Kavitha R,2005-04-12,Female,Aeronautical Engineering,kavitha.r@meridian.edu,9840012345,Chennai,2024-08-01,82.0,75
+mu24cse1111,   john   o'brien   ,12/05/2004,male,   computer science   ,john.obrien@meridian.edu,+91-9840012345,chennai,01-Aug-2024,90.0,88
+MU23BAD0888,Suresh Kumar,-,-,MBA,suresh.kumar@meridian.edu,NA,Madurai,2023-07-15,NA,?

@@ -1,0 +1,201 @@
+patient_id,full_name,gender,dob,phone,visit_date,department,fee_paid,dob_missing,phone_missing,fee_missing
+P1056,Divya S,F,2002-07-12,8601463916,2026-10-24,Cardiology,500.00,False,False,False
+P1067,Divya Menon,F,1968-07-06,8368227631,2026-10-03,General Medicine,0.00,False,False,True
+P1074,Suresh Reddy,F,1990-04-28,9276777762,2026-10-13,Paediatrics,850.00,False,False,False
+P1152,Prakash Irfan,F,1978-04-02,7682177668,2026-10-02,Cardiology,500.00,False,False,False
+P1164,Lakshmi S,M,1964-10-03,8228727266,2026-10-19,General Medicine,1500.00,False,False,False
+P1072,Sneha N,F,2002-12-11,,2026-10-05,Paediatrics,850.00,False,True,False
+P1010,Mohammed Menon,F,1992-05-05,9362298393,2026-10-12,ENT,1200.50,False,False,False
+P1041,Lakshmi Kumar,M,2002-02-05,9214929002,2026-10-24,ENT,850.00,False,False,False
+P1041,Kavitha Menon,F,1976-01-03,8147337803,2026-10-01,ENT,2250.00,False,False,False
+P1160,Ravi S,F,2004-03-18,8725464884,2026-10-18,Paediatrics,600.00,False,False,False
+P1164,Deepak R,F,,8766430218,2026-10-24,ENT,600.00,True,False,False
+P1109,Rahul R,M,1970-12-04,9605399561,2026-10-08,Paediatrics,850.00,False,False,False
+P1062,Divya Reddy,F,1977-02-25,8788785773,2026-10-17,General Medicine,850.00,False,False,False
+P1058,Anitha S,M,1982-12-26,8750911797,2026-10-17,Paediatrics,0.00,False,False,True
+P1078,Rahul S,F,1999-06-22,7422468580,2026-10-17,Paediatrics,850.00,False,False,False
+P1082,Nandhini Irfan,M,1985-09-27,8408071259,2026-10-07,General Medicine,1500.00,False,False,False
+P1130,Prakash Irfan,F,,8200273738,2026-10-25,Orthopaedics,600.00,True,False,False
+P1022,Mohammed Sharma,M,2000-10-07,8529123992,2026-10-08,Cardiology,500.00,False,False,False
+P1099,Anitha Menon,F,2014-02-15,8816806128,2026-10-17,General Medicine,850.00,False,False,False
+P1101,Meena Irfan,F,,7397760792,2026-10-25,Paediatrics,2250.00,True,False,False
+P1072,Sneha Nair,F,1968-03-08,7264073400,2026-10-23,Cardiology,0.00,False,False,True
+P1073,Swathi Kumar,M,1990-01-12,8997356828,2026-10-14,General Medicine,1500.00,False,False,False
+P1046,Sneha Reddy,M,2013-08-05,,2026-10-13,General Medicine,2250.00,False,True,False
+P1030,Anitha N,M,1980-04-15,8917364173,2026-10-13,Paediatrics,0.00,False,False,True
+P1122,Mohammed Kumar,M,1975-04-27,7263619298,2026-10-08,Paediatrics,2250.00,False,False,False
+P1158,Suresh Babu,F,2009-03-10,7127571992,2026-10-10,Paediatrics,1200.50,False,False,False
+P1100,Karthik N,F,2010-10-26,8672030854,2026-10-14,Cardiology,1500.00,False,False,False
+P1045,Rahul Nair,F,2005-03-14,7660221300,2026-10-21,General Medicine,1500.00,False,False,False
+P1029,Arjun S,M,1988-04-25,7755338677,2026-10-22,Orthopaedics,500.00,False,False,False
+P1061,Sneha N,M,1995-01-17,9359154084,2026-10-24,Paediatrics,1500.00,False,False,False
+P1162,Mohammed N,F,1985-12-08,7724440558,2026-10-12,General Medicine,1500.00,False,False,False
+P1008,Meena N,M,1976-04-04,8228370927,2026-10-24,ENT,600.00,False,False,False
+P1126,Ganesh N,F,,,2026-10-10,General Medicine,600.00,True,True,False
+P1123,Prakash S,M,1996-05-16,8465830215,2026-10-06,Orthopaedics,0.00,False,False,True
+P1088,Priya Babu,M,1965-04-04,8751028618,2026-10-20,ENT,1500.00,False,False,False
+P1104,Vikram Babu,M,1999-12-04,7326586581,2026-10-09,ENT,600.00,False,False,False
+P1060,Ganesh Sharma,M,1962-04-10,7587512424,2026-10-03,Orthopaedics,2250.00,False,False,False
+P1013,Arjun Irfan,M,2012-03-03,9951078441,2026-10-10,General Medicine,850.00,False,False,False
+P1125,Lakshmi Menon,F,1988-02-20,8888699799,2026-10-11,Orthopaedics,500.00,False,False,False
+P1080,Ravi N,M,2008-03-16,7574840200,2026-10-09,General Medicine,1200.50,False,False,False
+P1028,Sneha Nair,F,2014-03-11,,2026-10-10,General Medicine,500.00,False,True,False
+P1079,Lakshmi Kumar,F,1986-01-07,8768548027,2026-10-25,Paediatrics,500.00,False,False,False
+P1147,Prakash S,M,2000-10-26,,2026-10-10,Cardiology,1500.00,False,True,False
+P1140,Karthik Irfan,F,2005-05-17,8996278008,2026-10-16,ENT,1200.50,False,False,False
+P1011,Priya S,M,2009-07-11,8981058292,2026-10-01,Orthopaedics,1500.00,False,False,False
+P1131,Prakash Nair,F,1995-09-13,8302563940,2026-10-23,General Medicine,1200.50,False,False,False
+P1120,Nandhini Reddy,M,1991-01-05,,2026-10-04,Cardiology,1500.00,False,True,False
+P1043,Mohammed Sharma,M,1981-10-23,7186237917,2026-10-11,Paediatrics,850.00,False,False,False
+P1051,Ganesh S,F,2000-11-10,7197044071,2026-10-14,Cardiology,0.00,False,False,True
+P1107,Deepak Nair,M,1969-04-17,7832077572,2026-10-26,ENT,600.00,False,False,False
+P1106,Swathi Irfan,F,1989-11-09,8816014770,2026-10-01,Orthopaedics,2250.00,False,False,False
+P1134,Vikram Reddy,M,1989-05-07,8214518079,2026-10-08,General Medicine,0.00,False,False,True
+P1105,Ravi Babu,M,1998-12-16,9751831074,2026-10-26,ENT,2250.00,False,False,False
+P1005,Priya S,M,1979-08-02,8886365312,2026-10-05,Orthopaedics,850.00,False,False,False
+P1053,Lakshmi Menon,M,2013-03-09,8901611993,2026-10-11,Paediatrics,500.00,False,False,False
+P1144,Nandhini Menon,F,1965-07-01,7232702394,2026-10-15,Orthopaedics,1500.00,False,False,False
+P1121,Prakash Kumar,F,,,2026-10-15,Paediatrics,500.00,True,True,False
+P1086,Karthik R,M,1984-08-12,8730651895,2026-10-24,Paediatrics,2250.00,False,False,False
+P1006,Anitha Nair,F,1988-08-08,9836243579,2026-10-12,Orthopaedics,500.00,False,False,False
+P1133,Mohammed R,M,1963-06-08,7320337809,2026-10-03,ENT,1500.00,False,False,False
+P1009,Ravi N,M,,9809805235,2026-10-01,Cardiology,850.00,True,False,False
+P1016,Rahul Menon,F,,8651085057,2026-10-19,Paediatrics,1500.00,True,False,False
+P1004,Lakshmi N,F,,,2026-10-22,Paediatrics,2250.00,True,True,False
+P1031,Priya N,F,1984-10-17,8642831335,2026-10-20,Cardiology,2250.00,False,False,False
+P1040,Divya Reddy,F,1974-07-11,8546665485,2026-10-24,Orthopaedics,1200.50,False,False,False
+P1124,Mohammed S,F,1965-07-04,9697398528,2026-10-02,General Medicine,1500.00,False,False,False
+P1090,Anitha N,M,1982-02-19,9266140258,2026-10-22,ENT,500.00,False,False,False
+P1003,Arjun Reddy,M,1998-11-27,9293720285,2026-10-09,Orthopaedics,850.00,False,False,False
+P1154,Priya Kumar,F,2007-09-07,8587098457,2026-10-11,Orthopaedics,850.00,False,False,False
+P1153,Priya Irfan,M,2003-02-09,7555282394,2026-10-16,Paediatrics,1200.50,False,False,False
+P1085,Vikram Babu,F,1993-11-10,9524410834,2026-10-20,Cardiology,600.00,False,False,False
+P1116,Sneha S,M,,9508244633,2026-10-18,General Medicine,1500.00,True,False,False
+P1150,Rahul Kumar,F,1964-06-19,,2026-10-23,Orthopaedics,500.00,False,True,False
+P1040,Meena Nair,F,1987-02-08,7529979713,2026-10-17,Paediatrics,850.00,False,False,False
+P1048,Karthik Menon,F,2009-06-12,9210385522,2026-10-05,ENT,0.00,False,False,True
+P1114,Swathi Babu,F,2003-10-21,8773469560,2026-10-11,Paediatrics,500.00,False,False,False
+P1071,Deepak Menon,F,1979-08-15,9495928981,2026-10-10,Cardiology,1500.00,False,False,False
+P1113,Anitha Sharma,F,1980-10-16,9166436383,2026-10-15,Orthopaedics,2250.00,False,False,False
+P1039,Meena Menon,M,1983-06-10,8931575232,2026-10-11,Cardiology,2250.00,False,False,False
+P1014,Vikram N,M,1981-02-19,8433108786,2026-10-21,ENT,1500.00,False,False,False
+P1002,Priya Menon,F,2001-11-14,8119574893,2026-10-12,ENT,600.00,False,False,False
+P1023,Priya S,M,2014-02-17,7665359037,2026-10-02,General Medicine,600.00,False,False,False
+P1065,Suresh Sharma,M,1986-06-22,8755621841,2026-10-10,ENT,1500.00,False,False,False
+P1034,Deepak Babu,F,,7666355637,2026-10-14,ENT,1500.00,True,False,False
+P1001,Harish S,F,1978-02-25,8582452834,2026-10-17,Paediatrics,500.00,False,False,False
+P1145,Anitha Reddy,F,1975-07-03,,2026-10-11,Orthopaedics,600.00,False,True,False
+P1112,Prakash Sharma,M,1965-01-09,9689274064,2026-10-24,General Medicine,1200.50,False,False,False
+P1056,Rahul Babu,F,1964-02-27,7675583372,2026-10-01,General Medicine,600.00,False,False,False
+P1038,Swathi Reddy,M,2002-11-03,,2026-10-17,General Medicine,0.00,False,True,True
+P1096,Kavitha Kumar,F,2010-02-12,7805560474,2026-10-21,General Medicine,2250.00,False,False,False
+P1157,Suresh Sharma,F,2000-03-26,,2026-10-25,Cardiology,0.00,False,True,True
+P1083,Nandhini Menon,F,1976-01-25,8483298103,2026-10-25,Orthopaedics,850.00,False,False,False
+P1035,Nandhini Nair,M,1991-12-16,7386389162,2026-10-26,Paediatrics,500.00,False,False,False
+P1141,Karthik S,F,2002-05-10,,2026-10-14,Paediatrics,850.00,False,True,False
+P1151,Kavitha Kumar,F,2002-11-13,7960170255,2026-10-24,Cardiology,600.00,False,False,False
+P1127,Deepak Nair,M,1996-01-20,7583100677,2026-10-12,Paediatrics,500.00,False,False,False
+P1008,Arjun S,M,2007-03-16,8703091482,2026-10-04,Orthopaedics,2250.00,False,False,False
+P1136,Divya S,M,2014-02-15,7577934499,2026-10-03,Orthopaedics,2250.00,False,False,False
+P1002,Suresh Nair,F,1967-04-26,9948656610,2026-10-16,Orthopaedics,1500.00,False,False,False
+P1071,Mohammed S,M,1985-12-24,7541087900,2026-10-25,General Medicine,500.00,False,False,False
+P1033,Lakshmi Nair,M,2013-09-21,9924399252,2026-10-05,General Medicine,500.00,False,False,False
+P1129,Arjun Nair,M,2014-02-09,,2026-10-09,Orthopaedics,1500.00,False,True,False
+P1140,Priya Irfan,F,2013-10-02,9148814238,2026-10-21,Orthopaedics,2250.00,False,False,False
+P1108,Harish N,M,1990-04-26,8586989309,2026-10-03,ENT,1200.50,False,False,False
+P1049,Sneha Nair,M,,9442648079,2026-10-08,Cardiology,850.00,True,False,False
+P1109,Ganesh Reddy,F,2015-03-27,7874305759,2026-10-11,ENT,1200.50,False,False,False
+P1144,Nandhini Menon,F,1975-04-19,9154267347,2026-10-10,General Medicine,2250.00,False,False,False
+P1077,Priya N,F,2008-07-12,8154930149,2026-10-19,ENT,850.00,False,False,False
+P1151,Kavitha Babu,F,,8698967370,2026-10-12,ENT,0.00,True,False,True
+P1088,Lakshmi Sharma,M,1998-09-05,7442019016,2026-10-06,General Medicine,2250.00,False,False,False
+P1135,Swathi N,F,2012-01-12,7217687031,2026-10-14,Orthopaedics,2250.00,False,False,False
+P1058,Swathi Babu,F,2006-01-19,9662890182,2026-10-21,Paediatrics,600.00,False,False,False
+P1108,Ravi Sharma,F,1986-03-14,,2026-10-25,Paediatrics,2250.00,False,True,False
+P1020,Prakash Menon,M,1980-03-15,8686556403,2026-10-12,General Medicine,1200.50,False,False,False
+P1146,Vikram R,F,1980-08-12,7393622794,2026-10-10,General Medicine,2250.00,False,False,False
+P1111,Vikram Kumar,M,2005-02-12,7375354619,2026-10-24,ENT,600.00,False,False,False
+P1007,Ganesh Babu,F,1975-01-22,9784987769,2026-10-08,Cardiology,1200.50,False,False,False
+P1007,Harish Irfan,M,2001-08-16,8444851196,2026-10-10,Cardiology,2250.00,False,False,False
+P1023,Suresh Reddy,M,1962-07-26,9904236062,2026-10-10,Cardiology,850.00,False,False,False
+P1130,Harish Menon,F,1968-09-15,9968457290,2026-10-04,ENT,0.00,False,False,True
+P1066,Swathi R,M,1999-11-13,7452108572,2026-10-03,Cardiology,0.00,False,False,True
+P1152,Meena N,F,1979-10-24,9380840558,2026-10-21,ENT,500.00,False,False,False
+P1029,Vikram S,M,1983-10-08,9613443905,2026-10-05,General Medicine,850.00,False,False,False
+P1047,Divya R,F,1993-08-17,9705771555,2026-10-04,General Medicine,1500.00,False,False,False
+P1052,Meena S,F,2005-10-16,7578333394,2026-10-26,Paediatrics,600.00,False,False,False
+P1036,Vikram Kumar,M,,7178414859,2026-10-02,Orthopaedics,2250.00,True,False,False
+P1115,Anitha N,M,1971-03-25,8510684364,2026-10-15,Paediatrics,500.00,False,False,False
+P1110,Karthik Irfan,M,1993-03-24,9911941471,2026-10-01,Paediatrics,2250.00,False,False,False
+P1132,Meena Nair,M,1977-04-24,9969170578,2026-10-22,General Medicine,0.00,False,False,True
+P1064,Anitha Reddy,F,1974-09-07,9641054044,2026-10-10,General Medicine,850.00,False,False,False
+P1036,Priya Menon,F,1986-05-09,,2026-10-24,Paediatrics,1500.00,False,True,False
+P1115,Lakshmi Nair,M,1986-03-10,9910048118,2026-10-18,ENT,600.00,False,False,False
+P1037,Harish Reddy,M,1995-09-05,,2026-10-07,Cardiology,1200.50,False,True,False
+P1140,Nandhini Babu,M,2015-02-07,7820964511,2026-10-18,Paediatrics,600.00,False,False,False
+P1102,Karthik Sharma,F,2004-10-23,8356979659,2026-10-18,Orthopaedics,1200.50,False,False,False
+P1128,Prakash Sharma,F,,9498041381,2026-10-11,Cardiology,1500.00,True,False,False
+P1139,Swathi Reddy,M,1969-04-11,8711806831,2026-10-08,General Medicine,2250.00,False,False,False
+P1149,Prakash Sharma,M,2006-06-06,7686849648,2026-10-16,General Medicine,0.00,False,False,True
+P1055,Rahul Irfan,F,1964-12-05,9643026584,2026-10-15,Cardiology,1500.00,False,False,False
+P1017,Ravi Kumar,M,1960-01-17,7407829477,2026-10-01,Paediatrics,600.00,False,False,False
+P1024,Lakshmi N,F,,8592845076,2026-10-19,ENT,850.00,True,False,False
+P1103,Anitha S,M,1984-07-18,9783703040,2026-10-01,Cardiology,1200.50,False,False,False
+P1081,Lakshmi Kumar,F,1973-12-19,,2026-10-03,General Medicine,1500.00,False,True,False
+P1009,Swathi Irfan,M,1964-05-06,9708485104,2026-10-13,Orthopaedics,1200.50,False,False,False
+P1027,Deepak Kumar,F,1987-04-27,,2026-10-25,General Medicine,1200.50,False,True,False
+P1015,Arjun Nair,M,1987-03-22,,2026-10-03,Orthopaedics,600.00,False,True,False
+P1084,Priya Reddy,F,1983-02-03,8577531502,2026-10-12,Cardiology,600.00,False,False,False
+P1057,Karthik Kumar,F,,7942284665,2026-10-11,Cardiology,850.00,True,False,False
+P1143,Swathi Menon,M,2003-07-06,8423337234,2026-10-09,ENT,500.00,False,False,False
+P1070,Deepak N,F,2006-11-16,7309968304,2026-10-15,ENT,850.00,False,False,False
+P1007,Meena Nair,M,2012-11-20,8444311586,2026-10-20,Paediatrics,850.00,False,False,False
+P1119,Prakash Babu,F,1980-07-09,8222286118,2026-10-19,General Medicine,1500.00,False,False,False
+P1165,Divya Sharma,M,2013-12-03,7636122747,2026-10-05,ENT,850.00,False,False,False
+P1063,Ganesh Sharma,M,1994-09-28,7139476288,2026-10-26,General Medicine,1500.00,False,False,False
+P1137,Deepak Irfan,M,1996-11-22,8954946593,2026-10-14,Cardiology,500.00,False,False,False
+P1044,Swathi R,F,1983-07-15,7637371044,2026-10-05,Cardiology,0.00,False,False,True
+P1156,Vikram Nair,F,2010-04-17,8611275626,2026-10-04,Paediatrics,850.00,False,False,False
+P1019,Karthik Irfan,F,1993-03-18,8701133236,2026-10-14,ENT,1200.50,False,False,False
+P1069,Ganesh R,F,1997-07-13,7330635563,2026-10-07,Cardiology,1500.00,False,False,False
+P1054,Meena S,M,2002-08-17,7517298229,2026-10-20,General Medicine,500.00,False,False,False
+P1091,Vikram Babu,F,2003-03-11,9427899285,2026-10-04,Orthopaedics,2250.00,False,False,False
+P1095,Rahul Irfan,F,2000-09-23,7279170491,2026-10-16,ENT,600.00,False,False,False
+P1042,Prakash Irfan,F,,7631469831,2026-10-14,Paediatrics,0.00,True,False,True
+P1094,Anitha N,F,1994-05-06,7897272900,2026-10-25,General Medicine,1500.00,False,False,False
+P1163,Harish Kumar,F,1994-04-14,7991281644,2026-10-21,Orthopaedics,0.00,False,False,True
+P1117,Divya Babu,F,2015-12-20,9761587312,2026-10-05,ENT,500.00,False,False,False
+P1072,Vikram N,M,2014-09-22,9905407446,2026-10-26,Cardiology,850.00,False,False,False
+P1056,Sneha R,M,1991-03-19,7544770805,2026-10-13,Cardiology,2250.00,False,False,False
+P1026,Meena Sharma,F,1997-01-28,7592256138,2026-10-21,Cardiology,1500.00,False,False,False
+P1060,Sneha N,F,1995-10-05,8946434607,2026-10-11,Cardiology,500.00,False,False,False
+P1155,Meena Sharma,M,1987-04-23,7424125621,2026-10-06,Cardiology,2250.00,False,False,False
+P1075,Anitha Reddy,M,2006-12-25,,2026-10-03,Cardiology,600.00,False,True,False
+P1059,Ravi Kumar,F,2012-02-28,7241921987,2026-10-16,ENT,1200.50,False,False,False
+P1063,Priya Reddy,M,2001-11-05,7704829337,2026-10-01,ENT,1200.50,False,False,False
+P1057,Ganesh Sharma,F,1965-02-05,7883841357,2026-10-13,Paediatrics,850.00,False,False,False
+P1018,Ganesh Babu,M,,9655928892,2026-10-20,ENT,2250.00,True,False,False
+P1050,Prakash Reddy,F,1975-08-21,9667243311,2026-10-01,Orthopaedics,600.00,False,False,False
+P1148,Suresh Sharma,F,1961-10-03,8331652222,2026-10-02,Paediatrics,1500.00,False,False,False
+P1093,Nandhini S,M,1977-02-10,7318181642,2026-10-26,General Medicine,850.00,False,False,False
+P1159,Mohammed N,M,2006-04-02,9566523205,2026-10-04,General Medicine,1500.00,False,False,False
+P1161,Ravi Irfan,M,1970-08-12,7940725996,2026-10-24,ENT,850.00,False,False,False
+P1076,Ravi Nair,M,1977-09-03,7719175016,2026-10-21,Paediatrics,1200.50,False,False,False
+P1142,Suresh N,F,1996-11-24,,2026-10-17,Cardiology,500.00,False,True,False
+P1021,Anitha Menon,M,1974-06-08,7443527737,2026-10-09,General Medicine,850.00,False,False,False
+P1097,Anitha Reddy,F,1989-05-25,8192755745,2026-10-18,Cardiology,850.00,False,False,False
+P1032,Meena Nair,F,2009-04-24,9261669421,2026-10-01,Cardiology,600.00,False,False,False
+P1138,Ravi Reddy,M,1966-04-17,8628311983,2026-10-02,Orthopaedics,500.00,False,False,False
+P1118,Deepak Sharma,F,1997-02-17,7980428452,2026-10-13,General Medicine,1500.00,False,False,False
+P1051,Sneha Reddy,F,1980-08-09,9317661025,2026-10-05,Cardiology,600.00,False,False,False
+P1012,Deepak R,F,1979-08-09,9269238221,2026-10-26,General Medicine,0.00,False,False,True
+P1068,Nandhini Menon,M,2003-05-09,9534212844,2026-10-15,General Medicine,600.00,False,False,False
+P1155,Anitha R,M,1972-07-12,7729340221,2026-10-09,Cardiology,500.00,False,False,False
+P1089,Karthik Kumar,F,1963-03-19,7524126612,2026-10-16,Paediatrics,2250.00,False,False,False
+P1092,Meena Irfan,M,1999-10-20,,2026-10-16,General Medicine,1200.50,False,True,False
+P1025,Lakshmi R,M,1984-12-12,7939059557,2026-10-16,General Medicine,1500.00,False,False,False
+P1098,Ravi N,M,2011-08-17,7349926429,2026-10-06,ENT,2250.00,False,False,False
+P1024,Arjun Babu,M,1982-03-06,7441454588,2026-10-26,General Medicine,500.00,False,False,False
+P1027,Divya Sharma,M,1971-08-02,,2026-10-20,Cardiology,1500.00,False,True,False
+P1087,Sneha Irfan,F,1963-01-05,7252098390,2026-10-25,General Medicine,850.00,False,False,False
+P1109,Sneha N,F,1968-03-24,7623127037,2026-10-21,ENT,2250.00,False,False,False

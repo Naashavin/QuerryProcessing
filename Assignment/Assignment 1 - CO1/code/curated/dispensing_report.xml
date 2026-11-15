@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dispensing_report>
+  <prescription rx_id="RX-88101" visit_id="123" dispensed_on="2026-10-06">
+    <patient id="1029" name="Arjun S" />
+    <items>
+      <item drug_code="AZM500" quantity="11" unit_price="18.00" />
+      <item drug_code="PCM650" quantity="13" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">227.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88102" visit_id="94" dispensed_on="2026-10-16">
+    <patient id="1141" name="Karthik S" />
+    <items>
+      <item drug_code="AMX500" quantity="14" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="6" unit_price="18.00" />
+      <item drug_code="OMP20" quantity="13" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="11" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">267.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88103" visit_id="80" dispensed_on="2026-10-23">
+    <patient id="1014" name="Vikram N" />
+    <items>
+      <item drug_code="AMX500" quantity="17" unit_price="4.50" />
+      <item drug_code="CTZ10" quantity="14" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="12" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">184.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88104" visit_id="196" dispensed_on="2026-10-07">
+    <patient id="1098" name="Ravi N" />
+    <items>
+      <item drug_code="PCM650" quantity="11" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">24.75</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88105" visit_id="102" dispensed_on="2026-10-11">
+    <patient id="1129" name="Arjun Nair" />
+    <items>
+      <item drug_code="AZM500" quantity="15" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="20" unit_price="3.00" />
+    </items>
+    <total_amount currency="INR">330.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88106" visit_id="20" dispensed_on="2026-10-25">
+    <patient id="1101" name="Meena Irfan" />
+    <items>
+      <item drug_code="AMX500" quantity="5" unit_price="4.50" />
+      <item drug_code="CTZ10" quantity="17" unit_price="3.00" />
+      <item drug_code="PCM650" quantity="13" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">102.75</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88107" visit_id="149" dispensed_on="2026-10-09">
+    <patient id="1143" name="Swathi Menon" />
+    <items>
+      <item drug_code="AMX500" quantity="12" unit_price="4.50" />
+      <item drug_code="OMP20" quantity="18" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">153.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88108" visit_id="13" dispensed_on="2026-10-18">
+    <patient id="1062" name="Divya Reddy" />
+    <items>
+      <item drug_code="AMX500" quantity="14" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="11" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="9" unit_price="3.00" />
+      <item drug_code="PCM650" quantity="9" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">308.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88109" visit_id="116" dispensed_on="2026-10-26">
+    <patient id="1111" name="Vikram Kumar" />
+    <items>
+      <item drug_code="AZM500" quantity="8" unit_price="18.00" />
+    </items>
+    <total_amount currency="INR">144.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88110" visit_id="75" dispensed_on="2026-10-05">
+    <patient id="1048" name="Karthik Menon" />
+    <items>
+      <item drug_code="AZM500" quantity="9" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="11" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="9" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="8" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">262.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88111" visit_id="75" dispensed_on="2026-10-07">
+    <patient id="1048" name="Karthik Menon" />
+    <items>
+      <item drug_code="AMX500" quantity="20" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="5" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="7" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="9" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="16" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">286.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88112" visit_id="102" dispensed_on="2026-10-11">
+    <patient id="1129" name="Arjun Nair" />
+    <items>
+      <item drug_code="AMX500" quantity="6" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="12" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="18" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="11" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">357.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88113" visit_id="63" dispensed_on="2026-10-23">
+    <patient id="1004" name="Lakshmi N" />
+    <items>
+      <item drug_code="PCM650" quantity="19" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">42.75</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88114" visit_id="26" dispensed_on="2026-10-12">
+    <patient id="1158" name="Suresh Babu" />
+    <items>
+      <item drug_code="AMX500" quantity="17" unit_price="4.50" />
+      <item drug_code="CTZ10" quantity="6" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="15" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="8" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">195.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88115" visit_id="72" dispensed_on="2026-10-18">
+    <patient id="1116" name="Sneha S" />
+    <items>
+      <item drug_code="AMX500" quantity="11" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="17" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="19" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="14" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">489.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88116" visit_id="15" dispensed_on="2026-10-18">
+    <patient id="1078" name="Rahul S" />
+    <items>
+      <item drug_code="AMX500" quantity="8" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="18" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="17" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="9" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="10" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">483.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88117" visit_id="92" dispensed_on="2026-10-25">
+    <patient id="1083" name="Nandhini Menon" />
+    <items>
+      <item drug_code="AMX500" quantity="15" unit_price="4.50" />
+      <item drug_code="OMP20" quantity="13" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">139.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88118" visit_id="163" dispensed_on="2026-10-14">
+    <patient id="1042" name="Prakash Irfan" />
+    <items>
+      <item drug_code="AZM500" quantity="17" unit_price="18.00" />
+    </items>
+    <total_amount currency="INR">306.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88119" visit_id="46" dispensed_on="2026-10-24">
+    <patient id="1131" name="Prakash Nair" />
+    <items>
+      <item drug_code="CTZ10" quantity="10" unit_price="3.00" />
+      <item drug_code="PCM650" quantity="9" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">50.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88120" visit_id="23" dispensed_on="2026-10-14">
+    <patient id="1046" name="Sneha Reddy" />
+    <items>
+      <item drug_code="AMX500" quantity="5" unit_price="4.50" />
+      <item drug_code="OMP20" quantity="13" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="11" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">118.75</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88121" visit_id="63" dispensed_on="2026-10-23">
+    <patient id="1004" name="Lakshmi N" />
+    <items>
+      <item drug_code="AMX500" quantity="7" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="5" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="12" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="18" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="19" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">299.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88122" visit_id="94" dispensed_on="2026-10-16">
+    <patient id="1141" name="Karthik S" />
+    <items>
+      <item drug_code="PCM650" quantity="9" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">20.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88123" visit_id="146" dispensed_on="2026-10-03">
+    <patient id="1015" name="Arjun Nair" />
+    <items>
+      <item drug_code="AMX500" quantity="10" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="10" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="18" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="14" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="10" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">378.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88124" visit_id="166" dispensed_on="2026-10-05">
+    <patient id="1117" name="Divya Babu" />
+    <items>
+      <item drug_code="AMX500" quantity="14" unit_price="4.50" />
+      <item drug_code="OMP20" quantity="7" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="20" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">146.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88125" visit_id="93" dispensed_on="2026-10-28">
+    <patient id="1035" name="Nandhini Nair" />
+    <items>
+      <item drug_code="AMX500" quantity="20" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="6" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="7" unit_price="3.00" />
+      <item drug_code="PCM650" quantity="8" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">237.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88126" visit_id="192" dispensed_on="2026-10-10">
+    <patient id="1155" name="Meena Sharma" />
+    <items>
+      <item drug_code="AMX500" quantity="12" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="20" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="10" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="11" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="14" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">536.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88127" visit_id="85" dispensed_on="2026-10-17">
+    <patient id="1001" name="Harish S" />
+    <items>
+      <item drug_code="AMX500" quantity="11" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="5" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="13" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="11" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="14" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">270.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88128" visit_id="176" dispensed_on="2026-10-21">
+    <patient id="1018" name="Ganesh Babu" />
+    <items>
+      <item drug_code="AMX500" quantity="15" unit_price="4.50" />
+    </items>
+    <total_amount currency="INR">67.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88129" visit_id="110" dispensed_on="2026-10-08">
+    <patient id="1088" name="Priya Babu" />
+    <items>
+      <item drug_code="CTZ10" quantity="20" unit_price="3.00" />
+      <item drug_code="PCM650" quantity="15" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">93.75</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88130" visit_id="25" dispensed_on="2026-10-10">
+    <patient id="1122" name="Mohammed Kumar" />
+    <items>
+      <item drug_code="AZM500" quantity="6" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="14" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="5" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="15" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">211.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88131" visit_id="160" dispensed_on="2026-10-21">
+    <patient id="1054" name="Meena S" />
+    <items>
+      <item drug_code="CTZ10" quantity="17" unit_price="3.00" />
+    </items>
+    <total_amount currency="INR">51.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88132" visit_id="181" dispensed_on="2026-10-26">
+    <patient id="1161" name="Ravi Irfan" />
+    <items>
+      <item drug_code="AMX500" quantity="13" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="12" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="18" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="7" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="20" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">412.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88133" visit_id="90" dispensed_on="2026-10-22">
+    <patient id="1096" name="Kavitha Kumar" />
+    <items>
+      <item drug_code="AMX500" quantity="6" unit_price="4.50" />
+      <item drug_code="CTZ10" quantity="11" unit_price="3.00" />
+    </items>
+    <total_amount currency="INR">60.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88134" visit_id="197" dispensed_on="2026-10-28">
+    <patient id="1024" name="Lakshmi N" />
+    <items>
+      <item drug_code="CTZ10" quantity="14" unit_price="3.00" />
+      <item drug_code="PCM650" quantity="20" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">87.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88135" visit_id="147" dispensed_on="2026-10-12">
+    <patient id="1084" name="Priya Reddy" />
+    <items>
+      <item drug_code="OMP20" quantity="17" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">93.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88136" visit_id="52" dispensed_on="2026-10-08">
+    <patient id="1134" name="Vikram Reddy" />
+    <items>
+      <item drug_code="CTZ10" quantity="19" unit_price="3.00" />
+    </items>
+    <total_amount currency="INR">57.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88137" visit_id="190" dispensed_on="2026-10-28">
+    <patient id="1012" name="Deepak R" />
+    <items>
+      <item drug_code="AMX500" quantity="19" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="8" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="14" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="15" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="13" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">383.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88138" visit_id="150" dispensed_on="2026-10-15">
+    <patient id="1070" name="Deepak N" />
+    <items>
+      <item drug_code="AMX500" quantity="9" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="13" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="10" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="14" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="12" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">408.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88139" visit_id="158" dispensed_on="2026-10-16">
+    <patient id="1019" name="Karthik Irfan" />
+    <items>
+      <item drug_code="PCM650" quantity="5" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">11.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88140" visit_id="57" dispensed_on="2026-10-15">
+    <patient id="1121" name="Prakash Kumar" />
+    <items>
+      <item drug_code="AZM500" quantity="11" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="15" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="16" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="14" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">362.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88141" visit_id="155" dispensed_on="2026-10-15">
+    <patient id="1137" name="Deepak Irfan" />
+    <items>
+      <item drug_code="AMX500" quantity="20" unit_price="4.50" />
+      <item drug_code="CTZ10" quantity="9" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="12" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="12" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">210.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88142" visit_id="26" dispensed_on="2026-10-11">
+    <patient id="1158" name="Suresh Babu" />
+    <items>
+      <item drug_code="AMX500" quantity="8" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="20" unit_price="18.00" />
+      <item drug_code="OMP20" quantity="7" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">434.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88143" visit_id="67" dispensed_on="2026-10-23">
+    <patient id="1090" name="Anitha N" />
+    <items>
+      <item drug_code="AMX500" quantity="14" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="8" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="7" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="19" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="15" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">366.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88144" visit_id="142" dispensed_on="2026-10-01">
+    <patient id="1103" name="Anitha S" />
+    <items>
+      <item drug_code="AZM500" quantity="15" unit_price="18.00" />
+      <item drug_code="OMP20" quantity="7" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">308.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88145" visit_id="160" dispensed_on="2026-10-21">
+    <patient id="1054" name="Meena S" />
+    <items>
+      <item drug_code="AMX500" quantity="8" unit_price="4.50" />
+      <item drug_code="PCM650" quantity="20" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">81.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88146" visit_id="122" dispensed_on="2026-10-22">
+    <patient id="1152" name="Prakash Irfan" />
+    <items>
+      <item drug_code="CTZ10" quantity="7" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="8" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">65.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88147" visit_id="70" dispensed_on="2026-10-17">
+    <patient id="1153" name="Priya Irfan" />
+    <items>
+      <item drug_code="AMX500" quantity="9" unit_price="4.50" />
+      <item drug_code="PCM650" quantity="9" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">60.75</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88148" visit_id="72" dispensed_on="2026-10-19">
+    <patient id="1116" name="Sneha S" />
+    <items>
+      <item drug_code="CTZ10" quantity="14" unit_price="3.00" />
+      <item drug_code="PCM650" quantity="14" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">73.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88149" visit_id="87" dispensed_on="2026-10-24">
+    <patient id="1112" name="Prakash Sharma" />
+    <items>
+      <item drug_code="AMX500" quantity="8" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="16" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="14" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="6" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="5" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">410.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88150" visit_id="32" dispensed_on="2026-10-25">
+    <patient id="1008" name="Meena N" />
+    <items>
+      <item drug_code="AZM500" quantity="11" unit_price="18.00" />
+      <item drug_code="OMP20" quantity="18" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="10" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">319.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88151" visit_id="25" dispensed_on="2026-10-08">
+    <patient id="1122" name="Mohammed Kumar" />
+    <items>
+      <item drug_code="AMX500" quantity="5" unit_price="4.50" />
+      <item drug_code="CTZ10" quantity="5" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="7" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="9" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">96.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88152" visit_id="133" dispensed_on="2026-10-09">
+    <patient id="1037" name="Harish Reddy" />
+    <items>
+      <item drug_code="AZM500" quantity="10" unit_price="18.00" />
+      <item drug_code="OMP20" quantity="18" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">279.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88153" visit_id="166" dispensed_on="2026-10-07">
+    <patient id="1117" name="Divya Babu" />
+    <items>
+      <item drug_code="OMP20" quantity="20" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="5" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">121.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88154" visit_id="30" dispensed_on="2026-10-25">
+    <patient id="1061" name="Sneha N" />
+    <items>
+      <item drug_code="AMX500" quantity="20" unit_price="4.50" />
+    </items>
+    <total_amount currency="INR">90.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88155" visit_id="162" dispensed_on="2026-10-18">
+    <patient id="1095" name="Rahul Irfan" />
+    <items>
+      <item drug_code="AMX500" quantity="14" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="7" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="12" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="20" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="6" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">348.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88156" visit_id="35" dispensed_on="2026-10-21">
+    <patient id="1088" name="Priya Babu" />
+    <items>
+      <item drug_code="AMX500" quantity="6" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="13" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="10" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="6" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="14" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">355.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88157" visit_id="31" dispensed_on="2026-10-14">
+    <patient id="1162" name="Mohammed N" />
+    <items>
+      <item drug_code="AMX500" quantity="7" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="20" unit_price="18.00" />
+      <item drug_code="PCM650" quantity="9" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">411.75</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88158" visit_id="17" dispensed_on="2026-10-26">
+    <patient id="1130" name="Prakash Irfan" />
+    <items>
+      <item drug_code="AMX500" quantity="9" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="10" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="8" unit_price="3.00" />
+    </items>
+    <total_amount currency="INR">244.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88159" visit_id="132" dispensed_on="2026-10-18">
+    <patient id="1115" name="Anitha N" />
+    <items>
+      <item drug_code="AMX500" quantity="7" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="15" unit_price="18.00" />
+    </items>
+    <total_amount currency="INR">301.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88160" visit_id="89" dispensed_on="2026-10-18">
+    <patient id="1038" name="Swathi Reddy" />
+    <items>
+      <item drug_code="AZM500" quantity="13" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="8" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="6" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="6" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">304.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88161" visit_id="48" dispensed_on="2026-10-12">
+    <patient id="1043" name="Mohammed Sharma" />
+    <items>
+      <item drug_code="AMX500" quantity="14" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="5" unit_price="18.00" />
+      <item drug_code="CTZ10" quantity="18" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="9" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="13" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">285.75</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88162" visit_id="132" dispensed_on="2026-10-20">
+    <patient id="1115" name="Anitha N" />
+    <items>
+      <item drug_code="AZM500" quantity="16" unit_price="18.00" />
+    </items>
+    <total_amount currency="INR">288.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88163" visit_id="116" dispensed_on="2026-10-25">
+    <patient id="1111" name="Vikram Kumar" />
+    <items>
+      <item drug_code="AZM500" quantity="12" unit_price="18.00" />
+      <item drug_code="OMP20" quantity="11" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="15" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">310.25</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88164" visit_id="124" dispensed_on="2026-10-06">
+    <patient id="1047" name="Divya R" />
+    <items>
+      <item drug_code="OMP20" quantity="8" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">44.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88165" visit_id="111" dispensed_on="2026-10-16">
+    <patient id="1135" name="Swathi N" />
+    <items>
+      <item drug_code="AMX500" quantity="6" unit_price="4.50" />
+      <item drug_code="CTZ10" quantity="5" unit_price="3.00" />
+      <item drug_code="PCM650" quantity="7" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">57.75</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88166" visit_id="70" dispensed_on="2026-10-18">
+    <patient id="1153" name="Priya Irfan" />
+    <items>
+      <item drug_code="AZM500" quantity="9" unit_price="18.00" />
+    </items>
+    <total_amount currency="INR">162.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88167" visit_id="185" dispensed_on="2026-10-18">
+    <patient id="1097" name="Anitha Reddy" />
+    <items>
+      <item drug_code="AMX500" quantity="13" unit_price="4.50" />
+      <item drug_code="CTZ10" quantity="18" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="19" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">217.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88168" visit_id="92" dispensed_on="2026-10-25">
+    <patient id="1083" name="Nandhini Menon" />
+    <items>
+      <item drug_code="AMX500" quantity="19" unit_price="4.50" />
+      <item drug_code="CTZ10" quantity="10" unit_price="3.00" />
+      <item drug_code="OMP20" quantity="13" unit_price="5.50" />
+      <item drug_code="PCM650" quantity="7" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">202.75</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88169" visit_id="33" dispensed_on="2026-10-12">
+    <patient id="1126" name="Ganesh N" />
+    <items>
+      <item drug_code="PCM650" quantity="18" unit_price="2.25" />
+    </items>
+    <total_amount currency="INR">40.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88170" visit_id="168" dispensed_on="2026-10-15">
+    <patient id="1056" name="Divya S" />
+    <items>
+      <item drug_code="AMX500" quantity="7" unit_price="4.50" />
+    </items>
+    <total_amount currency="INR">31.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88171" visit_id="158" dispensed_on="2026-10-15">
+    <patient id="1019" name="Karthik Irfan" />
+    <items>
+      <item drug_code="AMX500" quantity="17" unit_price="4.50" />
+    </items>
+    <total_amount currency="INR">76.50</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88172" visit_id="159" dispensed_on="2026-10-09">
+    <patient id="1069" name="Ganesh R" />
+    <items>
+      <item drug_code="AZM500" quantity="20" unit_price="18.00" />
+    </items>
+    <total_amount currency="INR">360.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88173" visit_id="34" dispensed_on="2026-10-07">
+    <patient id="1123" name="Prakash S" />
+    <items>
+      <item drug_code="AMX500" quantity="20" unit_price="4.50" />
+      <item drug_code="OMP20" quantity="8" unit_price="5.50" />
+    </items>
+    <total_amount currency="INR">134.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88174" visit_id="115" dispensed_on="2026-10-11">
+    <patient id="1146" name="Vikram R" />
+    <items>
+      <item drug_code="AMX500" quantity="16" unit_price="4.50" />
+    </items>
+    <total_amount currency="INR">72.00</total_amount>
+  </prescription>
+  <prescription rx_id="RX-88175" visit_id="155" dispensed_on="2026-10-14">
+    <patient id="1137" name="Deepak Irfan" />
+    <items>
+      <item drug_code="AMX500" quantity="11" unit_price="4.50" />
+      <item drug_code="AZM500" quantity="17" unit_price="18.00" />
+    </items>
+    <total_amount currency="INR">355.50</total_amount>
+  </prescription>
+</dispensing_report>

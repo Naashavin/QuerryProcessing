@@ -1,0 +1,138 @@
+[
+  {
+    "index": 104,
+    "record": {
+      "lab_report_id": "",
+      "patient_ref": "PT-9105",
+      "collected_at": "2026-10-24T15:23:00+05:30",
+      "tests": [
+        {
+          "code": "HB",
+          "name": "Haemoglobin",
+          "value": "19.72",
+          "unit": "g/dL",
+          "ref_range": {
+            "low": 13.0,
+            "high": 17.0
+          }
+        },
+        {
+          "code": "TSH",
+          "name": "Thyroid Stimulating Hormone",
+          "value": 4.56,
+          "unit": "mIU/L",
+          "ref_range": {
+            "low": 0.4,
+            "high": 4.0
+          }
+        }
+      ],
+      "status": "FINAL",
+      "ordered_by": {
+        "doctor_id": "D-09",
+        "name": "Dr. P. Lakshmi",
+        "department": "Paediatrics"
+      }
+    },
+    "reason": "MISSING_REPORT_ID"
+  },
+  {
+    "report_id": "LR-20261007-0106",
+    "record": {
+      "lab_report_id": "LR-20261007-0106",
+      "patient_ref": "BAD_REF",
+      "collected_at": "2026-10-20T16:25:00+05:30",
+      "tests": [
+        {
+          "code": "TSH",
+          "name": "Thyroid Stimulating Hormone",
+          "value": "3.06",
+          "unit": "mIU/L",
+          "ref_range": {
+            "low": 0.4,
+            "high": 4.0
+          }
+        },
+        {
+          "code": "HB",
+          "name": "Haemoglobin",
+          "value": 11.09,
+          "unit": "g/dL",
+          "ref_range": {
+            "low": 13.0,
+            "high": 17.0
+          }
+        }
+      ],
+      "status": "FINAL",
+      "ordered_by": {
+        "doctor_id": "D-09",
+        "name": "Dr. P. Lakshmi",
+        "department": "Paediatrics"
+      }
+    },
+    "reason": "INVALID_PATIENT_REF"
+  },
+  {
+    "report_id": "LR-20261008-0107",
+    "record": {
+      "lab_report_id": "LR-20261008-0107",
+      "patient_ref": "PT-9107",
+      "collected_at": "invalid-timestamp",
+      "tests": [
+        {
+          "code": "GLU-F",
+          "name": "Fasting Glucose",
+          "value": "80.94",
+          "unit": "mg/dL",
+          "ref_range": null
+        },
+        {
+          "code": "WBC",
+          "name": "White Blood Cells",
+          "value": "pending",
+          "unit": "10^3/uL",
+          "ref_range": {
+            "low": 4.0,
+            "high": 11.0
+          }
+        }
+      ],
+      "status": "IN_PROGRESS"
+    },
+    "reason": "INVALID_COLLECTED_AT"
+  },
+  {
+    "report_id": "LR-20261009-0108",
+    "record": {
+      "lab_report_id": "LR-20261009-0108",
+      "patient_ref": "P9108",
+      "collected_at": "2026-10-13T10:44:00+05:30",
+      "tests": [],
+      "status": "FINAL",
+      "ordered_by": {
+        "doctor_id": "D-09",
+        "name": "Dr. P. Lakshmi",
+        "department": "Paediatrics"
+      }
+    },
+    "reason": "MISSING_OR_EMPTY_TESTS"
+  },
+  {
+    "report_id": "LR-20261010-0109",
+    "record": {
+      "lab_report_id": "LR-20261010-0109",
+      "patient_ref": "P9109",
+      "collected_at": "2026-10-19T09:15:00+05:30",
+      "status": "FINAL"
+    },
+    "reason": "MISSING_OR_EMPTY_TESTS"
+  },
+  {
+    "report_id": "LR-20261011-0110",
+    "patient_id": "P9110",
+    "test_code": "HB",
+    "raw_value": "ERR_SENSOR",
+    "reason": "NON_NUMERIC_NON_PENDING_VALUE"
+  }
+]

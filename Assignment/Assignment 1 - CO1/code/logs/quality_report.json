@@ -1,0 +1,60 @@
+{
+  "before": {
+    "completeness": 0.9758,
+    "date_validity": 0.2136,
+    "duplicate_rate": 0.0636,
+    "id_consistency": 0.2364,
+    "rx_total_accuracy": 0.8909
+  },
+  "after": {
+    "completeness": 1.0,
+    "date_validity": 1.0,
+    "duplicate_rate": 0.0,
+    "id_consistency": 1.0,
+    "rx_total_accuracy": 1.0
+  },
+  "thresholds": {
+    "date_validity": 0.98,
+    "id_consistency": 0.95,
+    "duplicate_rate_max": 0.01,
+    "completeness_required": 0.98,
+    "rx_total_accuracy": 0.99
+  },
+  "checks": [
+    {
+      "metric": "Completeness (Required Fields)",
+      "before": 0.9758,
+      "after": 1.0,
+      "target": ">= 98%",
+      "status": "PASS"
+    },
+    {
+      "metric": "Date Validity (ISO 8601)",
+      "before": 0.2136,
+      "after": 1.0,
+      "target": ">= 98%",
+      "status": "PASS"
+    },
+    {
+      "metric": "Duplicate Rate (Uniqueness)",
+      "before": 0.0636,
+      "after": 0.0,
+      "target": "<= 1%",
+      "status": "PASS"
+    },
+    {
+      "metric": "Cross-Source ID Match Rate",
+      "before": 0.2364,
+      "after": 1.0,
+      "target": ">= 95%",
+      "status": "PASS"
+    },
+    {
+      "metric": "Pharmacy Total Accuracy Proxy",
+      "before": 0.8909,
+      "after": 1.0,
+      "target": ">= 99%",
+      "status": "PASS"
+    }
+  ]
+}

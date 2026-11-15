@@ -1,0 +1,101 @@
+line_no,raw_snippet,rejection_reason
+20001,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20002,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20003,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20004,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20005,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20006,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20007,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20008,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20009,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20010,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20011,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20012,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20013,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20014,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20015,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20016,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20017,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20018,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20019,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20020,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20021,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20022,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20023,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20024,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20025,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20026,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20027,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20028,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20029,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20030,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20031,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20032,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20033,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20034,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20035,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20036,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20037,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20038,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20039,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20040,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20041,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20042,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20043,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20044,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20045,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20046,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20047,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20048,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20049,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20050,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20051,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20052,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20053,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20054,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20055,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20056,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20057,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20058,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20059,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20060,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20061,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20062,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20063,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20064,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20065,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20066,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20067,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20068,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20069,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20070,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20071,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20072,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20073,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20074,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20075,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20076,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20077,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20078,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20079,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20080,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20081,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20082,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20083,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20084,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20085,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20086,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20087,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20088,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20089,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20090,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20091,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20092,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20093,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20094,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20095,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20096,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20097,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID
+20098,NOT A JSON LINE AT ALL,JSON_DECODE_ERROR: Expecting value
+20099,"{""session_id"": ""BAD_JSON"", ""patient"":",JSON_DECODE_ERROR: Expecting value
+20100,"{""session_id"": """", ""patient"": {""national_id"": ""BAD""}, ""start_time"": ""bad-ts""}",MISSING_SESSION_ID

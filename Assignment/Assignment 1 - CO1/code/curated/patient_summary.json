@@ -1,0 +1,6997 @@
+[
+  {
+    "patient_id": 1001,
+    "full_name": "Harish S",
+    "gender": "F",
+    "date_of_birth": "1978-02-25",
+    "phone": "8582452834",
+    "registered_on": "2026-10-17",
+    "visits": [
+      {
+        "visit_id": 85,
+        "visit_date": "2026-10-17",
+        "fee_amount": 500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88127",
+            "dispensed_on": "2026-10-17",
+            "total_amount": 270.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 11,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 5,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 13,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 11,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 14,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1002,
+    "full_name": "Priya Menon",
+    "gender": "F",
+    "date_of_birth": "2001-11-14",
+    "phone": "8119574893",
+    "registered_on": "2026-10-12",
+    "visits": [
+      {
+        "visit_id": 81,
+        "visit_date": "2026-10-12",
+        "fee_amount": 600,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 99,
+        "visit_date": "2026-10-16",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1003,
+    "full_name": "Arjun Reddy",
+    "gender": "M",
+    "date_of_birth": "1998-11-27",
+    "phone": "9293720285",
+    "registered_on": "2026-10-09",
+    "visits": [
+      {
+        "visit_id": 68,
+        "visit_date": "2026-10-09",
+        "fee_amount": 850,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261001-0050",
+            "collected_at": "2026-10-09",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "1.36",
+                "result_num": 1.36,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "20.87",
+                "result_num": 20.87,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "63.9",
+                "result_num": 63.9,
+                "unit": "mg/dL",
+                "flag": "LOW"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1004,
+    "full_name": "Lakshmi N",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": null,
+    "registered_on": "2026-10-22",
+    "visits": [
+      {
+        "visit_id": 63,
+        "visit_date": "2026-10-22",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88113",
+            "dispensed_on": "2026-10-23",
+            "total_amount": 42.75,
+            "items": [
+              {
+                "drug_code": "PCM650",
+                "quantity": 19,
+                "unit_price": 2.25
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88121",
+            "dispensed_on": "2026-10-23",
+            "total_amount": 299.25,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 7,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 5,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 12,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 18,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 19,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1005,
+    "full_name": "Priya S",
+    "gender": "M",
+    "date_of_birth": "1979-08-02",
+    "phone": "8886365312",
+    "registered_on": "2026-10-05",
+    "visits": [
+      {
+        "visit_id": 54,
+        "visit_date": "2026-10-05",
+        "fee_amount": 850,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1006,
+    "full_name": "Anitha Nair",
+    "gender": "F",
+    "date_of_birth": "1988-08-08",
+    "phone": "9836243579",
+    "registered_on": "2026-10-12",
+    "visits": [
+      {
+        "visit_id": 59,
+        "visit_date": "2026-10-12",
+        "fee_amount": 500,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1007,
+    "full_name": "Ganesh Babu",
+    "gender": "F",
+    "date_of_birth": "1975-01-22",
+    "phone": "9784987769",
+    "registered_on": "2026-10-08",
+    "visits": [
+      {
+        "visit_id": 117,
+        "visit_date": "2026-10-08",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 118,
+        "visit_date": "2026-10-10",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 151,
+        "visit_date": "2026-10-20",
+        "fee_amount": 850,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1008,
+    "full_name": "Meena N",
+    "gender": "M",
+    "date_of_birth": "1976-04-04",
+    "phone": "8228370927",
+    "registered_on": "2026-10-24",
+    "visits": [
+      {
+        "visit_id": 97,
+        "visit_date": "2026-10-04",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 32,
+        "visit_date": "2026-10-24",
+        "fee_amount": 600,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88150",
+            "dispensed_on": "2026-10-25",
+            "total_amount": 319.5,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 11,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 18,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 10,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1009,
+    "full_name": "Ravi N",
+    "gender": "M",
+    "date_of_birth": null,
+    "phone": "9809805235",
+    "registered_on": "2026-10-01",
+    "visits": [
+      {
+        "visit_id": 61,
+        "visit_date": "2026-10-01",
+        "fee_amount": 850,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 144,
+        "visit_date": "2026-10-13",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1010,
+    "full_name": "Mohammed Menon",
+    "gender": "F",
+    "date_of_birth": "1992-05-05",
+    "phone": "9362298393",
+    "registered_on": "2026-10-12",
+    "visits": [
+      {
+        "visit_id": 7,
+        "visit_date": "2026-10-12",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1011,
+    "full_name": "Priya S",
+    "gender": "M",
+    "date_of_birth": "2009-07-11",
+    "phone": "8981058292",
+    "registered_on": "2026-10-01",
+    "visits": [
+      {
+        "visit_id": 45,
+        "visit_date": "2026-10-01",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1012,
+    "full_name": "Deepak R",
+    "gender": "F",
+    "date_of_birth": "1979-08-09",
+    "phone": "9269238221",
+    "registered_on": "2026-10-26",
+    "visits": [
+      {
+        "visit_id": 190,
+        "visit_date": "2026-10-26",
+        "fee_amount": 0,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88137",
+            "dispensed_on": "2026-10-28",
+            "total_amount": 383.25,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 19,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 8,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 14,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 15,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 13,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1013,
+    "full_name": "Arjun Irfan",
+    "gender": "M",
+    "date_of_birth": "2012-03-03",
+    "phone": "9951078441",
+    "registered_on": "2026-10-10",
+    "visits": [
+      {
+        "visit_id": 38,
+        "visit_date": "2026-10-10",
+        "fee_amount": 850,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1014,
+    "full_name": "Vikram N",
+    "gender": "M",
+    "date_of_birth": "1981-02-19",
+    "phone": "8433108786",
+    "registered_on": "2026-10-21",
+    "visits": [
+      {
+        "visit_id": 80,
+        "visit_date": "2026-10-21",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88103",
+            "dispensed_on": "2026-10-23",
+            "total_amount": 184.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 17,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 14,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 12,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1015,
+    "full_name": "Arjun Nair",
+    "gender": "M",
+    "date_of_birth": "1987-03-22",
+    "phone": null,
+    "registered_on": "2026-10-03",
+    "visits": [
+      {
+        "visit_id": 146,
+        "visit_date": "2026-10-03",
+        "fee_amount": 600,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88123",
+            "dispensed_on": "2026-10-03",
+            "total_amount": 378.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 10,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 10,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 18,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 14,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 10,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1016,
+    "full_name": "Rahul Menon",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": "8651085057",
+    "registered_on": "2026-10-19",
+    "visits": [
+      {
+        "visit_id": 62,
+        "visit_date": "2026-10-19",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261006-0030",
+            "collected_at": "2026-10-19",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "118.87",
+                "result_num": 118.87,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "13.06",
+                "result_num": 13.06,
+                "unit": "10^3/uL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.55",
+                "result_num": 1.55,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1017,
+    "full_name": "Ravi Kumar",
+    "gender": "M",
+    "date_of_birth": "1960-01-17",
+    "phone": "7407829477",
+    "registered_on": "2026-10-01",
+    "visits": [
+      {
+        "visit_id": 140,
+        "visit_date": "2026-10-01",
+        "fee_amount": 600,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1018,
+    "full_name": "Ganesh Babu",
+    "gender": "M",
+    "date_of_birth": null,
+    "phone": "9655928892",
+    "registered_on": "2026-10-20",
+    "visits": [
+      {
+        "visit_id": 176,
+        "visit_date": "2026-10-20",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88128",
+            "dispensed_on": "2026-10-21",
+            "total_amount": 67.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 15,
+                "unit_price": 4.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1019,
+    "full_name": "Karthik Irfan",
+    "gender": "F",
+    "date_of_birth": "1993-03-18",
+    "phone": "8701133236",
+    "registered_on": "2026-10-14",
+    "visits": [
+      {
+        "visit_id": 158,
+        "visit_date": "2026-10-14",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88139",
+            "dispensed_on": "2026-10-16",
+            "total_amount": 11.25,
+            "items": [
+              {
+                "drug_code": "PCM650",
+                "quantity": 5,
+                "unit_price": 2.25
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88171",
+            "dispensed_on": "2026-10-15",
+            "total_amount": 76.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 17,
+                "unit_price": 4.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1020,
+    "full_name": "Prakash Menon",
+    "gender": "M",
+    "date_of_birth": "1980-03-15",
+    "phone": "8686556403",
+    "registered_on": "2026-10-12",
+    "visits": [
+      {
+        "visit_id": 114,
+        "visit_date": "2026-10-12",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261005-0054",
+            "collected_at": "2026-10-14",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "1.11",
+                "result_num": 1.11,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "111.79",
+                "result_num": 111.79,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "19.14",
+                "result_num": 19.14,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1021,
+    "full_name": "Anitha Menon",
+    "gender": "M",
+    "date_of_birth": "1974-06-08",
+    "phone": "7443527737",
+    "registered_on": "2026-10-09",
+    "visits": [
+      {
+        "visit_id": 184,
+        "visit_date": "2026-10-09",
+        "fee_amount": 850,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261007-0006",
+            "collected_at": "2026-10-09",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "1.19",
+                "result_num": 1.19,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "14.9",
+                "result_num": 14.9,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "0.71",
+                "result_num": 0.71,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261009-0033",
+            "collected_at": "2026-10-10",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "10.43",
+                "result_num": 10.43,
+                "unit": "g/dL",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "2.8",
+                "result_num": 2.8,
+                "unit": "10^3/uL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "3.33",
+                "result_num": 3.33,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1022,
+    "full_name": "Mohammed Sharma",
+    "gender": "M",
+    "date_of_birth": "2000-10-07",
+    "phone": "8529123992",
+    "registered_on": "2026-10-08",
+    "visits": [
+      {
+        "visit_id": 18,
+        "visit_date": "2026-10-08",
+        "fee_amount": 500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1023,
+    "full_name": "Priya S",
+    "gender": "M",
+    "date_of_birth": "2014-02-17",
+    "phone": "7665359037",
+    "registered_on": "2026-10-02",
+    "visits": [
+      {
+        "visit_id": 82,
+        "visit_date": "2026-10-02",
+        "fee_amount": 600,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 119,
+        "visit_date": "2026-10-10",
+        "fee_amount": 850,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261003-0002",
+            "collected_at": "2026-10-11",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "3.82",
+                "result_num": 3.82,
+                "unit": "mIU/L",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "0.95",
+                "result_num": 0.95,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1024,
+    "full_name": "Lakshmi N",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": "8592845076",
+    "registered_on": "2026-10-19",
+    "visits": [
+      {
+        "visit_id": 141,
+        "visit_date": "2026-10-19",
+        "fee_amount": 850,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 197,
+        "visit_date": "2026-10-26",
+        "fee_amount": 500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88134",
+            "dispensed_on": "2026-10-28",
+            "total_amount": 87,
+            "items": [
+              {
+                "drug_code": "CTZ10",
+                "quantity": 14,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 20,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1025,
+    "full_name": "Lakshmi R",
+    "gender": "M",
+    "date_of_birth": "1984-12-12",
+    "phone": "7939059557",
+    "registered_on": "2026-10-16",
+    "visits": [
+      {
+        "visit_id": 195,
+        "visit_date": "2026-10-16",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261008-0007",
+            "collected_at": "2026-10-18",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "1.46",
+                "result_num": 1.46,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "20.37",
+                "result_num": 20.37,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1026,
+    "full_name": "Meena Sharma",
+    "gender": "F",
+    "date_of_birth": "1997-01-28",
+    "phone": "7592256138",
+    "registered_on": "2026-10-21",
+    "visits": [
+      {
+        "visit_id": 169,
+        "visit_date": "2026-10-21",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261013-0012",
+            "collected_at": "2026-10-21",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "13.3",
+                "result_num": 13.3,
+                "unit": "10^3/uL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "15.81",
+                "result_num": 15.81,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261004-0028",
+            "collected_at": "2026-10-23",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "20.18",
+                "result_num": 20.18,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "0.96",
+                "result_num": 0.96,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "13.04",
+                "result_num": 13.04,
+                "unit": "10^3/uL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1027,
+    "full_name": "Deepak Kumar",
+    "gender": "F",
+    "date_of_birth": "1987-04-27",
+    "phone": null,
+    "registered_on": "2026-10-25",
+    "visits": [
+      {
+        "visit_id": 198,
+        "visit_date": "2026-10-20",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 145,
+        "visit_date": "2026-10-25",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1028,
+    "full_name": "Sneha Nair",
+    "gender": "F",
+    "date_of_birth": "2014-03-11",
+    "phone": null,
+    "registered_on": "2026-10-10",
+    "visits": [
+      {
+        "visit_id": 41,
+        "visit_date": "2026-10-10",
+        "fee_amount": 500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261011-0035",
+            "collected_at": "2026-10-10",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "4.86",
+                "result_num": 4.86,
+                "unit": "mIU/L",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "112.3",
+                "result_num": 112.3,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1029,
+    "full_name": "Arjun S",
+    "gender": "M",
+    "date_of_birth": "1988-04-25",
+    "phone": "7755338677",
+    "registered_on": "2026-10-22",
+    "visits": [
+      {
+        "visit_id": 123,
+        "visit_date": "2026-10-05",
+        "fee_amount": 850,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88101",
+            "dispensed_on": "2026-10-06",
+            "total_amount": 227.25,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 11,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 13,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "visit_id": 29,
+        "visit_date": "2026-10-22",
+        "fee_amount": 500,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1030,
+    "full_name": "Anitha N",
+    "gender": "M",
+    "date_of_birth": "1980-04-15",
+    "phone": "8917364173",
+    "registered_on": "2026-10-13",
+    "visits": [
+      {
+        "visit_id": 24,
+        "visit_date": "2026-10-13",
+        "fee_amount": 0,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261002-0051",
+            "collected_at": "2026-10-15",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "1.25",
+                "result_num": 1.25,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "13.74",
+                "result_num": 13.74,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1031,
+    "full_name": "Priya N",
+    "gender": "F",
+    "date_of_birth": "1984-10-17",
+    "phone": "8642831335",
+    "registered_on": "2026-10-20",
+    "visits": [
+      {
+        "visit_id": 64,
+        "visit_date": "2026-10-20",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1032,
+    "full_name": "Meena Nair",
+    "gender": "F",
+    "date_of_birth": "2009-04-24",
+    "phone": "9261669421",
+    "registered_on": "2026-10-01",
+    "visits": [
+      {
+        "visit_id": 186,
+        "visit_date": "2026-10-01",
+        "fee_amount": 600,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1033,
+    "full_name": "Lakshmi Nair",
+    "gender": "M",
+    "date_of_birth": "2013-09-21",
+    "phone": "9924399252",
+    "registered_on": "2026-10-05",
+    "visits": [
+      {
+        "visit_id": 101,
+        "visit_date": "2026-10-05",
+        "fee_amount": 500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1034,
+    "full_name": "Deepak Babu",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": "7666355637",
+    "registered_on": "2026-10-14",
+    "visits": [
+      {
+        "visit_id": 84,
+        "visit_date": "2026-10-14",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1035,
+    "full_name": "Nandhini Nair",
+    "gender": "M",
+    "date_of_birth": "1991-12-16",
+    "phone": "7386389162",
+    "registered_on": "2026-10-26",
+    "visits": [
+      {
+        "visit_id": 93,
+        "visit_date": "2026-10-26",
+        "fee_amount": 500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88125",
+            "dispensed_on": "2026-10-28",
+            "total_amount": 237,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 20,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 6,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 7,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 8,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1036,
+    "full_name": "Vikram Kumar",
+    "gender": "M",
+    "date_of_birth": null,
+    "phone": "7178414859",
+    "registered_on": "2026-10-02",
+    "visits": [
+      {
+        "visit_id": 126,
+        "visit_date": "2026-10-02",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 131,
+        "visit_date": "2026-10-24",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1037,
+    "full_name": "Harish Reddy",
+    "gender": "M",
+    "date_of_birth": "1995-09-05",
+    "phone": null,
+    "registered_on": "2026-10-07",
+    "visits": [
+      {
+        "visit_id": 133,
+        "visit_date": "2026-10-07",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88152",
+            "dispensed_on": "2026-10-09",
+            "total_amount": 279,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 10,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 18,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1038,
+    "full_name": "Swathi Reddy",
+    "gender": "M",
+    "date_of_birth": "2002-11-03",
+    "phone": null,
+    "registered_on": "2026-10-17",
+    "visits": [
+      {
+        "visit_id": 89,
+        "visit_date": "2026-10-17",
+        "fee_amount": 0,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88160",
+            "dispensed_on": "2026-10-18",
+            "total_amount": 304.5,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 13,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 8,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 6,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 6,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1039,
+    "full_name": "Meena Menon",
+    "gender": "M",
+    "date_of_birth": "1983-06-10",
+    "phone": "8931575232",
+    "registered_on": "2026-10-11",
+    "visits": [
+      {
+        "visit_id": 79,
+        "visit_date": "2026-10-11",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261011-0010",
+            "collected_at": "2026-10-13",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "1.58",
+                "result_num": 1.58,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.02",
+                "result_num": 1.02,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261022-0021",
+            "collected_at": "2026-10-11",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "2.68",
+                "result_num": 2.68,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "100.39",
+                "result_num": 100.39,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1040,
+    "full_name": "Divya Reddy",
+    "gender": "F",
+    "date_of_birth": "1974-07-11",
+    "phone": "8546665485",
+    "registered_on": "2026-10-24",
+    "visits": [
+      {
+        "visit_id": 74,
+        "visit_date": "2026-10-17",
+        "fee_amount": 850,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 65,
+        "visit_date": "2026-10-24",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1041,
+    "full_name": "Lakshmi Kumar",
+    "gender": "M",
+    "date_of_birth": "2002-02-05",
+    "phone": "9214929002",
+    "registered_on": "2026-10-24",
+    "visits": [
+      {
+        "visit_id": 9,
+        "visit_date": "2026-10-01",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 8,
+        "visit_date": "2026-10-24",
+        "fee_amount": 850,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261019-0068",
+            "collected_at": "2026-10-25",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "93.52",
+                "result_num": 93.52,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "3.15",
+                "result_num": 3.15,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1042,
+    "full_name": "Prakash Irfan",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": "7631469831",
+    "registered_on": "2026-10-14",
+    "visits": [
+      {
+        "visit_id": 163,
+        "visit_date": "2026-10-14",
+        "fee_amount": 0,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88118",
+            "dispensed_on": "2026-10-14",
+            "total_amount": 306,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 17,
+                "unit_price": 18
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1043,
+    "full_name": "Mohammed Sharma",
+    "gender": "M",
+    "date_of_birth": "1981-10-23",
+    "phone": "7186237917",
+    "registered_on": "2026-10-11",
+    "visits": [
+      {
+        "visit_id": 48,
+        "visit_date": "2026-10-11",
+        "fee_amount": 850,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261012-0061",
+            "collected_at": "2026-10-12",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "20.27",
+                "result_num": 20.27,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "0.61",
+                "result_num": 0.61,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88161",
+            "dispensed_on": "2026-10-12",
+            "total_amount": 285.75,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 14,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 5,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 18,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 9,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 13,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1044,
+    "full_name": "Swathi R",
+    "gender": "F",
+    "date_of_birth": "1983-07-15",
+    "phone": "7637371044",
+    "registered_on": "2026-10-05",
+    "visits": [
+      {
+        "visit_id": 156,
+        "visit_date": "2026-10-05",
+        "fee_amount": 0,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261005-0004",
+            "collected_at": "2026-10-05",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "20.67",
+                "result_num": 20.67,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "10^3/uL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "3.71",
+                "result_num": 3.71,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261023-0022",
+            "collected_at": "2026-10-06",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "3.23",
+                "result_num": 3.23,
+                "unit": "10^3/uL",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "0.44",
+                "result_num": 0.44,
+                "unit": "mg/dL",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "64.44",
+                "result_num": 64.44,
+                "unit": "mg/dL",
+                "flag": "LOW"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261005-0029",
+            "collected_at": "2026-10-06",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "5.01",
+                "result_num": 5.01,
+                "unit": "mIU/L",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "117.9",
+                "result_num": 117.9,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "19.46",
+                "result_num": 19.46,
+                "unit": "g/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1045,
+    "full_name": "Rahul Nair",
+    "gender": "F",
+    "date_of_birth": "2005-03-14",
+    "phone": "7660221300",
+    "registered_on": "2026-10-21",
+    "visits": [
+      {
+        "visit_id": 28,
+        "visit_date": "2026-10-21",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1046,
+    "full_name": "Sneha Reddy",
+    "gender": "M",
+    "date_of_birth": "2013-08-05",
+    "phone": null,
+    "registered_on": "2026-10-13",
+    "visits": [
+      {
+        "visit_id": 23,
+        "visit_date": "2026-10-13",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261013-0037",
+            "collected_at": "2026-10-15",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "1.58",
+                "result_num": 1.58,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "13.88",
+                "result_num": 13.88,
+                "unit": "10^3/uL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "59.8",
+                "result_num": 59.8,
+                "unit": "mg/dL",
+                "flag": "LOW"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88120",
+            "dispensed_on": "2026-10-14",
+            "total_amount": 118.75,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 5,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 13,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 11,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1047,
+    "full_name": "Divya R",
+    "gender": "F",
+    "date_of_birth": "1993-08-17",
+    "phone": "9705771555",
+    "registered_on": "2026-10-04",
+    "visits": [
+      {
+        "visit_id": 124,
+        "visit_date": "2026-10-04",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88164",
+            "dispensed_on": "2026-10-06",
+            "total_amount": 44,
+            "items": [
+              {
+                "drug_code": "OMP20",
+                "quantity": 8,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1048,
+    "full_name": "Karthik Menon",
+    "gender": "F",
+    "date_of_birth": "2009-06-12",
+    "phone": "9210385522",
+    "registered_on": "2026-10-05",
+    "visits": [
+      {
+        "visit_id": 75,
+        "visit_date": "2026-10-05",
+        "fee_amount": 0,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261001-0075",
+            "collected_at": "2026-10-06",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "4.31",
+                "result_num": 4.31,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "0.77",
+                "result_num": 0.77,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "84.01",
+                "result_num": 84.01,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88110",
+            "dispensed_on": "2026-10-05",
+            "total_amount": 262.5,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 9,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 11,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 9,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 8,
+                "unit_price": 2.25
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88111",
+            "dispensed_on": "2026-10-07",
+            "total_amount": 286.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 20,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 5,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 7,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 9,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 16,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1049,
+    "full_name": "Sneha Nair",
+    "gender": "M",
+    "date_of_birth": null,
+    "phone": "9442648079",
+    "registered_on": "2026-10-08",
+    "visits": [
+      {
+        "visit_id": 105,
+        "visit_date": "2026-10-08",
+        "fee_amount": 850,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1050,
+    "full_name": "Prakash Reddy",
+    "gender": "F",
+    "date_of_birth": "1975-08-21",
+    "phone": "9667243311",
+    "registered_on": "2026-10-01",
+    "visits": [
+      {
+        "visit_id": 177,
+        "visit_date": "2026-10-01",
+        "fee_amount": 600,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1051,
+    "full_name": "Ganesh S",
+    "gender": "F",
+    "date_of_birth": "2000-11-10",
+    "phone": "7197044071",
+    "registered_on": "2026-10-14",
+    "visits": [
+      {
+        "visit_id": 189,
+        "visit_date": "2026-10-05",
+        "fee_amount": 600,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 49,
+        "visit_date": "2026-10-14",
+        "fee_amount": 0,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1052,
+    "full_name": "Meena S",
+    "gender": "F",
+    "date_of_birth": "2005-10-16",
+    "phone": "7578333394",
+    "registered_on": "2026-10-26",
+    "visits": [
+      {
+        "visit_id": 125,
+        "visit_date": "2026-10-26",
+        "fee_amount": 600,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261016-0040",
+            "collected_at": "2026-10-26",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "0.44",
+                "result_num": 0.44,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1053,
+    "full_name": "Lakshmi Menon",
+    "gender": "M",
+    "date_of_birth": "2013-03-09",
+    "phone": "8901611993",
+    "registered_on": "2026-10-11",
+    "visits": [
+      {
+        "visit_id": 55,
+        "visit_date": "2026-10-11",
+        "fee_amount": 500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261010-0034",
+            "collected_at": "2026-10-12",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "3.8",
+                "result_num": 3.8,
+                "unit": "mIU/L",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "5.35",
+                "result_num": 5.35,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.64",
+                "result_num": 1.64,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1054,
+    "full_name": "Meena S",
+    "gender": "M",
+    "date_of_birth": "2002-08-17",
+    "phone": "7517298229",
+    "registered_on": "2026-10-20",
+    "visits": [
+      {
+        "visit_id": 160,
+        "visit_date": "2026-10-20",
+        "fee_amount": 500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88131",
+            "dispensed_on": "2026-10-21",
+            "total_amount": 51,
+            "items": [
+              {
+                "drug_code": "CTZ10",
+                "quantity": 17,
+                "unit_price": 3
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88145",
+            "dispensed_on": "2026-10-21",
+            "total_amount": 81,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 8,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 20,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1055,
+    "full_name": "Rahul Irfan",
+    "gender": "F",
+    "date_of_birth": "1964-12-05",
+    "phone": "9643026584",
+    "registered_on": "2026-10-15",
+    "visits": [
+      {
+        "visit_id": 139,
+        "visit_date": "2026-10-15",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261023-0047",
+            "collected_at": "2026-10-15",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "75.87",
+                "result_num": 75.87,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "g/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1056,
+    "full_name": "Divya S",
+    "gender": "F",
+    "date_of_birth": "2002-07-12",
+    "phone": "8601463916",
+    "registered_on": "2026-10-24",
+    "visits": [
+      {
+        "visit_id": 88,
+        "visit_date": "2026-10-01",
+        "fee_amount": 600,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 168,
+        "visit_date": "2026-10-13",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261023-0072",
+            "collected_at": "2026-10-14",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "70.5",
+                "result_num": 70.5,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.48",
+                "result_num": 1.48,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "0.87",
+                "result_num": 0.87,
+                "unit": "mIU/L",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88170",
+            "dispensed_on": "2026-10-15",
+            "total_amount": 31.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 7,
+                "unit_price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "visit_id": 1,
+        "visit_date": "2026-10-24",
+        "fee_amount": 500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1057,
+    "full_name": "Karthik Kumar",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": "7942284665",
+    "registered_on": "2026-10-11",
+    "visits": [
+      {
+        "visit_id": 148,
+        "visit_date": "2026-10-11",
+        "fee_amount": 850,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261022-0071",
+            "collected_at": "2026-10-12",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "2.24",
+                "result_num": 2.24,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "93.92",
+                "result_num": 93.92,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 175,
+        "visit_date": "2026-10-13",
+        "fee_amount": 850,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1058,
+    "full_name": "Anitha S",
+    "gender": "M",
+    "date_of_birth": "1982-12-26",
+    "phone": "8750911797",
+    "registered_on": "2026-10-17",
+    "visits": [
+      {
+        "visit_id": 14,
+        "visit_date": "2026-10-17",
+        "fee_amount": 0,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261020-0069",
+            "collected_at": "2026-10-18",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "8.59",
+                "result_num": 8.59,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "g/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 112,
+        "visit_date": "2026-10-21",
+        "fee_amount": 600,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261017-0041",
+            "collected_at": "2026-10-21",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "11.86",
+                "result_num": 11.86,
+                "unit": "10^3/uL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "0.49",
+                "result_num": 0.49,
+                "unit": "mg/dL",
+                "flag": "LOW"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1059,
+    "full_name": "Ravi Kumar",
+    "gender": "F",
+    "date_of_birth": "2012-02-28",
+    "phone": "7241921987",
+    "registered_on": "2026-10-16",
+    "visits": [
+      {
+        "visit_id": 173,
+        "visit_date": "2026-10-16",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1060,
+    "full_name": "Ganesh Sharma",
+    "gender": "M",
+    "date_of_birth": "1962-04-10",
+    "phone": "7587512424",
+    "registered_on": "2026-10-03",
+    "visits": [
+      {
+        "visit_id": 37,
+        "visit_date": "2026-10-03",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 170,
+        "visit_date": "2026-10-11",
+        "fee_amount": 500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1061,
+    "full_name": "Sneha N",
+    "gender": "M",
+    "date_of_birth": "1995-01-17",
+    "phone": "9359154084",
+    "registered_on": "2026-10-24",
+    "visits": [
+      {
+        "visit_id": 30,
+        "visit_date": "2026-10-24",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88154",
+            "dispensed_on": "2026-10-25",
+            "total_amount": 90,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 20,
+                "unit_price": 4.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1062,
+    "full_name": "Divya Reddy",
+    "gender": "F",
+    "date_of_birth": "1977-02-25",
+    "phone": "8788785773",
+    "registered_on": "2026-10-17",
+    "visits": [
+      {
+        "visit_id": 13,
+        "visit_date": "2026-10-17",
+        "fee_amount": 850,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88108",
+            "dispensed_on": "2026-10-18",
+            "total_amount": 308.25,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 14,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 11,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 9,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 9,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1063,
+    "full_name": "Ganesh Sharma",
+    "gender": "M",
+    "date_of_birth": "1994-09-28",
+    "phone": "7139476288",
+    "registered_on": "2026-10-26",
+    "visits": [
+      {
+        "visit_id": 174,
+        "visit_date": "2026-10-01",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 154,
+        "visit_date": "2026-10-26",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1064,
+    "full_name": "Anitha Reddy",
+    "gender": "F",
+    "date_of_birth": "1974-09-07",
+    "phone": "9641054044",
+    "registered_on": "2026-10-10",
+    "visits": [
+      {
+        "visit_id": 130,
+        "visit_date": "2026-10-10",
+        "fee_amount": 850,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261024-0023",
+            "collected_at": "2026-10-12",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "2.52",
+                "result_num": 2.52,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "14.74",
+                "result_num": 14.74,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1065,
+    "full_name": "Suresh Sharma",
+    "gender": "M",
+    "date_of_birth": "1986-06-22",
+    "phone": "8755621841",
+    "registered_on": "2026-10-10",
+    "visits": [
+      {
+        "visit_id": 83,
+        "visit_date": "2026-10-10",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1066,
+    "full_name": "Swathi R",
+    "gender": "M",
+    "date_of_birth": "1999-11-13",
+    "phone": "7452108572",
+    "registered_on": "2026-10-03",
+    "visits": [
+      {
+        "visit_id": 121,
+        "visit_date": "2026-10-03",
+        "fee_amount": 0,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1067,
+    "full_name": "Divya Menon",
+    "gender": "F",
+    "date_of_birth": "1968-07-06",
+    "phone": "8368227631",
+    "registered_on": "2026-10-03",
+    "visits": [
+      {
+        "visit_id": 2,
+        "visit_date": "2026-10-03",
+        "fee_amount": 0,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261011-0060",
+            "collected_at": "2026-10-05",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "15.23",
+                "result_num": 15.23,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "82.27",
+                "result_num": 82.27,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "11.63",
+                "result_num": 11.63,
+                "unit": "10^3/uL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1068,
+    "full_name": "Nandhini Menon",
+    "gender": "M",
+    "date_of_birth": "2003-05-09",
+    "phone": "9534212844",
+    "registered_on": "2026-10-15",
+    "visits": [
+      {
+        "visit_id": 191,
+        "visit_date": "2026-10-15",
+        "fee_amount": 600,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261006-0005",
+            "collected_at": "2026-10-16",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "17.23",
+                "result_num": 17.23,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1069,
+    "full_name": "Ganesh R",
+    "gender": "F",
+    "date_of_birth": "1997-07-13",
+    "phone": "7330635563",
+    "registered_on": "2026-10-07",
+    "visits": [
+      {
+        "visit_id": 159,
+        "visit_date": "2026-10-07",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88172",
+            "dispensed_on": "2026-10-09",
+            "total_amount": 360,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 20,
+                "unit_price": 18
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1070,
+    "full_name": "Deepak N",
+    "gender": "F",
+    "date_of_birth": "2006-11-16",
+    "phone": "7309968304",
+    "registered_on": "2026-10-15",
+    "visits": [
+      {
+        "visit_id": 150,
+        "visit_date": "2026-10-15",
+        "fee_amount": 850,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88138",
+            "dispensed_on": "2026-10-15",
+            "total_amount": 408.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 9,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 13,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 10,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 14,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 12,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1071,
+    "full_name": "Deepak Menon",
+    "gender": "F",
+    "date_of_birth": "1979-08-15",
+    "phone": "9495928981",
+    "registered_on": "2026-10-10",
+    "visits": [
+      {
+        "visit_id": 77,
+        "visit_date": "2026-10-10",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 100,
+        "visit_date": "2026-10-25",
+        "fee_amount": 500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261008-0057",
+            "collected_at": "2026-10-27",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "5.07",
+                "result_num": 5.07,
+                "unit": "mIU/L",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "19.72",
+                "result_num": 19.72,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.55",
+                "result_num": 1.55,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1072,
+    "full_name": "Sneha N",
+    "gender": "F",
+    "date_of_birth": "2002-12-11",
+    "phone": null,
+    "registered_on": "2026-10-05",
+    "visits": [
+      {
+        "visit_id": 6,
+        "visit_date": "2026-10-05",
+        "fee_amount": 850,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 21,
+        "visit_date": "2026-10-23",
+        "fee_amount": 0,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 167,
+        "visit_date": "2026-10-26",
+        "fee_amount": 850,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261019-0043",
+            "collected_at": "2026-10-27",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "1.04",
+                "result_num": 1.04,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "3.38",
+                "result_num": 3.38,
+                "unit": "10^3/uL",
+                "flag": "LOW"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1073,
+    "full_name": "Swathi Kumar",
+    "gender": "M",
+    "date_of_birth": "1990-01-12",
+    "phone": "8997356828",
+    "registered_on": "2026-10-14",
+    "visits": [
+      {
+        "visit_id": 22,
+        "visit_date": "2026-10-14",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261003-0052",
+            "collected_at": "2026-10-14",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "1.45",
+                "result_num": 1.45,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "74.37",
+                "result_num": 74.37,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "3.43",
+                "result_num": 3.43,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1074,
+    "full_name": "Suresh Reddy",
+    "gender": "F",
+    "date_of_birth": "1990-04-28",
+    "phone": "9276777762",
+    "registered_on": "2026-10-13",
+    "visits": [
+      {
+        "visit_id": 3,
+        "visit_date": "2026-10-13",
+        "fee_amount": 850,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1075,
+    "full_name": "Anitha Reddy",
+    "gender": "M",
+    "date_of_birth": "2006-12-25",
+    "phone": null,
+    "registered_on": "2026-10-03",
+    "visits": [
+      {
+        "visit_id": 172,
+        "visit_date": "2026-10-03",
+        "fee_amount": 600,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1076,
+    "full_name": "Ravi Nair",
+    "gender": "M",
+    "date_of_birth": "1977-09-03",
+    "phone": "7719175016",
+    "registered_on": "2026-10-21",
+    "visits": [
+      {
+        "visit_id": 182,
+        "visit_date": "2026-10-21",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1077,
+    "full_name": "Priya N",
+    "gender": "F",
+    "date_of_birth": "2008-07-12",
+    "phone": "8154930149",
+    "registered_on": "2026-10-19",
+    "visits": [
+      {
+        "visit_id": 108,
+        "visit_date": "2026-10-19",
+        "fee_amount": 850,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1078,
+    "full_name": "Rahul S",
+    "gender": "F",
+    "date_of_birth": "1999-06-22",
+    "phone": "7422468580",
+    "registered_on": "2026-10-17",
+    "visits": [
+      {
+        "visit_id": 15,
+        "visit_date": "2026-10-17",
+        "fee_amount": 850,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261002-0026",
+            "collected_at": "2026-10-19",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "9.9",
+                "result_num": 9.9,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "15.57",
+                "result_num": 15.57,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261020-0044",
+            "collected_at": "2026-10-19",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "61.91",
+                "result_num": 61.91,
+                "unit": "mg/dL",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "13.64",
+                "result_num": 13.64,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261025-0049",
+            "collected_at": "2026-10-18",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "113.54",
+                "result_num": 113.54,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.23",
+                "result_num": 1.23,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "21.65",
+                "result_num": 21.65,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88116",
+            "dispensed_on": "2026-10-18",
+            "total_amount": 483,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 8,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 18,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 17,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 9,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 10,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1079,
+    "full_name": "Lakshmi Kumar",
+    "gender": "F",
+    "date_of_birth": "1986-01-07",
+    "phone": "8768548027",
+    "registered_on": "2026-10-25",
+    "visits": [
+      {
+        "visit_id": 42,
+        "visit_date": "2026-10-25",
+        "fee_amount": 500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1080,
+    "full_name": "Ravi N",
+    "gender": "M",
+    "date_of_birth": "2008-03-16",
+    "phone": "7574840200",
+    "registered_on": "2026-10-09",
+    "visits": [
+      {
+        "visit_id": 40,
+        "visit_date": "2026-10-09",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1081,
+    "full_name": "Lakshmi Kumar",
+    "gender": "F",
+    "date_of_birth": "1973-12-19",
+    "phone": null,
+    "registered_on": "2026-10-03",
+    "visits": [
+      {
+        "visit_id": 143,
+        "visit_date": "2026-10-03",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261007-0031",
+            "collected_at": "2026-10-05",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "3.86",
+                "result_num": 3.86,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "17.44",
+                "result_num": 17.44,
+                "unit": "g/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1082,
+    "full_name": "Nandhini Irfan",
+    "gender": "M",
+    "date_of_birth": "1985-09-27",
+    "phone": "8408071259",
+    "registered_on": "2026-10-07",
+    "visits": [
+      {
+        "visit_id": 16,
+        "visit_date": "2026-10-07",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1083,
+    "full_name": "Nandhini Menon",
+    "gender": "F",
+    "date_of_birth": "1976-01-25",
+    "phone": "8483298103",
+    "registered_on": "2026-10-25",
+    "visits": [
+      {
+        "visit_id": 92,
+        "visit_date": "2026-10-25",
+        "fee_amount": 850,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88117",
+            "dispensed_on": "2026-10-25",
+            "total_amount": 139,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 15,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 13,
+                "unit_price": 5.5
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88168",
+            "dispensed_on": "2026-10-25",
+            "total_amount": 202.75,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 19,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 10,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 13,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 7,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1084,
+    "full_name": "Priya Reddy",
+    "gender": "F",
+    "date_of_birth": "1983-02-03",
+    "phone": "8577531502",
+    "registered_on": "2026-10-12",
+    "visits": [
+      {
+        "visit_id": 147,
+        "visit_date": "2026-10-12",
+        "fee_amount": 600,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88135",
+            "dispensed_on": "2026-10-12",
+            "total_amount": 93.5,
+            "items": [
+              {
+                "drug_code": "OMP20",
+                "quantity": 17,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1085,
+    "full_name": "Vikram Babu",
+    "gender": "F",
+    "date_of_birth": "1993-11-10",
+    "phone": "9524410834",
+    "registered_on": "2026-10-20",
+    "visits": [
+      {
+        "visit_id": 71,
+        "visit_date": "2026-10-20",
+        "fee_amount": 600,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261021-0020",
+            "collected_at": "2026-10-21",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "0.67",
+                "result_num": 0.67,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "15.99",
+                "result_num": 15.99,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261021-0045",
+            "collected_at": "2026-10-21",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "0.99",
+                "result_num": 0.99,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "17.17",
+                "result_num": 17.17,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "6.49",
+                "result_num": 6.49,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261004-0053",
+            "collected_at": "2026-10-21",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "118.56",
+                "result_num": 118.56,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "12.52",
+                "result_num": 12.52,
+                "unit": "g/dL",
+                "flag": "LOW"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1086,
+    "full_name": "Karthik R",
+    "gender": "M",
+    "date_of_birth": "1984-08-12",
+    "phone": "8730651895",
+    "registered_on": "2026-10-24",
+    "visits": [
+      {
+        "visit_id": 58,
+        "visit_date": "2026-10-24",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1087,
+    "full_name": "Sneha Irfan",
+    "gender": "F",
+    "date_of_birth": "1963-01-05",
+    "phone": "7252098390",
+    "registered_on": "2026-10-25",
+    "visits": [
+      {
+        "visit_id": 199,
+        "visit_date": "2026-10-25",
+        "fee_amount": 850,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261017-0066",
+            "collected_at": "2026-10-25",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "10^3/uL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.19",
+                "result_num": 1.19,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1088,
+    "full_name": "Priya Babu",
+    "gender": "M",
+    "date_of_birth": "1965-04-04",
+    "phone": "8751028618",
+    "registered_on": "2026-10-20",
+    "visits": [
+      {
+        "visit_id": 110,
+        "visit_date": "2026-10-06",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88129",
+            "dispensed_on": "2026-10-08",
+            "total_amount": 93.75,
+            "items": [
+              {
+                "drug_code": "CTZ10",
+                "quantity": 20,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 15,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "visit_id": 35,
+        "visit_date": "2026-10-20",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88156",
+            "dispensed_on": "2026-10-21",
+            "total_amount": 355.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 6,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 13,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 10,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 6,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 14,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1089,
+    "full_name": "Karthik Kumar",
+    "gender": "F",
+    "date_of_birth": "1963-03-19",
+    "phone": "7524126612",
+    "registered_on": "2026-10-16",
+    "visits": [
+      {
+        "visit_id": 193,
+        "visit_date": "2026-10-16",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261025-0074",
+            "collected_at": "2026-10-18",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "2.15",
+                "result_num": 2.15,
+                "unit": "mIU/L",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "20.3",
+                "result_num": 20.3,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "5.9",
+                "result_num": 5.9,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1090,
+    "full_name": "Anitha N",
+    "gender": "M",
+    "date_of_birth": "1982-02-19",
+    "phone": "9266140258",
+    "registered_on": "2026-10-22",
+    "visits": [
+      {
+        "visit_id": 67,
+        "visit_date": "2026-10-22",
+        "fee_amount": 500,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88143",
+            "dispensed_on": "2026-10-23",
+            "total_amount": 366.25,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 14,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 8,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 7,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 19,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 15,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1091,
+    "full_name": "Vikram Babu",
+    "gender": "F",
+    "date_of_birth": "2003-03-11",
+    "phone": "9427899285",
+    "registered_on": "2026-10-04",
+    "visits": [
+      {
+        "visit_id": 161,
+        "visit_date": "2026-10-04",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1092,
+    "full_name": "Meena Irfan",
+    "gender": "M",
+    "date_of_birth": "1999-10-20",
+    "phone": null,
+    "registered_on": "2026-10-16",
+    "visits": [
+      {
+        "visit_id": 194,
+        "visit_date": "2026-10-16",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261020-0019",
+            "collected_at": "2026-10-16",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "110.8",
+                "result_num": 110.8,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "1.93",
+                "result_num": 1.93,
+                "unit": "mIU/L",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "11.36",
+                "result_num": 11.36,
+                "unit": "10^3/uL",
+                "flag": "HIGH"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261007-0056",
+            "collected_at": "2026-10-16",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "122.53",
+                "result_num": 122.53,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "15.01",
+                "result_num": 15.01,
+                "unit": "g/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "1.87",
+                "result_num": 1.87,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1093,
+    "full_name": "Nandhini S",
+    "gender": "M",
+    "date_of_birth": "1977-02-10",
+    "phone": "7318181642",
+    "registered_on": "2026-10-26",
+    "visits": [
+      {
+        "visit_id": 179,
+        "visit_date": "2026-10-26",
+        "fee_amount": 850,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1094,
+    "full_name": "Anitha N",
+    "gender": "F",
+    "date_of_birth": "1994-05-06",
+    "phone": "7897272900",
+    "registered_on": "2026-10-25",
+    "visits": [
+      {
+        "visit_id": 164,
+        "visit_date": "2026-10-25",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1095,
+    "full_name": "Rahul Irfan",
+    "gender": "F",
+    "date_of_birth": "2000-09-23",
+    "phone": "7279170491",
+    "registered_on": "2026-10-16",
+    "visits": [
+      {
+        "visit_id": 162,
+        "visit_date": "2026-10-16",
+        "fee_amount": 600,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88155",
+            "dispensed_on": "2026-10-18",
+            "total_amount": 348.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 14,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 7,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 12,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 20,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 6,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1096,
+    "full_name": "Kavitha Kumar",
+    "gender": "F",
+    "date_of_birth": "2010-02-12",
+    "phone": "7805560474",
+    "registered_on": "2026-10-21",
+    "visits": [
+      {
+        "visit_id": 90,
+        "visit_date": "2026-10-21",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88133",
+            "dispensed_on": "2026-10-22",
+            "total_amount": 60,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 6,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 11,
+                "unit_price": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1097,
+    "full_name": "Anitha Reddy",
+    "gender": "F",
+    "date_of_birth": "1989-05-25",
+    "phone": "8192755745",
+    "registered_on": "2026-10-18",
+    "visits": [
+      {
+        "visit_id": 185,
+        "visit_date": "2026-10-18",
+        "fee_amount": 850,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261004-0003",
+            "collected_at": "2026-10-20",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "6.47",
+                "result_num": 6.47,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261015-0064",
+            "collected_at": "2026-10-20",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "8.97",
+                "result_num": 8.97,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "5.16",
+                "result_num": 5.16,
+                "unit": "mIU/L",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88167",
+            "dispensed_on": "2026-10-18",
+            "total_amount": 217,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 13,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 18,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 19,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1098,
+    "full_name": "Ravi N",
+    "gender": "M",
+    "date_of_birth": "2011-08-17",
+    "phone": "7349926429",
+    "registered_on": "2026-10-06",
+    "visits": [
+      {
+        "visit_id": 196,
+        "visit_date": "2026-10-06",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88104",
+            "dispensed_on": "2026-10-07",
+            "total_amount": 24.75,
+            "items": [
+              {
+                "drug_code": "PCM650",
+                "quantity": 11,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1099,
+    "full_name": "Anitha Menon",
+    "gender": "F",
+    "date_of_birth": "2014-02-15",
+    "phone": "8816806128",
+    "registered_on": "2026-10-17",
+    "visits": [
+      {
+        "visit_id": 19,
+        "visit_date": "2026-10-17",
+        "fee_amount": 850,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261022-0046",
+            "collected_at": "2026-10-19",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "5.01",
+                "result_num": 5.01,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "11.28",
+                "result_num": 11.28,
+                "unit": "g/dL",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "49.59",
+                "result_num": 49.59,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1100,
+    "full_name": "Karthik N",
+    "gender": "F",
+    "date_of_birth": "2010-10-26",
+    "phone": "8672030854",
+    "registered_on": "2026-10-14",
+    "visits": [
+      {
+        "visit_id": 27,
+        "visit_date": "2026-10-14",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1101,
+    "full_name": "Meena Irfan",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": "7397760792",
+    "registered_on": "2026-10-25",
+    "visits": [
+      {
+        "visit_id": 20,
+        "visit_date": "2026-10-25",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88106",
+            "dispensed_on": "2026-10-25",
+            "total_amount": 102.75,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 5,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 17,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 13,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1102,
+    "full_name": "Karthik Sharma",
+    "gender": "F",
+    "date_of_birth": "2004-10-23",
+    "phone": "8356979659",
+    "registered_on": "2026-10-18",
+    "visits": [
+      {
+        "visit_id": 135,
+        "visit_date": "2026-10-18",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1103,
+    "full_name": "Anitha S",
+    "gender": "M",
+    "date_of_birth": "1984-07-18",
+    "phone": "9783703040",
+    "registered_on": "2026-10-01",
+    "visits": [
+      {
+        "visit_id": 142,
+        "visit_date": "2026-10-01",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261018-0067",
+            "collected_at": "2026-10-03",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "15.84",
+                "result_num": 15.84,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "90.35",
+                "result_num": 90.35,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "3.6",
+                "result_num": 3.6,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88144",
+            "dispensed_on": "2026-10-01",
+            "total_amount": 308.5,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 15,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 7,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1104,
+    "full_name": "Vikram Babu",
+    "gender": "M",
+    "date_of_birth": "1999-12-04",
+    "phone": "7326586581",
+    "registered_on": "2026-10-09",
+    "visits": [
+      {
+        "visit_id": 36,
+        "visit_date": "2026-10-09",
+        "fee_amount": 600,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261019-0018",
+            "collected_at": "2026-10-11",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "0.45",
+                "result_num": 0.45,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "4.98",
+                "result_num": 4.98,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "92.31",
+                "result_num": 92.31,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1105,
+    "full_name": "Ravi Babu",
+    "gender": "M",
+    "date_of_birth": "1998-12-16",
+    "phone": "9751831074",
+    "registered_on": "2026-10-26",
+    "visits": [
+      {
+        "visit_id": 53,
+        "visit_date": "2026-10-26",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1106,
+    "full_name": "Swathi Irfan",
+    "gender": "F",
+    "date_of_birth": "1989-11-09",
+    "phone": "8816014770",
+    "registered_on": "2026-10-01",
+    "visits": [
+      {
+        "visit_id": 51,
+        "visit_date": "2026-10-01",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1107,
+    "full_name": "Deepak Nair",
+    "gender": "M",
+    "date_of_birth": "1969-04-17",
+    "phone": "7832077572",
+    "registered_on": "2026-10-26",
+    "visits": [
+      {
+        "visit_id": 50,
+        "visit_date": "2026-10-26",
+        "fee_amount": 600,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261012-0036",
+            "collected_at": "2026-10-28",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "3.36",
+                "result_num": 3.36,
+                "unit": "10^3/uL",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "15.38",
+                "result_num": 15.38,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1108,
+    "full_name": "Harish N",
+    "gender": "M",
+    "date_of_birth": "1990-04-26",
+    "phone": "8586989309",
+    "registered_on": "2026-10-03",
+    "visits": [
+      {
+        "visit_id": 104,
+        "visit_date": "2026-10-03",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 113,
+        "visit_date": "2026-10-25",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1109,
+    "full_name": "Rahul R",
+    "gender": "M",
+    "date_of_birth": "1970-12-04",
+    "phone": "9605399561",
+    "registered_on": "2026-10-08",
+    "visits": [
+      {
+        "visit_id": 12,
+        "visit_date": "2026-10-08",
+        "fee_amount": 850,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 106,
+        "visit_date": "2026-10-11",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 200,
+        "visit_date": "2026-10-21",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1110,
+    "full_name": "Karthik Irfan",
+    "gender": "M",
+    "date_of_birth": "1993-03-24",
+    "phone": "9911941471",
+    "registered_on": "2026-10-01",
+    "visits": [
+      {
+        "visit_id": 128,
+        "visit_date": "2026-10-01",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1111,
+    "full_name": "Vikram Kumar",
+    "gender": "M",
+    "date_of_birth": "2005-02-12",
+    "phone": "7375354619",
+    "registered_on": "2026-10-24",
+    "visits": [
+      {
+        "visit_id": 116,
+        "visit_date": "2026-10-24",
+        "fee_amount": 600,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88109",
+            "dispensed_on": "2026-10-26",
+            "total_amount": 144,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 8,
+                "unit_price": 18
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88163",
+            "dispensed_on": "2026-10-25",
+            "total_amount": 310.25,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 12,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 11,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 15,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1112,
+    "full_name": "Prakash Sharma",
+    "gender": "M",
+    "date_of_birth": "1965-01-09",
+    "phone": "9689274064",
+    "registered_on": "2026-10-24",
+    "visits": [
+      {
+        "visit_id": 87,
+        "visit_date": "2026-10-24",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261010-0009",
+            "collected_at": "2026-10-26",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "16.28",
+                "result_num": 16.28,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.58",
+                "result_num": 1.58,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "96.59",
+                "result_num": 96.59,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88149",
+            "dispensed_on": "2026-10-24",
+            "total_amount": 410.25,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 8,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 16,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 14,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 6,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 5,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1113,
+    "full_name": "Anitha Sharma",
+    "gender": "F",
+    "date_of_birth": "1980-10-16",
+    "phone": "9166436383",
+    "registered_on": "2026-10-15",
+    "visits": [
+      {
+        "visit_id": 78,
+        "visit_date": "2026-10-15",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261009-0058",
+            "collected_at": "2026-10-15",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "97.76",
+                "result_num": 97.76,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "0.95",
+                "result_num": 0.95,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1114,
+    "full_name": "Swathi Babu",
+    "gender": "F",
+    "date_of_birth": "2003-10-21",
+    "phone": "8773469560",
+    "registered_on": "2026-10-11",
+    "visits": [
+      {
+        "visit_id": 76,
+        "visit_date": "2026-10-11",
+        "fee_amount": 500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261018-0042",
+            "collected_at": "2026-10-13",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "128.66",
+                "result_num": 128.66,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "3.9",
+                "result_num": 3.9,
+                "unit": "mIU/L",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1115,
+    "full_name": "Anitha N",
+    "gender": "M",
+    "date_of_birth": "1971-03-25",
+    "phone": "8510684364",
+    "registered_on": "2026-10-15",
+    "visits": [
+      {
+        "visit_id": 127,
+        "visit_date": "2026-10-15",
+        "fee_amount": 500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 132,
+        "visit_date": "2026-10-18",
+        "fee_amount": 600,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88159",
+            "dispensed_on": "2026-10-18",
+            "total_amount": 301.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 7,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 15,
+                "unit_price": 18
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88162",
+            "dispensed_on": "2026-10-20",
+            "total_amount": 288,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 16,
+                "unit_price": 18
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1116,
+    "full_name": "Sneha S",
+    "gender": "M",
+    "date_of_birth": null,
+    "phone": "9508244633",
+    "registered_on": "2026-10-18",
+    "visits": [
+      {
+        "visit_id": 72,
+        "visit_date": "2026-10-18",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88115",
+            "dispensed_on": "2026-10-18",
+            "total_amount": 489.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 11,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 17,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 19,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 14,
+                "unit_price": 5.5
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88148",
+            "dispensed_on": "2026-10-19",
+            "total_amount": 73.5,
+            "items": [
+              {
+                "drug_code": "CTZ10",
+                "quantity": 14,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 14,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1117,
+    "full_name": "Divya Babu",
+    "gender": "F",
+    "date_of_birth": "2015-12-20",
+    "phone": "9761587312",
+    "registered_on": "2026-10-05",
+    "visits": [
+      {
+        "visit_id": 166,
+        "visit_date": "2026-10-05",
+        "fee_amount": 500,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88124",
+            "dispensed_on": "2026-10-05",
+            "total_amount": 146.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 14,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 7,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 20,
+                "unit_price": 2.25
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88153",
+            "dispensed_on": "2026-10-07",
+            "total_amount": 121.25,
+            "items": [
+              {
+                "drug_code": "OMP20",
+                "quantity": 20,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 5,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1118,
+    "full_name": "Deepak Sharma",
+    "gender": "F",
+    "date_of_birth": "1997-02-17",
+    "phone": "7980428452",
+    "registered_on": "2026-10-13",
+    "visits": [
+      {
+        "visit_id": 188,
+        "visit_date": "2026-10-13",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1119,
+    "full_name": "Prakash Babu",
+    "gender": "F",
+    "date_of_birth": "1980-07-09",
+    "phone": "8222286118",
+    "registered_on": "2026-10-19",
+    "visits": [
+      {
+        "visit_id": 152,
+        "visit_date": "2026-10-19",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261006-0055",
+            "collected_at": "2026-10-20",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "0.65",
+                "result_num": 0.65,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "127.39",
+                "result_num": 127.39,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1120,
+    "full_name": "Nandhini Reddy",
+    "gender": "M",
+    "date_of_birth": "1991-01-05",
+    "phone": null,
+    "registered_on": "2026-10-04",
+    "visits": [
+      {
+        "visit_id": 47,
+        "visit_date": "2026-10-04",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1121,
+    "full_name": "Prakash Kumar",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": null,
+    "registered_on": "2026-10-15",
+    "visits": [
+      {
+        "visit_id": 57,
+        "visit_date": "2026-10-15",
+        "fee_amount": 500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88140",
+            "dispensed_on": "2026-10-15",
+            "total_amount": 362.5,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 11,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 15,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 16,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 14,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1122,
+    "full_name": "Mohammed Kumar",
+    "gender": "M",
+    "date_of_birth": "1975-04-27",
+    "phone": "7263619298",
+    "registered_on": "2026-10-08",
+    "visits": [
+      {
+        "visit_id": 25,
+        "visit_date": "2026-10-08",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261009-0008",
+            "collected_at": "2026-10-08",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "21.9",
+                "result_num": 21.9,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "4.25",
+                "result_num": 4.25,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88130",
+            "dispensed_on": "2026-10-10",
+            "total_amount": 211.25,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 6,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 14,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 5,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 15,
+                "unit_price": 2.25
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88151",
+            "dispensed_on": "2026-10-08",
+            "total_amount": 96.25,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 5,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 5,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 7,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 9,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1123,
+    "full_name": "Prakash S",
+    "gender": "M",
+    "date_of_birth": "1996-05-16",
+    "phone": "8465830215",
+    "registered_on": "2026-10-06",
+    "visits": [
+      {
+        "visit_id": 34,
+        "visit_date": "2026-10-06",
+        "fee_amount": 0,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261010-0059",
+            "collected_at": "2026-10-06",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "11.19",
+                "result_num": 11.19,
+                "unit": "g/dL",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88173",
+            "dispensed_on": "2026-10-07",
+            "total_amount": 134,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 20,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 8,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1124,
+    "full_name": "Mohammed S",
+    "gender": "F",
+    "date_of_birth": "1965-07-04",
+    "phone": "9697398528",
+    "registered_on": "2026-10-02",
+    "visits": [
+      {
+        "visit_id": 66,
+        "visit_date": "2026-10-02",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1125,
+    "full_name": "Lakshmi Menon",
+    "gender": "F",
+    "date_of_birth": "1988-02-20",
+    "phone": "8888699799",
+    "registered_on": "2026-10-11",
+    "visits": [
+      {
+        "visit_id": 39,
+        "visit_date": "2026-10-11",
+        "fee_amount": 500,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1126,
+    "full_name": "Ganesh N",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": null,
+    "registered_on": "2026-10-10",
+    "visits": [
+      {
+        "visit_id": 33,
+        "visit_date": "2026-10-10",
+        "fee_amount": 600,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261025-0024",
+            "collected_at": "2026-10-10",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "50.77",
+                "result_num": 50.77,
+                "unit": "mg/dL",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.32",
+                "result_num": 1.32,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88169",
+            "dispensed_on": "2026-10-12",
+            "total_amount": 40.5,
+            "items": [
+              {
+                "drug_code": "PCM650",
+                "quantity": 18,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1127,
+    "full_name": "Deepak Nair",
+    "gender": "M",
+    "date_of_birth": "1996-01-20",
+    "phone": "7583100677",
+    "registered_on": "2026-10-12",
+    "visits": [
+      {
+        "visit_id": 96,
+        "visit_date": "2026-10-12",
+        "fee_amount": 500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261024-0073",
+            "collected_at": "2026-10-14",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "11.59",
+                "result_num": 11.59,
+                "unit": "10^3/uL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "3.97",
+                "result_num": 3.97,
+                "unit": "mIU/L",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "83.28",
+                "result_num": 83.28,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1128,
+    "full_name": "Prakash Sharma",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": "9498041381",
+    "registered_on": "2026-10-11",
+    "visits": [
+      {
+        "visit_id": 136,
+        "visit_date": "2026-10-11",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1129,
+    "full_name": "Arjun Nair",
+    "gender": "M",
+    "date_of_birth": "2014-02-09",
+    "phone": null,
+    "registered_on": "2026-10-09",
+    "visits": [
+      {
+        "visit_id": 102,
+        "visit_date": "2026-10-09",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261015-0039",
+            "collected_at": "2026-10-11",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "1.49",
+                "result_num": 1.49,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "12.1",
+                "result_num": 12.1,
+                "unit": "10^3/uL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mIU/L",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88105",
+            "dispensed_on": "2026-10-11",
+            "total_amount": 330,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 15,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 20,
+                "unit_price": 3
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88112",
+            "dispensed_on": "2026-10-11",
+            "total_amount": 357.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 6,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 12,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 18,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 11,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1130,
+    "full_name": "Prakash Irfan",
+    "gender": "F",
+    "date_of_birth": null,
+    "phone": "8200273738",
+    "registered_on": "2026-10-25",
+    "visits": [
+      {
+        "visit_id": 120,
+        "visit_date": "2026-10-04",
+        "fee_amount": 0,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261014-0013",
+            "collected_at": "2026-10-04",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "69.21",
+                "result_num": 69.21,
+                "unit": "mg/dL",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.31",
+                "result_num": 1.31,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261015-0014",
+            "collected_at": "2026-10-06",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "8.26",
+                "result_num": 8.26,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.48",
+                "result_num": 1.48,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "10.28",
+                "result_num": 10.28,
+                "unit": "g/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 17,
+        "visit_date": "2026-10-25",
+        "fee_amount": 600,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88158",
+            "dispensed_on": "2026-10-26",
+            "total_amount": 244.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 9,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 10,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 8,
+                "unit_price": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1131,
+    "full_name": "Prakash Nair",
+    "gender": "F",
+    "date_of_birth": "1995-09-13",
+    "phone": "8302563940",
+    "registered_on": "2026-10-23",
+    "visits": [
+      {
+        "visit_id": 46,
+        "visit_date": "2026-10-23",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88119",
+            "dispensed_on": "2026-10-24",
+            "total_amount": 50.25,
+            "items": [
+              {
+                "drug_code": "CTZ10",
+                "quantity": 10,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 9,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1132,
+    "full_name": "Meena Nair",
+    "gender": "M",
+    "date_of_birth": "1977-04-24",
+    "phone": "9969170578",
+    "registered_on": "2026-10-22",
+    "visits": [
+      {
+        "visit_id": 129,
+        "visit_date": "2026-10-22",
+        "fee_amount": 0,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261014-0038",
+            "collected_at": "2026-10-24",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "72.54",
+                "result_num": 72.54,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.67",
+                "result_num": 1.67,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1133,
+    "full_name": "Mohammed R",
+    "gender": "M",
+    "date_of_birth": "1963-06-08",
+    "phone": "7320337809",
+    "registered_on": "2026-10-03",
+    "visits": [
+      {
+        "visit_id": 60,
+        "visit_date": "2026-10-03",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1134,
+    "full_name": "Vikram Reddy",
+    "gender": "M",
+    "date_of_birth": "1989-05-07",
+    "phone": "8214518079",
+    "registered_on": "2026-10-08",
+    "visits": [
+      {
+        "visit_id": 52,
+        "visit_date": "2026-10-08",
+        "fee_amount": 0,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261003-0027",
+            "collected_at": "2026-10-09",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "50.03",
+                "result_num": 50.03,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "10^3/uL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.63",
+                "result_num": 1.63,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88136",
+            "dispensed_on": "2026-10-08",
+            "total_amount": 57,
+            "items": [
+              {
+                "drug_code": "CTZ10",
+                "quantity": 19,
+                "unit_price": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1135,
+    "full_name": "Swathi N",
+    "gender": "F",
+    "date_of_birth": "2012-01-12",
+    "phone": "7217687031",
+    "registered_on": "2026-10-14",
+    "visits": [
+      {
+        "visit_id": 111,
+        "visit_date": "2026-10-14",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88165",
+            "dispensed_on": "2026-10-16",
+            "total_amount": 57.75,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 6,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 5,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 7,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1136,
+    "full_name": "Divya S",
+    "gender": "M",
+    "date_of_birth": "2014-02-15",
+    "phone": "7577934499",
+    "registered_on": "2026-10-03",
+    "visits": [
+      {
+        "visit_id": 98,
+        "visit_date": "2026-10-03",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1137,
+    "full_name": "Deepak Irfan",
+    "gender": "M",
+    "date_of_birth": "1996-11-22",
+    "phone": "8954946593",
+    "registered_on": "2026-10-14",
+    "visits": [
+      {
+        "visit_id": 155,
+        "visit_date": "2026-10-14",
+        "fee_amount": 500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88141",
+            "dispensed_on": "2026-10-15",
+            "total_amount": 210,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 20,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 9,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 12,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 12,
+                "unit_price": 2.25
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88175",
+            "dispensed_on": "2026-10-14",
+            "total_amount": 355.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 11,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 17,
+                "unit_price": 18
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1138,
+    "full_name": "Ravi Reddy",
+    "gender": "M",
+    "date_of_birth": "1966-04-17",
+    "phone": "8628311983",
+    "registered_on": "2026-10-02",
+    "visits": [
+      {
+        "visit_id": 187,
+        "visit_date": "2026-10-02",
+        "fee_amount": 500,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261021-0070",
+            "collected_at": "2026-10-04",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "4.69",
+                "result_num": 4.69,
+                "unit": "mIU/L",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "5.76",
+                "result_num": 5.76,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1139,
+    "full_name": "Swathi Reddy",
+    "gender": "M",
+    "date_of_birth": "1969-04-11",
+    "phone": "8711806831",
+    "registered_on": "2026-10-08",
+    "visits": [
+      {
+        "visit_id": 137,
+        "visit_date": "2026-10-08",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1140,
+    "full_name": "Karthik Irfan",
+    "gender": "F",
+    "date_of_birth": "2005-05-17",
+    "phone": "8996278008",
+    "registered_on": "2026-10-16",
+    "visits": [
+      {
+        "visit_id": 44,
+        "visit_date": "2026-10-16",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 134,
+        "visit_date": "2026-10-18",
+        "fee_amount": 600,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 103,
+        "visit_date": "2026-10-21",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1141,
+    "full_name": "Karthik S",
+    "gender": "F",
+    "date_of_birth": "2002-05-10",
+    "phone": null,
+    "registered_on": "2026-10-14",
+    "visits": [
+      {
+        "visit_id": 94,
+        "visit_date": "2026-10-14",
+        "fee_amount": 850,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88102",
+            "dispensed_on": "2026-10-16",
+            "total_amount": 267.25,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 14,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 6,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 13,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 11,
+                "unit_price": 2.25
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88122",
+            "dispensed_on": "2026-10-16",
+            "total_amount": 20.25,
+            "items": [
+              {
+                "drug_code": "PCM650",
+                "quantity": 9,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1142,
+    "full_name": "Suresh N",
+    "gender": "F",
+    "date_of_birth": "1996-11-24",
+    "phone": null,
+    "registered_on": "2026-10-17",
+    "visits": [
+      {
+        "visit_id": 183,
+        "visit_date": "2026-10-17",
+        "fee_amount": 500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261016-0065",
+            "collected_at": "2026-10-17",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "0.96",
+                "result_num": 0.96,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "13.72",
+                "result_num": 13.72,
+                "unit": "10^3/uL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1143,
+    "full_name": "Swathi Menon",
+    "gender": "M",
+    "date_of_birth": "2003-07-06",
+    "phone": "8423337234",
+    "registered_on": "2026-10-09",
+    "visits": [
+      {
+        "visit_id": 149,
+        "visit_date": "2026-10-09",
+        "fee_amount": 500,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88107",
+            "dispensed_on": "2026-10-09",
+            "total_amount": 153,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 12,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 18,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1144,
+    "full_name": "Nandhini Menon",
+    "gender": "F",
+    "date_of_birth": "1965-07-01",
+    "phone": "7232702394",
+    "registered_on": "2026-10-15",
+    "visits": [
+      {
+        "visit_id": 107,
+        "visit_date": "2026-10-10",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 56,
+        "visit_date": "2026-10-15",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1145,
+    "full_name": "Anitha Reddy",
+    "gender": "F",
+    "date_of_birth": "1975-07-03",
+    "phone": null,
+    "registered_on": "2026-10-11",
+    "visits": [
+      {
+        "visit_id": 86,
+        "visit_date": "2026-10-11",
+        "fee_amount": 600,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1146,
+    "full_name": "Vikram R",
+    "gender": "F",
+    "date_of_birth": "1980-08-12",
+    "phone": "7393622794",
+    "registered_on": "2026-10-10",
+    "visits": [
+      {
+        "visit_id": 115,
+        "visit_date": "2026-10-10",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88174",
+            "dispensed_on": "2026-10-11",
+            "total_amount": 72,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 16,
+                "unit_price": 4.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1147,
+    "full_name": "Prakash S",
+    "gender": "M",
+    "date_of_birth": "2000-10-26",
+    "phone": null,
+    "registered_on": "2026-10-10",
+    "visits": [
+      {
+        "visit_id": 43,
+        "visit_date": "2026-10-10",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261002-0001",
+            "collected_at": "2026-10-12",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "0.6",
+                "result_num": 0.6,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "21.87",
+                "result_num": 21.87,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              }
+            ]
+          },
+          {
+            "report_id": "LR-20261016-0015",
+            "collected_at": "2026-10-10",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "CREAT",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "16.91",
+                "result_num": 16.91,
+                "unit": "g/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "4.24",
+                "result_num": 4.24,
+                "unit": "mIU/L",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1148,
+    "full_name": "Suresh Sharma",
+    "gender": "F",
+    "date_of_birth": "1961-10-03",
+    "phone": "8331652222",
+    "registered_on": "2026-10-02",
+    "visits": [
+      {
+        "visit_id": 178,
+        "visit_date": "2026-10-02",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261024-0048",
+            "collected_at": "2026-10-03",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "2.91",
+                "result_num": 2.91,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "18.93",
+                "result_num": 18.93,
+                "unit": "g/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "54.88",
+                "result_num": 54.88,
+                "unit": "mg/dL",
+                "flag": "LOW"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1149,
+    "full_name": "Prakash Sharma",
+    "gender": "M",
+    "date_of_birth": "2006-06-06",
+    "phone": "7686849648",
+    "registered_on": "2026-10-16",
+    "visits": [
+      {
+        "visit_id": 138,
+        "visit_date": "2026-10-16",
+        "fee_amount": 0,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1150,
+    "full_name": "Rahul Kumar",
+    "gender": "F",
+    "date_of_birth": "1964-06-19",
+    "phone": null,
+    "registered_on": "2026-10-23",
+    "visits": [
+      {
+        "visit_id": 73,
+        "visit_date": "2026-10-23",
+        "fee_amount": 500,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1151,
+    "full_name": "Kavitha Kumar",
+    "gender": "F",
+    "date_of_birth": "2002-11-13",
+    "phone": "7960170255",
+    "registered_on": "2026-10-24",
+    "visits": [
+      {
+        "visit_id": 109,
+        "visit_date": "2026-10-12",
+        "fee_amount": 0,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 95,
+        "visit_date": "2026-10-24",
+        "fee_amount": 600,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261014-0063",
+            "collected_at": "2026-10-25",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "0.31",
+                "result_num": 0.31,
+                "unit": "mIU/L",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "10^3/uL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1152,
+    "full_name": "Prakash Irfan",
+    "gender": "F",
+    "date_of_birth": "1978-04-02",
+    "phone": "7682177668",
+    "registered_on": "2026-10-02",
+    "visits": [
+      {
+        "visit_id": 4,
+        "visit_date": "2026-10-02",
+        "fee_amount": 500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 122,
+        "visit_date": "2026-10-21",
+        "fee_amount": 500,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88146",
+            "dispensed_on": "2026-10-22",
+            "total_amount": 65,
+            "items": [
+              {
+                "drug_code": "CTZ10",
+                "quantity": 7,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 8,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1153,
+    "full_name": "Priya Irfan",
+    "gender": "M",
+    "date_of_birth": "2003-02-09",
+    "phone": "7555282394",
+    "registered_on": "2026-10-16",
+    "visits": [
+      {
+        "visit_id": 70,
+        "visit_date": "2026-10-16",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88147",
+            "dispensed_on": "2026-10-17",
+            "total_amount": 60.75,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 9,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 9,
+                "unit_price": 2.25
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88166",
+            "dispensed_on": "2026-10-18",
+            "total_amount": 162,
+            "items": [
+              {
+                "drug_code": "AZM500",
+                "quantity": 9,
+                "unit_price": 18
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1154,
+    "full_name": "Priya Kumar",
+    "gender": "F",
+    "date_of_birth": "2007-09-07",
+    "phone": "8587098457",
+    "registered_on": "2026-10-11",
+    "visits": [
+      {
+        "visit_id": 69,
+        "visit_date": "2026-10-11",
+        "fee_amount": 850,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1155,
+    "full_name": "Meena Sharma",
+    "gender": "M",
+    "date_of_birth": "1987-04-23",
+    "phone": "7424125621",
+    "registered_on": "2026-10-06",
+    "visits": [
+      {
+        "visit_id": 171,
+        "visit_date": "2026-10-06",
+        "fee_amount": 2250,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 192,
+        "visit_date": "2026-10-09",
+        "fee_amount": 500,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88126",
+            "dispensed_on": "2026-10-10",
+            "total_amount": 536,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 12,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 20,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 10,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 11,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 14,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1156,
+    "full_name": "Vikram Nair",
+    "gender": "F",
+    "date_of_birth": "2010-04-17",
+    "phone": "8611275626",
+    "registered_on": "2026-10-04",
+    "visits": [
+      {
+        "visit_id": 157,
+        "visit_date": "2026-10-04",
+        "fee_amount": 850,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261018-0017",
+            "collected_at": "2026-10-05",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "TSH",
+                "result_value": "4.96",
+                "result_num": 4.96,
+                "unit": "mIU/L",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.08",
+                "result_num": 1.08,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "GLU-F",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "mg/dL",
+                "flag": "UNKNOWN"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1157,
+    "full_name": "Suresh Sharma",
+    "gender": "F",
+    "date_of_birth": "2000-03-26",
+    "phone": null,
+    "registered_on": "2026-10-25",
+    "visits": [
+      {
+        "visit_id": 91,
+        "visit_date": "2026-10-25",
+        "fee_amount": 0,
+        "doctor_name": "Dr. S. Meena",
+        "department_name": "Cardiology",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261008-0032",
+            "collected_at": "2026-10-25",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "13.4",
+                "result_num": 13.4,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "9.13",
+                "result_num": 9.13,
+                "unit": "10^3/uL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1158,
+    "full_name": "Suresh Babu",
+    "gender": "F",
+    "date_of_birth": "2009-03-10",
+    "phone": "7127571992",
+    "registered_on": "2026-10-10",
+    "visits": [
+      {
+        "visit_id": 26,
+        "visit_date": "2026-10-10",
+        "fee_amount": 1200.5,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261013-0062",
+            "collected_at": "2026-10-12",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "91.29",
+                "result_num": 91.29,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "HB",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "g/dL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "4.23",
+                "result_num": 4.23,
+                "unit": "mIU/L",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88114",
+            "dispensed_on": "2026-10-12",
+            "total_amount": 195,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 17,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 6,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 15,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 8,
+                "unit_price": 2.25
+              }
+            ]
+          },
+          {
+            "rx_id": "RX-88142",
+            "dispensed_on": "2026-10-11",
+            "total_amount": 434.5,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 8,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 20,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 7,
+                "unit_price": 5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1159,
+    "full_name": "Mohammed N",
+    "gender": "M",
+    "date_of_birth": "2006-04-02",
+    "phone": "9566523205",
+    "registered_on": "2026-10-04",
+    "visits": [
+      {
+        "visit_id": 180,
+        "visit_date": "2026-10-04",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261012-0011",
+            "collected_at": "2026-10-04",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "WBC",
+                "result_value": "3.03",
+                "result_num": 3.03,
+                "unit": "10^3/uL",
+                "flag": "LOW"
+              },
+              {
+                "test_code": "TSH",
+                "result_value": "1.66",
+                "result_num": 1.66,
+                "unit": "mIU/L",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1160,
+    "full_name": "Ravi S",
+    "gender": "F",
+    "date_of_birth": "2004-03-18",
+    "phone": "8725464884",
+    "registered_on": "2026-10-18",
+    "visits": [
+      {
+        "visit_id": 10,
+        "visit_date": "2026-10-18",
+        "fee_amount": 600,
+        "doctor_name": "Dr. P. Lakshmi",
+        "department_name": "Paediatrics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1161,
+    "full_name": "Ravi Irfan",
+    "gender": "M",
+    "date_of_birth": "1970-08-12",
+    "phone": "7940725996",
+    "registered_on": "2026-10-24",
+    "visits": [
+      {
+        "visit_id": 181,
+        "visit_date": "2026-10-24",
+        "fee_amount": 850,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88132",
+            "dispensed_on": "2026-10-26",
+            "total_amount": 412,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 13,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 12,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "CTZ10",
+                "quantity": 18,
+                "unit_price": 3
+              },
+              {
+                "drug_code": "OMP20",
+                "quantity": 7,
+                "unit_price": 5.5
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 20,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1162,
+    "full_name": "Mohammed N",
+    "gender": "F",
+    "date_of_birth": "1985-12-08",
+    "phone": "7724440558",
+    "registered_on": "2026-10-12",
+    "visits": [
+      {
+        "visit_id": 31,
+        "visit_date": "2026-10-12",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": [
+          {
+            "rx_id": "RX-88157",
+            "dispensed_on": "2026-10-14",
+            "total_amount": 411.75,
+            "items": [
+              {
+                "drug_code": "AMX500",
+                "quantity": 7,
+                "unit_price": 4.5
+              },
+              {
+                "drug_code": "AZM500",
+                "quantity": 20,
+                "unit_price": 18
+              },
+              {
+                "drug_code": "PCM650",
+                "quantity": 9,
+                "unit_price": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": 1163,
+    "full_name": "Harish Kumar",
+    "gender": "F",
+    "date_of_birth": "1994-04-14",
+    "phone": "7991281644",
+    "registered_on": "2026-10-21",
+    "visits": [
+      {
+        "visit_id": 165,
+        "visit_date": "2026-10-21",
+        "fee_amount": 0,
+        "doctor_name": "Dr. V. Rajesh",
+        "department_name": "Orthopaedics",
+        "lab_reports": [],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1164,
+    "full_name": "Lakshmi S",
+    "gender": "M",
+    "date_of_birth": "1964-10-03",
+    "phone": "8228727266",
+    "registered_on": "2026-10-19",
+    "visits": [
+      {
+        "visit_id": 5,
+        "visit_date": "2026-10-19",
+        "fee_amount": 1500,
+        "doctor_name": "Dr. A. Suresh",
+        "department_name": "General Medicine",
+        "lab_reports": [],
+        "prescriptions": []
+      },
+      {
+        "visit_id": 11,
+        "visit_date": "2026-10-24",
+        "fee_amount": 600,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261001-0025",
+            "collected_at": "2026-10-26",
+            "status": "FINAL",
+            "results": [
+              {
+                "test_code": "HB",
+                "result_value": "14.04",
+                "result_num": 14.04,
+                "unit": "g/dL",
+                "flag": "NORMAL"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "0.61",
+                "result_num": 0.61,
+                "unit": "mg/dL",
+                "flag": "NORMAL"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  },
+  {
+    "patient_id": 1165,
+    "full_name": "Divya Sharma",
+    "gender": "M",
+    "date_of_birth": "2013-12-03",
+    "phone": "7636122747",
+    "registered_on": "2026-10-05",
+    "visits": [
+      {
+        "visit_id": 153,
+        "visit_date": "2026-10-05",
+        "fee_amount": 850,
+        "doctor_name": "Dr. R. Karthik",
+        "department_name": "ENT",
+        "lab_reports": [
+          {
+            "report_id": "LR-20261017-0016",
+            "collected_at": "2026-10-06",
+            "status": "IN_PROGRESS",
+            "results": [
+              {
+                "test_code": "GLU-F",
+                "result_value": "115.77",
+                "result_num": 115.77,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              },
+              {
+                "test_code": "WBC",
+                "result_value": "pending",
+                "result_num": null,
+                "unit": "10^3/uL",
+                "flag": "UNKNOWN"
+              },
+              {
+                "test_code": "CREAT",
+                "result_value": "1.49",
+                "result_num": 1.49,
+                "unit": "mg/dL",
+                "flag": "HIGH"
+              }
+            ]
+          }
+        ],
+        "prescriptions": []
+      }
+    ]
+  }
+]

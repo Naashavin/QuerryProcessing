@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "source_a": {
+    "target_rows": 220,
+    "duplicates": 14,
+    "missing_phone": 24,
+    "missing_dob": 18,
+    "missing_fee": 19,
+    "malformed": 6,
+    "achieved_rows": 220
+  },
+  "source_b": {
+    "total_reports": 110,
+    "linked_patients": 75,
+    "orphan_patients": 35,
+    "malformed": 6,
+    "total_tests": 268
+  },
+  "source_c": {
+    "total_dispenses": 110,
+    "linked_patients": 75,
+    "orphan_patients": 35,
+    "malformed": 5
+  },
+  "source_d": {
+    "valid_lines": 20000,
+    "malformed_lines": 100,
+    "null_fees": 1162,
+    "missing_doctors": 1229,
+    "null_legacy_ids": 3123
+  }
+}

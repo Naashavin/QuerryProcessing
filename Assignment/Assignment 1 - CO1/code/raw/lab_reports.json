@@ -1,0 +1,3877 @@
+[
+  {
+    "lab_report_id": "LR-20261002-0001",
+    "patient_ref": "PT-1147",
+    "collected_at": "2026-10-12T08:11:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.6,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "21.87",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261003-0002",
+    "patient_ref": "P1023",
+    "collected_at": "2026-10-11T08:16:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 3.82,
+        "unit": "mIU/L",
+        "ref_range": null
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.95,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-31",
+      "name": "Dr. R. Karthik",
+      "department": "ENT"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261004-0003",
+    "patient_ref": "1097",
+    "collected_at": "2026-10-20T14:06:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "6.47",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS"
+  },
+  {
+    "lab_report_id": "LR-20261005-0004",
+    "patient_ref": "P1044",
+    "collected_at": "2026-10-05T09:35:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "20.67",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "pending",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "3.71",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261006-0005",
+    "patient_ref": "P1068",
+    "collected_at": "2026-10-16T11:06:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 17.23,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261007-0006",
+    "patient_ref": "1021",
+    "collected_at": "2026-10-09T12:50:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 1.19,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "14.9",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.71,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261008-0007",
+    "patient_ref": "PT-1025",
+    "collected_at": "2026-10-18T13:51:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.46,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 20.37,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261009-0008",
+    "patient_ref": "PT-1122",
+    "collected_at": "2026-10-08T14:57:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "21.9",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 4.25,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261010-0009",
+    "patient_ref": "PT-1112",
+    "collected_at": "2026-10-26T10:53:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 16.28,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.58,
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 96.59,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261011-0010",
+    "patient_ref": "P1039",
+    "collected_at": "2026-10-13T09:59:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 1.58,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.02,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261012-0011",
+    "patient_ref": "1159",
+    "collected_at": "2026-10-04T14:56:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 3.03,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "1.66",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-31",
+      "name": "Dr. R. Karthik",
+      "department": "ENT"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261013-0012",
+    "patient_ref": "1026",
+    "collected_at": "2026-10-21T12:47:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 13.3,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 15.81,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "IN_PROGRESS"
+  },
+  {
+    "lab_report_id": "LR-20261014-0013",
+    "patient_ref": "PT-1130",
+    "collected_at": "2026-10-04T16:56:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 69.21,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.31,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261015-0014",
+    "patient_ref": "P1130",
+    "collected_at": "2026-10-06T09:43:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 8.26,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "1.48",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 10.28,
+        "unit": "g/dL",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261016-0015",
+    "patient_ref": "P1147",
+    "collected_at": "2026-10-10T11:43:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 16.91,
+        "unit": "g/dL",
+        "ref_range": null
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "4.24",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261017-0016",
+    "patient_ref": "1165",
+    "collected_at": "2026-10-06T14:54:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 115.77,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "pending",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.49,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261018-0017",
+    "patient_ref": "P1156",
+    "collected_at": "2026-10-05T09:30:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 4.96,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "1.08",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261019-0018",
+    "patient_ref": "P1104",
+    "collected_at": "2026-10-11T10:46:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "0.45",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 4.98,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "92.31",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261020-0019",
+    "patient_ref": "1092",
+    "collected_at": "2026-10-16T16:11:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 110.8,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 1.93,
+        "unit": "mIU/L",
+        "ref_range": null
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "11.36",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261021-0020",
+    "patient_ref": "P1085",
+    "collected_at": "2026-10-21T12:29:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.67,
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 15.99,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261022-0021",
+    "patient_ref": "PT-1039",
+    "collected_at": "2026-10-11T13:26:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 2.68,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "100.39",
+        "unit": "mg/dL",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261023-0022",
+    "patient_ref": "PT-1044",
+    "collected_at": "2026-10-06T09:08:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "3.23",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "0.44",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 64.44,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261024-0023",
+    "patient_ref": "P1064",
+    "collected_at": "2026-10-12T13:19:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 2.52,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 14.74,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS"
+  },
+  {
+    "lab_report_id": "LR-20261025-0024",
+    "patient_ref": "1126",
+    "collected_at": "2026-10-10T10:58:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "50.77",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "1.32",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261001-0025",
+    "patient_ref": "P1164",
+    "collected_at": "2026-10-26T08:38:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 14.04,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.61,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261002-0026",
+    "patient_ref": "PT-1078",
+    "collected_at": "2026-10-19T09:42:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 9.9,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 15.57,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261003-0027",
+    "patient_ref": "P1134",
+    "collected_at": "2026-10-09T14:18:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "50.03",
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "pending",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.63,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "IN_PROGRESS"
+  },
+  {
+    "lab_report_id": "LR-20261004-0028",
+    "patient_ref": "1026",
+    "collected_at": "2026-10-23T11:29:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 20.18,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.96,
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 13.04,
+        "unit": "10^3/uL",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261005-0029",
+    "patient_ref": "1044",
+    "collected_at": "2026-10-06T15:39:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 5.01,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "117.9",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 19.46,
+        "unit": "g/dL",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261006-0030",
+    "patient_ref": "PT-1016",
+    "collected_at": "2026-10-19T14:58:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 118.87,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 13.06,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.55,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261007-0031",
+    "patient_ref": "PT-1081",
+    "collected_at": "2026-10-05T16:49:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 3.86,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 17.44,
+        "unit": "g/dL",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261008-0032",
+    "patient_ref": "1157",
+    "collected_at": "2026-10-25T10:32:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "13.4",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 9.13,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261009-0033",
+    "patient_ref": "1021",
+    "collected_at": "2026-10-10T15:05:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 10.43,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 2.8,
+        "unit": "10^3/uL",
+        "ref_range": null
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 3.33,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261010-0034",
+    "patient_ref": "P1053",
+    "collected_at": "2026-10-12T13:52:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 3.8,
+        "unit": "mIU/L",
+        "ref_range": null
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 5.35,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.64,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-31",
+      "name": "Dr. R. Karthik",
+      "department": "ENT"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261011-0035",
+    "patient_ref": "PT-1028",
+    "collected_at": "2026-10-10T15:08:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "4.86",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 112.3,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261012-0036",
+    "patient_ref": "1107",
+    "collected_at": "2026-10-28T09:49:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 3.36,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 15.38,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261013-0037",
+    "patient_ref": "1046",
+    "collected_at": "2026-10-15T10:06:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.58,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "13.88",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 59.8,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261014-0038",
+    "patient_ref": "1132",
+    "collected_at": "2026-10-24T16:55:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 72.54,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.67,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261015-0039",
+    "patient_ref": "1129",
+    "collected_at": "2026-10-11T09:48:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.49,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 12.1,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "pending",
+        "unit": "mIU/L",
+        "ref_range": null
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261016-0040",
+    "patient_ref": "1052",
+    "collected_at": "2026-10-26T12:43:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 0.44,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-31",
+      "name": "Dr. R. Karthik",
+      "department": "ENT"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261017-0041",
+    "patient_ref": "PT-1058",
+    "collected_at": "2026-10-21T16:50:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 11.86,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.49,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261018-0042",
+    "patient_ref": "PT-1114",
+    "collected_at": "2026-10-13T13:48:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 128.66,
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 3.9,
+        "unit": "mIU/L",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261019-0043",
+    "patient_ref": "PT-1072",
+    "collected_at": "2026-10-27T10:10:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 1.04,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "3.38",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261020-0044",
+    "patient_ref": "P1078",
+    "collected_at": "2026-10-19T16:22:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 61.91,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 13.64,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261021-0045",
+    "patient_ref": "PT-1085",
+    "collected_at": "2026-10-21T11:48:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.99,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 17.17,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 6.49,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261022-0046",
+    "patient_ref": "PT-1099",
+    "collected_at": "2026-10-19T12:01:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 5.01,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 11.28,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 49.59,
+        "unit": "mg/dL",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261023-0047",
+    "patient_ref": "PT-1055",
+    "collected_at": "2026-10-15T11:34:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 75.87,
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "pending",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261024-0048",
+    "patient_ref": "1148",
+    "collected_at": "2026-10-03T14:24:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 2.91,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 18.93,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 54.88,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261025-0049",
+    "patient_ref": "1078",
+    "collected_at": "2026-10-18T15:24:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 113.54,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "1.23",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 21.65,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261001-0050",
+    "patient_ref": "PT-1003",
+    "collected_at": "2026-10-09T08:00:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "1.36",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "20.87",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "63.9",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261002-0051",
+    "patient_ref": "PT-1030",
+    "collected_at": "2026-10-15T08:54:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "1.25",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 13.74,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261003-0052",
+    "patient_ref": "1073",
+    "collected_at": "2026-10-14T13:31:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.45,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "74.37",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 3.43,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261004-0053",
+    "patient_ref": "1085",
+    "collected_at": "2026-10-21T15:22:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 118.56,
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 12.52,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261005-0054",
+    "patient_ref": "PT-1020",
+    "collected_at": "2026-10-14T08:52:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.11,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 111.79,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "19.14",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261006-0055",
+    "patient_ref": "P1119",
+    "collected_at": "2026-10-20T13:32:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.65,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 127.39,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-31",
+      "name": "Dr. R. Karthik",
+      "department": "ENT"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261007-0056",
+    "patient_ref": "P1092",
+    "collected_at": "2026-10-16T15:14:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "122.53",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 15.01,
+        "unit": "g/dL",
+        "ref_range": null
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 1.87,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261008-0057",
+    "patient_ref": "P1071",
+    "collected_at": "2026-10-27T16:36:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "5.07",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 19.72,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.55,
+        "unit": "mg/dL",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261009-0058",
+    "patient_ref": "PT-1113",
+    "collected_at": "2026-10-15T09:32:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "97.76",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.95,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261010-0059",
+    "patient_ref": "1123",
+    "collected_at": "2026-10-06T10:41:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 11.19,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS"
+  },
+  {
+    "lab_report_id": "LR-20261011-0060",
+    "patient_ref": "PT-1067",
+    "collected_at": "2026-10-05T14:38:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 15.23,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "82.27",
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 11.63,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261012-0061",
+    "patient_ref": "1043",
+    "collected_at": "2026-10-12T09:14:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "20.27",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.61,
+        "unit": "mg/dL",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261013-0062",
+    "patient_ref": "P1158",
+    "collected_at": "2026-10-12T16:48:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 91.29,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "pending",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "4.23",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261014-0063",
+    "patient_ref": "1151",
+    "collected_at": "2026-10-25T10:16:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "0.31",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "pending",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-31",
+      "name": "Dr. R. Karthik",
+      "department": "ENT"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261015-0064",
+    "patient_ref": "1097",
+    "collected_at": "2026-10-20T13:26:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "8.97",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 5.16,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261016-0065",
+    "patient_ref": "PT-1142",
+    "collected_at": "2026-10-17T13:35:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "0.96",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 13.72,
+        "unit": "10^3/uL",
+        "ref_range": null
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261017-0066",
+    "patient_ref": "P1087",
+    "collected_at": "2026-10-25T14:40:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "pending",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "1.19",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261018-0067",
+    "patient_ref": "P1103",
+    "collected_at": "2026-10-03T08:49:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 15.84,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 90.35,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 3.6,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261019-0068",
+    "patient_ref": "PT-1041",
+    "collected_at": "2026-10-25T14:22:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 93.52,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 3.15,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261020-0069",
+    "patient_ref": "P1058",
+    "collected_at": "2026-10-18T14:36:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 8.59,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "pending",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261021-0070",
+    "patient_ref": "PT-1138",
+    "collected_at": "2026-10-04T15:24:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 4.69,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 5.76,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261022-0071",
+    "patient_ref": "PT-1057",
+    "collected_at": "2026-10-12T14:22:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "2.24",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "93.92",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261023-0072",
+    "patient_ref": "PT-1056",
+    "collected_at": "2026-10-14T10:47:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "70.5",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.48,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 0.87,
+        "unit": "mIU/L",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-31",
+      "name": "Dr. R. Karthik",
+      "department": "ENT"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261024-0073",
+    "patient_ref": "1127",
+    "collected_at": "2026-10-14T08:54:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "11.59",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "3.97",
+        "unit": "mIU/L",
+        "ref_range": null
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 83.28,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261025-0074",
+    "patient_ref": "P1089",
+    "collected_at": "2026-10-18T10:29:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 2.15,
+        "unit": "mIU/L",
+        "ref_range": null
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "20.3",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "5.9",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261001-0075",
+    "patient_ref": "PT-1048",
+    "collected_at": "2026-10-06T11:26:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "4.31",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "0.77",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "84.01",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261002-0076",
+    "patient_ref": "9076",
+    "collected_at": "2026-10-24T09:46:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "13.07",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.82,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261003-0077",
+    "patient_ref": "9077",
+    "collected_at": "2026-10-19T08:54:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 15.3,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 76.11,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261004-0078",
+    "patient_ref": "9078",
+    "collected_at": "2026-10-26T10:41:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 11.69,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 1.14,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "10.54",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261005-0079",
+    "patient_ref": "PT-9079",
+    "collected_at": "2026-10-03T11:45:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 76.33,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.5,
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "1.4",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261006-0080",
+    "patient_ref": "PT-9080",
+    "collected_at": "2026-10-09T13:39:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 13.9,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "0.39",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.61,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261007-0081",
+    "patient_ref": "P9081",
+    "collected_at": "2026-10-06T11:53:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "pending",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 10.18,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261008-0082",
+    "patient_ref": "9082",
+    "collected_at": "2026-10-21T16:26:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 59.24,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "0.45",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261009-0083",
+    "patient_ref": "PT-9083",
+    "collected_at": "2026-10-16T12:29:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 100.11,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.08,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "1.99",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261010-0084",
+    "patient_ref": "9084",
+    "collected_at": "2026-10-15T11:07:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 1.97,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "pending",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261011-0085",
+    "patient_ref": "P9085",
+    "collected_at": "2026-10-16T11:03:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.66,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 69.24,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 19.87,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261012-0086",
+    "patient_ref": "PT-9086",
+    "collected_at": "2026-10-21T10:32:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "0.62",
+        "unit": "mIU/L",
+        "ref_range": null
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 105.74,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261013-0087",
+    "patient_ref": "PT-9087",
+    "collected_at": "2026-10-05T08:55:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "18.4",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "1.02",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261014-0088",
+    "patient_ref": "9088",
+    "collected_at": "2026-10-10T15:12:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 21.47,
+        "unit": "g/dL",
+        "ref_range": null
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 0.63,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "1.49",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261015-0089",
+    "patient_ref": "PT-9089",
+    "collected_at": "2026-10-04T15:03:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 5.09,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "2.19",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-31",
+      "name": "Dr. R. Karthik",
+      "department": "ENT"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261016-0090",
+    "patient_ref": "PT-9090",
+    "collected_at": "2026-10-06T13:52:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 1.26,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 5.3,
+        "unit": "10^3/uL",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261017-0091",
+    "patient_ref": "P9091",
+    "collected_at": "2026-10-11T08:37:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "pending",
+        "unit": "10^3/uL",
+        "ref_range": null
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 87.5,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261018-0092",
+    "patient_ref": "P9092",
+    "collected_at": "2026-10-03T10:37:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.69,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "pending",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261019-0093",
+    "patient_ref": "P9093",
+    "collected_at": "2026-10-26T09:24:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 2.44,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.87,
+        "unit": "mg/dL",
+        "ref_range": null
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261020-0094",
+    "patient_ref": "9094",
+    "collected_at": "2026-10-16T14:31:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.11,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 12.78,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 11.18,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-14",
+      "name": "Dr. A. Suresh",
+      "department": "General Medicine"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261021-0095",
+    "patient_ref": "9095",
+    "collected_at": "2026-10-09T13:07:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.54,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "9.93",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261022-0096",
+    "patient_ref": "9096",
+    "collected_at": "2026-10-18T15:29:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "0.94",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "pending",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "pending",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-31",
+      "name": "Dr. R. Karthik",
+      "department": "ENT"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261023-0097",
+    "patient_ref": "P9097",
+    "collected_at": "2026-10-02T10:13:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 19.97,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.31,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261024-0098",
+    "patient_ref": "P9098",
+    "collected_at": "2026-10-20T14:37:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 10.15,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 20.68,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-17",
+      "name": "Dr. S. Meena",
+      "department": "Cardiology"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261025-0099",
+    "patient_ref": "PT-9099",
+    "collected_at": "2026-10-02T15:31:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "pending",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 0.78,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261001-0100",
+    "patient_ref": "PT-9100",
+    "collected_at": "2026-10-07T12:59:00+05:30",
+    "tests": [
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 1.39,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 10.88,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261002-0101",
+    "patient_ref": "PT-9101",
+    "collected_at": "2026-10-26T10:02:00+05:30",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 93.56,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 7.54,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.83,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261003-0102",
+    "patient_ref": "PT-9102",
+    "collected_at": "2026-10-13T15:02:00+05:30",
+    "tests": [
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "pending",
+        "unit": "10^3/uL",
+        "ref_range": null
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "0.44",
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": 49.53,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 70.0,
+          "high": 100.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261004-0103",
+    "patient_ref": "PT-9103",
+    "collected_at": "2026-10-11T08:41:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 11.13,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": 0.74,
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261005-0104",
+    "patient_ref": "PT-9104",
+    "collected_at": "2026-10-19T11:54:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "4.34",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": 13.24,
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-31",
+      "name": "Dr. R. Karthik",
+      "department": "ENT"
+    }
+  },
+  {
+    "lab_report_id": "",
+    "patient_ref": "PT-9105",
+    "collected_at": "2026-10-24T15:23:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "19.72",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": 4.56,
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261007-0106",
+    "patient_ref": "BAD_REF",
+    "collected_at": "2026-10-20T16:25:00+05:30",
+    "tests": [
+      {
+        "code": "TSH",
+        "name": "Thyroid Stimulating Hormone",
+        "value": "3.06",
+        "unit": "mIU/L",
+        "ref_range": {
+          "low": 0.4,
+          "high": 4.0
+        }
+      },
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": 11.09,
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261008-0107",
+    "patient_ref": "PT-9107",
+    "collected_at": "invalid-timestamp",
+    "tests": [
+      {
+        "code": "GLU-F",
+        "name": "Fasting Glucose",
+        "value": "80.94",
+        "unit": "mg/dL",
+        "ref_range": null
+      },
+      {
+        "code": "WBC",
+        "name": "White Blood Cells",
+        "value": "pending",
+        "unit": "10^3/uL",
+        "ref_range": {
+          "low": 4.0,
+          "high": 11.0
+        }
+      }
+    ],
+    "status": "IN_PROGRESS"
+  },
+  {
+    "lab_report_id": "LR-20261009-0108",
+    "patient_ref": "P9108",
+    "collected_at": "2026-10-13T10:44:00+05:30",
+    "tests": [],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-09",
+      "name": "Dr. P. Lakshmi",
+      "department": "Paediatrics"
+    }
+  },
+  {
+    "lab_report_id": "LR-20261010-0109",
+    "patient_ref": "P9109",
+    "collected_at": "2026-10-19T09:15:00+05:30",
+    "status": "FINAL"
+  },
+  {
+    "lab_report_id": "LR-20261011-0110",
+    "patient_ref": "PT-9110",
+    "collected_at": "2026-10-08T10:12:00+05:30",
+    "tests": [
+      {
+        "code": "HB",
+        "name": "Haemoglobin",
+        "value": "ERR_SENSOR",
+        "unit": "g/dL",
+        "ref_range": {
+          "low": 13.0,
+          "high": 17.0
+        }
+      },
+      {
+        "code": "CREAT",
+        "name": "Serum Creatinine",
+        "value": "1.48",
+        "unit": "mg/dL",
+        "ref_range": {
+          "low": 0.6,
+          "high": 1.3
+        }
+      }
+    ],
+    "status": "FINAL",
+    "ordered_by": {
+      "doctor_id": "D-22",
+      "name": "Dr. V. Rajesh",
+      "department": "Orthopaedics"
+    }
+  }
+]

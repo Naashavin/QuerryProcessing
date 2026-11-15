@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pharmacy_dispensing>
+  <dispense id="RX-999" date="2026-10-05">
+    <patient id="1001" name="Test">
+  </dispense>
+</pharmacy_dispensing>

@@ -1,0 +1,323 @@
+student_id,full_name,dob,dup_type,reason
+MU24BAD1695,Uma de Souza,2006-08-18,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22CSE0681,Bhavna Pereira,2004-09-06,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22CIV2814,Hemalatha R.,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24MEC1720,Jayanth Reddy,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ITE3011,Harish Gupta,2002-09-06,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24CIV1975,Deepa Fernandez,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22BAD4185,Monika Iyengar,2005-08-12,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24BAD4821,Lakshmi Das,2004-04-20,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23ECE1784,Harish Das,2003-06-18,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21BAD2716,Deepa Irfan,2002-04-11,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ECE4040,Revathi R.,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21ECE0641,Gayathri Irfan,2004-11-02,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23MEC4736,Kavitha Murugan,2004-02-26,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21BAD0589,Swetha S.,2005-02-06,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21MEC4173,Jayanth Kumar,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23ITE3826,Priya Sundaram,2004-09-19,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21MEC3901,Subramanian Iyer,2006-11-13,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21BAD1489,Anitha Banerjee,2004-01-24,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21CIV4752,Monika Singh,2006-12-24,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CSE3760,Jagan Irfan,2006-07-07,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21ECE0794,Rahul D'Silva,2005-10-26,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24MEC1281,Karthik Gupta,2004-09-28,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24CIV2349,Pradeep Sharma,2004-10-01,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24MEC3302,Charulatha Patel,2003-11-12,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ITE0369,Varun Iyer,2006-07-07,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21CSE5150,Karthik Banerjee,2004-10-18,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CIV5024,Uma Verma,2006-06-24,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22BAD1439,Rajesh Pereira,2002-08-03,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21ECE0903,Vignesh O'Brien,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24MEC5032,Jagan O'Brien,2003-07-15,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ITE1757,Arun O'Brien,2002-12-13,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22CSE5058,Gayathri Patel,2003-05-17,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21ITE2492,Tharani S.,2006-08-22,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23ECE4997,Mohammed D'Silva,2006-05-04,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24MEC4547,Jayanth R.,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21BAD3054,Jagan Iyengar,2004-10-03,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24CIV3905,Indumathi Bose,2004-04-17,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23MEC4273,Subramanian D'Silva,2002-04-24,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ITE1480,Hemalatha Joshi,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24CIV0108,Vignesh Iyer,2002-06-28,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21ECE3231,Jagan Sharma,2002-07-07,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CIV0355,Jayanth Banerjee,2006-05-07,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24MEC3058,Ishwarya Rao,2003-09-04,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22MEC5119,Pavithra D'Silva,2006-03-25,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22BAD3557,Hemalatha D'Silva,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CIV0814,Vignesh Reddy,2003-05-05,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CIV3359,Sneha Das,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21MEC1211,Zeeshan Reddy,2004-01-08,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24CIV3593,Zeeshan Fernandez,2002-06-09,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21CIV0571,Gayathri Gupta,2005-04-24,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23MEC4893,Ezhil Reddy,2004-12-10,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24ITE3281,Monika Patel,2004-11-07,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ITE5104,Pavithra O'Brien,2006-10-28,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23BAD2897,Rohit Gupta,2006-05-28,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24CSE0568,Subramanian Gupta,2002-07-18,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24CIV4303,Anitha S.,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22BAD3820,Gita K.,2006-05-08,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22MEC4361,Vasanth Balaji,2002-02-05,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23MEC3192,Harish Joshi,2002-05-26,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23BAD2134,Subramanian K.,2003-06-08,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21CSE0631,Mohammed Pereira,2006-04-24,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ITE1422,Mohammed Singh,2006-01-24,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21ITE4712,Sanjay Nathan,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ITE2285,Vijay Rao,2004-06-25,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23ECE1807,Yamini Fernandez,2005-11-09,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22BAD1365,Keerthi Iyengar,2006-04-26,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22CIV2675,Ishwarya Irfan,2005-09-18,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CIV1872,Tarun K.,2005-08-09,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21MEC2502,Manoj Murugan,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24MEC3778,Naveen Patel,2004-08-01,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23ECE1031,Pradeep Singh,2003-10-04,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ITE1198,Ishwarya Rao,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21ITE0611,Anitha Kumar,2003-09-18,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22MEC0999,Meena Balaji,2003-10-08,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24BAD1014,Rahul Gupta,2006-12-25,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21CSE0985,Vasanth Verma,2003-01-06,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22CSE4718,Deepa R.,2005-06-20,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22CSE0319,Yamini Iyer,2005-12-04,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21MEC0477,Karthik D'Silva,2003-11-16,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23BAD3301,Lakshmi Iyer,2006-03-01,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22MEC1624,Ishwarya Menon,2004-07-09,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21ITE5096,Chirag Bose,2006-12-03,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23MEC0431,Dinesh Verma,2006-12-24,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23ECE4871,Ashwin K.,2004-09-11,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24CIV2844,Ezhil Kumar,2003-01-07,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CIV0838,Divya de Souza,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CSE5198,Pavithra O'Brien,2006-07-21,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21CIV1207,Nithya Nathan,2003-01-24,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CIV5160,Gayathri Fernandez,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23ITE0117,Nithya D'Silva,2005-05-13,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CSE2437,Gayathri Sharma,2005-02-09,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21CSE5030,Aarav O'Brien,2005-07-07,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ECE4707,Ezhil Kumar,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24ECE4938,Farhan Nathan,2003-08-23,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24MEC4729,Vijay O'Brien,2003-12-04,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21BAD0810,Jayanth O'Brien,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22CIV4479,Meena D'Silva,2003-10-20,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24ITE4139,Rajesh Joshi,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21MEC2058,Subramanian Fernandez,2006-11-21,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ITE2718,Tharani Pillai,2002-02-11,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24ITE1079,Bhavna Das,2002-09-22,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22ITE4619,Varun Reddy,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22MEC1534,Naveen Das,2003-08-07,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21MEC2393,Vasanth Rao,2006-02-15,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24CSE3279,Vijay Das,2002-07-20,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21ITE4582,Farhan Nathan,2002-12-12,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU22BAD4764,Vignesh Irfan,2006-06-27,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23MEC1643,Deepa Singh,2004-02-11,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21CIV0832,Vijay Das,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CIV0516,Rahul Iyengar,2003-03-07,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24ITE3963,Lavanya Fernandez,2005-05-02,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23CSE3260,Lavanya Venkatesh,,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24ECE1011,Jagan Singh,2004-08-07,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21BAD0704,Anitha Murugan,2004-12-18,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24BAD4116,Karthik Iyengar,2006-02-17,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24MEC4941,Monika O'Brien,2006-08-17,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU24BAD3214,Rohit Venkatesh,2003-12-18,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU23ECE0758,Varun Pillai,2006-07-09,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21CIV0876,Varun Iyengar,2002-08-01,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21CSE1960,Swetha Iyengar,2004-10-26,EXACT_DUPLICATE,Identical demographic and academic attributes across all columns
+MU21BAD1240,Subramanian Choudhury,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21CIV0832,Vijay Das,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21CIV2040,Vijay Das,2003-02-02,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21CIV4752,Monika Singh,2006-12-24,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21CSE1671,Indumathi Menon,2003-11-07,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21ECE0204,Manoj Choudhury,2004-09-05,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21ECE1687,Farhan Iyengar,2005-06-23,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21ECE3492,Swetha Murugan,2003-10-06,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21ECE5273,Revathi Singh,2005-10-21,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21ITE2434,Priya Iyer,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21ITE2458,Tarun Banerjee,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21ITE3788,Anitha Banerjee,2002-01-16,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=7946125798.0
+MU21ITE4820,Yamini Choudhury,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU21MEC1636,Aarav Fernandez,2005-12-18,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22BAD0938,Kavitha Gupta,2006-06-20,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22BAD3289,Keerthi Fernandez,2004-07-17,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22BAD4484,Vasanth D'Silva,2005-08-19,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22BAD4764,Vignesh Irfan,2006-06-27,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22CIV0299,Gayathri de Souza,2005-04-26,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22CIV0371,Pavithra Irfan,2004-01-16,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22CIV4510,Hemalatha Reddy,2004-11-22,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22CSE1645,Divya Reddy,2006-05-19,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22CSE2896,Nithya Nair,2004-06-20,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22ECE5241,Jagan Singh,2003-02-09,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22ITE0165,Pradeep S.,2002-08-10,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22ITE0518,Vignesh Gupta,2004-09-07,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22ITE2124,Tarun Reddy,2002-11-13,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22ITE4267,Arun Nair,2002-08-04,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22MEC3220,Vasanth Patel,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU22MEC4246,Indumathi Banerjee,2006-08-21,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23BAD0755,Lakshmi Pillai,2004-07-25,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23BAD3529,Nithya Sundaram,2003-06-21,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23BAD5280,Rahul Fernandez,2006-07-05,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23CIV1712,Yamini Das,2002-09-07,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=7820632280.0
+MU23CIV1939,Bhavna Gupta,2003-03-25,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23CIV2048,Zeeshan Bose,2003-04-19,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=7729933570.0
+MU23CIV2183,Keerthi Pereira,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23CSE3434,Naveen Joshi,2002-04-05,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23CSE3743,Anitha Singh,2002-05-25,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23ECE4997,Mohammed D'Silva,2006-05-04,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23ECE8072,Suresh Babu,2006-01-18,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8240,Karthik R.,2004-10-12,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8240,Ashwin Kumar,2003-12-11,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8326,Navin Chandran,2003-08-28,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8339,Meena K.,2006-09-26,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8361,John Obrien,2004-07-27,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8392,Mohd Irfan,2002-09-21,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8434,Dheepa K.,2002-04-26,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8495,Mohammed Irfan,2005-08-23,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8498,Swetha R.,2006-08-28,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8498,Mohd Irfan,2004-07-01,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8503,Ronald de Souza,2003-06-12,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8527,Karthick R.,2004-10-12,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8597,Sweta R.,2006-08-28,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8606,Meena K.,2002-09-24,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8613,Deepa K.,2002-06-03,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8624,Swetha R.,2002-08-06,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8740,Suresh Babu,2005-08-04,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8778,Ronald de Souza,2002-01-02,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8884,Navin Chandran,2005-11-22,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ECE8910,Karthick R.,2002-11-04,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840012345.0
+MU23ITE1974,Sandhya Menon,2005-03-03,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23ITE3384,Farhan Reddy,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23ITE4057,Lakshmi D'Silva,2004-09-06,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU23MEC4020,Manoj Murugan,2005-04-05,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24BAD0497,Chirag O'Brien,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24BAD1690,Keerthi Pillai,2004-01-17,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24BAD2055,Deepa Das,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=8915300751.0
+MU24BAD4606,Yamini S.,2005-01-08,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24BAD4720,Tarun O'Brien,2003-06-01,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24CIV0146,Revathi Joshi,2004-07-11,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24CIV4303,Anitha S.,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24CIV4864,Karthik Verma,2002-09-11,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24CSE3931,Yamini Choudhury,2005-02-13,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24CSE9384,Karthik Nair,2002-06-28,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=6947188806.0
+MU24CSE9556,Rohit de Souza,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=7400842710.0
+MU24CSE9562,Meena Fernandez,2005-02-10,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=nan
+MU24CSE9678,Suresh Murugan,2005-08-12,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=8652809242.0
+MU24CSE9737,Indumathi Verma,2003-10-04,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9371597412.0
+MU24CSE9808,Varun Banerjee,2004-11-20,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=8097873871.0
+MU24CSE9835,Revathi S.,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=8278816580.0
+MU24CSE9844,Farhan Choudhury,2003-04-06,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=8826328094.0
+MU24CSE9940,Anitha Gupta,2004-09-01,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=8575021885.0
+MU24ECE2153,Ishwarya Kumar,2003-10-11,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24ECE4029,Tarun S.,2002-08-09,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24ECE4909,Vijay Sharma,2002-07-06,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24ECE5214,Vasanth Pereira,2004-07-08,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24ITE0998,Vignesh O'Brien,2005-09-04,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24ITE3083,Meena Bose,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24ITE3149,Tharani Rao,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24ITE3185,Bhavna Murugan,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24ITE4139,Rajesh Joshi,,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=7198938359.0
+MU24MEC1498,Suresh Pillai,2003-09-09,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24MEC2065,Lavanya Nair,2004-12-12,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24MEC2187,Zeeshan Pereira,2003-06-27,KEY_CONFLICT,Conflicting phone/marks superseded by survivor with phone=9840099999.0
+MU24CSE9581,Aarav Das,2004-03-19,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21BAD2272
+MU24CSE9149,Aarav Iyengar,2003-05-27,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21CIV0239
+MU24CSE9652,Aarav Patel,2005-03-20,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ITE2208
+MU24ITE1710,Aarav de Souza,2005-01-21,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9283
+MU24CSE9561,Abishek Rao,2004-12-10,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24BAD0451
+MU24CSE9976,Anitha Banerjee,2004-01-24,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21BAD1489
+MU24CSE9863,Anitha Patel,2005-05-04,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ECE3171
+MU24CSE9292,Arun Patel,2003-12-10,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ECE4873
+MU24CSE9830,Ashwin Pillai,2006-04-14,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22CIV1257
+MU24CSE9157,Ashwin Sundaram,2005-11-11,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23BAD0414
+MU24ITE5212,Bhavna Das,2004-10-28,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9361
+MU24CSE9585,Bhavna Kumar,2006-03-11,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CIV5019
+MU24CSE9761,Bhavna Pereira,2006-10-04,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE3194
+MU24CSE9686,Bhavna S.,2004-06-23,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE2395
+MU24CSE9999,Bhavna Singh,2003-11-08,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21MEC4673
+MU24CSE9192,Charulatha Fernandez,2005-11-27,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CSE0502
+MU24CSE9889,Charulatha Menon,2003-05-07,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23BAD0481
+MU24CSE9898,Chirag O'Brien,2004-04-04,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22CSE5044
+MU24MEC0780,Deepa Choudhury,2002-02-18,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9515
+MU24CSE9007,Deepa Kumar,2002-10-07,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23MEC1145
+MU24CSE9697,Divya Bose,2004-09-25,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CSE5232
+MU24MEC2904,Ezhil Balaji,2003-05-02,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9117
+MU24CSE9188,Ezhil Das,2002-04-27,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CIV5193
+MU24CSE9940,Farhan Banerjee,2004-06-23,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ITE2182
+MU24MEC2601,Farhan Murugan,2003-10-28,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9101
+MU24CSE9497,Gayathri Choudhury,2003-09-16,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21MEC1709
+MU24CSE9401,Gita Venkatesh,2006-04-28,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22BAD3004
+MU23CSE4463,Harish Patel,2002-03-09,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CIV1206
+MU24MEC1120,Harish Singh,2004-12-04,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ITE0197
+MU24CSE9555,Hemalatha Das,2004-06-12,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22MEC0125
+MU24CSE9540,Hemalatha Iyengar,2006-06-11,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CIV5155
+MU24CSE9678,Hemalatha Kumar,2003-10-12,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CIV0474
+MU24CSE9032,Hemalatha S.,2006-07-28,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21CSE1670
+MU24CSE9621,Indumathi Iyengar,2004-12-23,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ECE3649
+MU24CSE9934,Indumathi Pillai,2003-06-06,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22CSE3635
+MU24ECE0367,Indumathi R.,2003-04-12,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9229
+MU24CSE9648,Indumathi Singh,2006-10-21,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ECE4447
+MU24CSE9855,Indumathi Sundaram,2005-06-05,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ITE1331
+MU24CSE9387,Jayanth S.,2006-08-06,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ITE2646
+MU24CSE9178,Jayanth S.,2006-10-03,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE0192
+MU24CSE9917,Jayanth Verma,2004-07-20,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CIV2709
+MU24CSE9263,Karthik Kumar,2004-03-07,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CSE5246
+MU24CSE9816,Karthik Pereira,2006-01-09,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22MEC1569
+MU24CSE9223,Karthik Pillai,2006-06-10,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21ECE1829
+MU24CSE9876,Keerthi Choudhury,2003-06-17,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE3446
+MU24CSE9132,Keerthi Menon,2006-09-04,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23MEC2945
+MU24CSE9008,Keerthi Patel,2005-11-03,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE0503
+MU24CSE9923,Lavanya Balaji,2004-11-20,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21CSE4153
+MU24CSE9069,Lavanya Kumar,2004-05-23,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24BAD1741
+MU24CSE9632,Manoj Murugan,2004-02-12,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22CSE2583
+MU24CSE9031,Manoj R.,2003-05-20,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CIV1369
+MU24CSE9090,Manoj de Souza,2006-02-17,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21BAD4102
+MU24CSE9919,Meena Irfan,2005-12-20,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21ECE1934
+MU24CSE9562,Mohammed Choudhury,2005-06-13,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE3849
+MU24CSE9490,Mohammed Pereira,2006-04-04,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CIV2495
+MU24MEC3934,Mohammed Sharma,2005-11-09,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9105
+MU24CSE9945,Mohammed Sundaram,2002-11-23,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21MEC2744
+MU24CSE9977,Mohammed Verma,2006-12-25,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21MEC1574
+MU24ITE0101,Naveen Iyengar,2006-08-23,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9330
+MU24MEC3778,Naveen Patel,2004-08-01,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9925
+MU24CSE9611,Nithya Gupta,2002-02-26,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ECE3542
+MU24CSE9824,Nithya R.,2003-07-06,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22BAD5218
+MU24CSE9381,Nithya Rao,2006-05-02,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21ECE2798
+MU24CSE9329,Pavithra Irfan,2002-09-25,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CIV1197
+MU24CSE9071,Pavithra Reddy,2004-01-21,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CSE2003
+MU24CSE9537,Pradeep D'Silva,2004-03-09,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22MEC0603
+MU24CSE9924,Pradeep Reddy,2002-08-23,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ITE3293
+MU24CSE9844,Rahul Banerjee,2003-04-06,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21ITE0846
+MU24CSE9144,Rahul Choudhury,2002-09-11,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23BAD3048
+MU24CSE9897,Rahul D'Silva,2003-12-11,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21ITE3476
+MU24CSE9556,Rahul Verma,2004-02-04,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ECE0136
+MU24MEC1453,Rohit Choudhury,2003-01-24,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9825
+MU24CSE9218,Rohit Sharma,2003-09-02,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ECE4365
+MU23ECE8662,Ronald de Souza,2002-03-17,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ECE8543
+MU23ECE8909,Ronald de Souza,2002-04-21,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ECE8758
+MU23ECE8887,Ronald de Souza,2002-12-03,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ECE8434
+MU23ECE8376,Ronald de Souza,2003-01-13,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ECE8039
+MU23ECE8669,Ronald de Souza,2004-08-05,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ECE8151
+MU23ECE8606,Ronald de Souza,2006-02-01,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ECE8280
+MU24CSE9689,Sandhya Bose,2002-02-26,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ITE4300
+MU24CSE9344,Sandhya Sharma,2006-05-25,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22CSE3600
+MU24CSE9746,Sanjay Iyer,2002-08-03,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ECE2175
+MU24CSE9186,Subramanian D'Silva,2003-09-26,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE3335
+MU24CSE9398,Subramanian R.,2004-06-06,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CIV4136
+MU24CSE9011,Suresh Kumar,2005-12-28,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23BAD1944
+MU24CSE9146,Suresh Singh,2005-10-12,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE4971
+MU24CSE9647,Tarun Bose,2005-05-18,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ITE3596
+MU24CSE9024,Tarun Iyengar,2005-11-13,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22CSE3136
+MU24CSE9696,Tharani Patel,2006-07-07,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22MEC1430
+MU24CSE9871,Tharani Sundaram,2004-04-21,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ECE4935
+MU24CSE9209,Tharani Venkatesh,2002-02-09,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CSE0762
+MU24CSE9590,Uma O'Brien,2005-08-07,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ITE0981
+MU24MEC4334,Uma Pereira,2005-01-26,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9134
+MU24CSE9738,Vasanth Rao,2006-02-15,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21MEC2393
+MU24CSE9523,Vasanth S.,2003-09-11,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ECE5033
+MU24CSE9847,Vasanth Venkatesh,2003-01-06,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24BAD4949
+MU24CSE9840,Vasanth de Souza,2003-02-19,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23ECE3262
+MU24ECE2409,Vignesh Das,2004-07-26,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9807
+MU24CSE9279,Vijay Irfan,2006-05-16,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU21BAD4138
+MU24CSE9191,Vijay Kumar,2002-12-11,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CSE2189
+MU24CSE9495,Vijay Sharma,2005-01-15,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23MEC0259
+MU24ITE0195,Vijay Verma,2006-07-15,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU24CSE9710
+MU24CSE9835,Yamini Iyer,2005-12-04,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22CSE0319
+MU24CSE9656,Zeeshan Bose,2003-04-19,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU23CIV2048
+MU24CSE9095,Zeeshan Nathan,2005-02-01,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22MEC3552
+MU24CSE9737,Zeeshan O'Brien,2004-07-05,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22ECE0536
+MU23CIV3579,Zeeshan S.,2006-07-14,PARTIAL_NAME_DOB,Duplicate student enrollment under secondary ID; primary retained is MU22CSE3619

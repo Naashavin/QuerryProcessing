@@ -1,0 +1,16 @@
+Attribute,Logical Type,Format,Domain / Constraints
+student_id,Primary Key String,MUyyDEPTnnnn,Must match regex ^MU\d{2}[A-Z]{3}\d{4}$
+full_name,Text (Title Case),First [Particle] Last,"Trimmed, single space, particles lowercase (de Souza)"
+dob,Date (ISO 8601),YYYY-MM-DD,"Range [1995-01-01, 2010-12-31] or NULL"
+gender,Categorical,String,"Values: {'Female', 'Male', 'Unknown'}"
+department,Categorical,String,6 Canonical university departments
+email,Institutional Email,user@domain.tld,"Lowercase, valid RFC 5322 regex syntax"
+phone,Indian Mobile,10 Digits,"Starts with 6-9, stripped of +91/0 prefix"
+city,Categorical,Title Case,15 recognized regional cities
+admission_date,Date (ISO 8601),YYYY-MM-DD,Standardized admission enrollment date
+attendance_cleaned,Continuous Float,Percentage,"Range [0.0, 100.0]"
+marks_cleaned,Continuous Float,Academic Marks,"Range [0.0, 100.0]"
+attendance_minmax,Normalized Float,Min-Max Scale,"Strictly bounded within [0.0, 1.0]"
+attendance_zscore,Standardized Float,Z-Score,"Cohort mean = 0.0, std dev = 1.0"
+marks_minmax,Normalized Float,Min-Max Scale,"Strictly bounded within [0.0, 1.0]"
+marks_zscore,Standardized Float,Z-Score,"Cohort mean = 0.0, std dev = 1.0"

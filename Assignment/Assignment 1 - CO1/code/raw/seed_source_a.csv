@@ -1,0 +1,7 @@
+patient_id,full_name,gender,dob,phone,visit_date,department,fee_paid
+P1001,"Ravi Kumar",M,14/03/1985,9840012345,2026-10-03,Cardiology,"1,200.50"
+P1002,Anitha S,Female,1990-07-21,,03-10-2026,ENT,850
+P1003,"Mohammed, Irfan",m,05/11/1978,98400 56789,2026-10-04,Orthopaedics,₹ 1500
+P1001,Ravi Kumar,M,14/03/1985,9840012345,2026-10-03,Cardiology,"1,200.50"
+P1005,,F,31-12-1999,9791123456,2026/10/05,Paediatrics,600
+P1006,Karthik R,Male,,9444098765,05-Oct-2026,General Medicine,NA

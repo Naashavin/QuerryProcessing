@@ -1,0 +1,937 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pharmacy_dispensing branch="Hospital-B" schema_version="1.0">
+  <dispense id="RX-88101" date="2026-10-06">
+    <patient id="P1029" name="Ravi Nair" />
+    <items>
+      <item drug_code="AZM500" qty="11" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="PCM650" qty="13" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">227.25</total>
+  </dispense>
+  <dispense id="RX-88102" date="2026-10-16">
+    <patient id="P1141" name="Priya Kumar" />
+    <items>
+      <item drug_code="AZM500" qty="6" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="14" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="PCM650" qty="11" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="OMP20" qty="13" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">267.25</total>
+  </dispense>
+  <dispense id="RX-88103" date="2026-10-23">
+    <patient id="P1014" name="Mohammed Reddy" />
+    <items>
+      <item drug_code="CTZ10" qty="14" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AMX500" qty="17" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="12" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">184.50</total>
+  </dispense>
+  <dispense id="RX-88104" date="2026-10-07">
+    <patient id="P1098" name="Ganesh Menon" />
+    <items>
+      <item drug_code="PCM650" qty="11" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">24.75</total>
+  </dispense>
+  <dispense id="RX-88105" date="2026-10-11">
+    <patient id="P1129" name="Ravi Kumar" />
+    <items>
+      <item drug_code="AZM500" qty="15" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="CTZ10" qty="20" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">330.00</total>
+  </dispense>
+  <dispense id="RX-88106" date="2026-10-25">
+    <patient id="P1101" name="Deepak Nair" />
+    <items>
+      <item drug_code="PCM650" qty="13" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="17" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AMX500" qty="5" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">102.75</total>
+  </dispense>
+  <dispense id="RX-88107" date="2026-10-09">
+    <patient id="P1143" name="Sneha Reddy" />
+    <items>
+      <item drug_code="AMX500" qty="12" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="18" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">153.00</total>
+  </dispense>
+  <dispense id="RX-88108" date="2026-10-18">
+    <patient id="P1062" name="Ganesh Nair" />
+    <items>
+      <item drug_code="AZM500" qty="11" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="PCM650" qty="9" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AMX500" qty="14" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="9" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">308.25</total>
+  </dispense>
+  <dispense id="RX-88109" date="2026-10-26">
+    <patient id="P1111" name="Suresh Nair" />
+    <items>
+      <item drug_code="AZM500" qty="8" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">144.00</total>
+  </dispense>
+  <dispense id="RX-88110" date="2026-10-05">
+    <patient id="P1048" name="Ravi Nair" />
+    <items>
+      <item drug_code="OMP20" qty="9" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="CTZ10" qty="11" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="PCM650" qty="8" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AZM500" qty="9" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">262.50</total>
+  </dispense>
+  <dispense id="RX-88111" date="2026-10-07">
+    <patient id="P1048" name="Kavitha Babu" />
+    <items>
+      <item drug_code="AZM500" qty="5" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="PCM650" qty="16" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="7" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AMX500" qty="20" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="9" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">286.50</total>
+  </dispense>
+  <dispense id="RX-88112" date="2026-10-11">
+    <patient id="P1129" name="Deepak Irfan" />
+    <items>
+      <item drug_code="OMP20" qty="11" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AZM500" qty="12" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="6" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="18" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">357.50</total>
+  </dispense>
+  <dispense id="RX-88113" date="2026-10-23">
+    <patient id="P1004" name="Divya R" />
+    <items>
+      <item drug_code="PCM650" qty="19" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">42.75</total>
+  </dispense>
+  <dispense id="RX-88114" date="2026-10-12">
+    <patient id="P1158" name="Meena R" />
+    <items>
+      <item drug_code="OMP20" qty="15" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AMX500" qty="17" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="6" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="PCM650" qty="8" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">195.00</total>
+  </dispense>
+  <dispense id="RX-88115" date="2026-10-18">
+    <patient id="P1116" name="Lakshmi Menon" />
+    <items>
+      <item drug_code="AMX500" qty="11" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="14" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="CTZ10" qty="19" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AZM500" qty="17" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="CORRECTED_MISMATCH">489.50</total>
+  </dispense>
+  <dispense id="RX-88116" date="2026-10-18">
+    <patient id="P1078" name="Rahul N" />
+    <items>
+      <item drug_code="AMX500" qty="8" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="PCM650" qty="10" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="OMP20" qty="9" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="CTZ10" qty="17" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AZM500" qty="18" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">483.00</total>
+  </dispense>
+  <dispense id="RX-88117" date="2026-10-25">
+    <patient id="P1083" name="Meena Babu" />
+    <items>
+      <item drug_code="OMP20" qty="13" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AMX500" qty="15" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">139.00</total>
+  </dispense>
+  <dispense id="RX-88118" date="2026-10-14">
+    <patient id="P1042" name="Meena Nair" />
+    <items>
+      <item drug_code="AZM500" qty="17" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">306.00</total>
+  </dispense>
+  <dispense id="RX-88119" date="2026-10-24">
+    <patient id="P1131" name="Nandhini Kumar" />
+    <items>
+      <item drug_code="CTZ10" qty="10" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="PCM650" qty="9" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">50.25</total>
+  </dispense>
+  <dispense id="RX-88120" date="2026-10-14">
+    <patient id="P1046" name="Vikram Sharma" />
+    <items>
+      <item drug_code="PCM650" qty="11" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AMX500" qty="5" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="13" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">118.75</total>
+  </dispense>
+  <dispense id="RX-88121" date="2026-10-23">
+    <patient id="P1004" name="Harish Kumar" />
+    <items>
+      <item drug_code="OMP20" qty="18" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="19" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AMX500" qty="7" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="AZM500" qty="5" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="CTZ10" qty="12" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">299.25</total>
+  </dispense>
+  <dispense id="RX-88122" date="2026-10-16">
+    <patient id="P1141" name="Harish R" />
+    <items>
+      <item drug_code="PCM650" qty="9" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">20.25</total>
+  </dispense>
+  <dispense id="RX-88123" date="2026-10-03">
+    <patient id="P1015" name="Anitha Babu" />
+    <items>
+      <item drug_code="CTZ10" qty="18" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AZM500" qty="10" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="10" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="14" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="10" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">378.50</total>
+  </dispense>
+  <dispense id="RX-88124" date="2026-10-05">
+    <patient id="P1117" name="Vikram Nair" />
+    <items>
+      <item drug_code="OMP20" qty="7" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AMX500" qty="14" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="PCM650" qty="20" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">146.50</total>
+  </dispense>
+  <dispense id="RX-88125" date="2026-10-28">
+    <patient id="P1035" name="Sneha Menon" />
+    <items>
+      <item drug_code="AZM500" qty="6" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="PCM650" qty="8" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="7" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AMX500" qty="20" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">237.00</total>
+  </dispense>
+  <dispense id="RX-88126" date="2026-10-10">
+    <patient id="P1155" name="Sneha N" />
+    <items>
+      <item drug_code="AZM500" qty="20" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="CTZ10" qty="10" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AMX500" qty="12" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="PCM650" qty="14" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="OMP20" qty="11" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">536.00</total>
+  </dispense>
+  <dispense id="RX-88127" date="2026-10-17">
+    <patient id="P1001" name="Karthik R" />
+    <items>
+      <item drug_code="OMP20" qty="11" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AZM500" qty="5" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="11" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="PCM650" qty="14" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="13" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">270.50</total>
+  </dispense>
+  <dispense id="RX-88128" date="2026-10-21">
+    <patient id="P1018" name="Harish Nair" />
+    <items>
+      <item drug_code="AMX500" qty="15" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">67.50</total>
+  </dispense>
+  <dispense id="RX-88129" date="2026-10-08">
+    <patient id="P1088" name="Ganesh Kumar" />
+    <items>
+      <item drug_code="PCM650" qty="15" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="20" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">93.75</total>
+  </dispense>
+  <dispense id="RX-88130" date="2026-10-10">
+    <patient id="P1122" name="Prakash Irfan" />
+    <items>
+      <item drug_code="AZM500" qty="6" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="CTZ10" qty="14" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="PCM650" qty="15" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="OMP20" qty="5" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="CORRECTED_MISMATCH">211.25</total>
+  </dispense>
+  <dispense id="RX-88131" date="2026-10-21">
+    <patient id="P1054" name="Priya N" />
+    <items>
+      <item drug_code="CTZ10" qty="17" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">51.00</total>
+  </dispense>
+  <dispense id="RX-88132" date="2026-10-26">
+    <patient id="P1161" name="Nandhini Irfan" />
+    <items>
+      <item drug_code="AMX500" qty="13" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="18" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="OMP20" qty="7" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="20" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AZM500" qty="12" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">412.00</total>
+  </dispense>
+  <dispense id="RX-88133" date="2026-10-22">
+    <patient id="P1096" name="Lakshmi N" />
+    <items>
+      <item drug_code="AMX500" qty="6" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="11" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">60.00</total>
+  </dispense>
+  <dispense id="RX-88134" date="2026-10-28">
+    <patient id="P1024" name="Prakash Menon" />
+    <items>
+      <item drug_code="PCM650" qty="20" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="14" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">87.00</total>
+  </dispense>
+  <dispense id="RX-88135" date="2026-10-12">
+    <patient id="P1084" name="Priya R" />
+    <items>
+      <item drug_code="OMP20" qty="17" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">93.50</total>
+  </dispense>
+  <dispense id="RX-88136" date="2026-10-08">
+    <patient id="P1134" name="Anitha Babu" />
+    <items>
+      <item drug_code="CTZ10" qty="19" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">57.00</total>
+  </dispense>
+  <dispense id="RX-88137" date="2026-10-28">
+    <patient id="P1012" name="Vikram Kumar" />
+    <items>
+      <item drug_code="CTZ10" qty="14" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="PCM650" qty="13" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="OMP20" qty="15" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AMX500" qty="19" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="AZM500" qty="8" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">383.25</total>
+  </dispense>
+  <dispense id="RX-88138" date="2026-10-15">
+    <patient id="P1070" name="Karthik Kumar" />
+    <items>
+      <item drug_code="AZM500" qty="13" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="9" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="14" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="12" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="10" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">408.50</total>
+  </dispense>
+  <dispense id="RX-88139" date="2026-10-16">
+    <patient id="P1019" name="Harish Sharma" />
+    <items>
+      <item drug_code="PCM650" qty="5" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">11.25</total>
+  </dispense>
+  <dispense id="RX-88140" date="2026-10-15">
+    <patient id="P1121" name="Anitha S" />
+    <items>
+      <item drug_code="OMP20" qty="16" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="14" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="15" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AZM500" qty="11" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">362.50</total>
+  </dispense>
+  <dispense id="RX-88141" date="2026-10-15">
+    <patient id="P1137" name="Priya S" />
+    <items>
+      <item drug_code="AMX500" qty="20" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="12" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="12" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="9" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">210.00</total>
+  </dispense>
+  <dispense id="RX-88142" date="2026-10-11">
+    <patient id="P1158" name="Suresh Nair" />
+    <items>
+      <item drug_code="OMP20" qty="7" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AZM500" qty="20" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="8" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">434.50</total>
+  </dispense>
+  <dispense id="RX-88143" date="2026-10-23">
+    <patient id="P1090" name="Vikram Nair" />
+    <items>
+      <item drug_code="AZM500" qty="8" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="PCM650" qty="15" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="7" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AMX500" qty="14" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="19" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">366.25</total>
+  </dispense>
+  <dispense id="RX-88144" date="2026-10-01">
+    <patient id="P1103" name="Arjun Menon" />
+    <items>
+      <item drug_code="OMP20" qty="7" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AZM500" qty="15" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">308.50</total>
+  </dispense>
+  <dispense id="RX-88145" date="2026-10-21">
+    <patient id="P1054" name="Sneha Menon" />
+    <items>
+      <item drug_code="PCM650" qty="20" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AMX500" qty="8" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="CORRECTED_MISMATCH">81.00</total>
+  </dispense>
+  <dispense id="RX-88146" date="2026-10-22">
+    <patient id="P1152" name="Karthik Sharma" />
+    <items>
+      <item drug_code="CTZ10" qty="7" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="OMP20" qty="8" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">65.00</total>
+  </dispense>
+  <dispense id="RX-88147" date="2026-10-17">
+    <patient id="P1153" name="Anitha S" />
+    <items>
+      <item drug_code="PCM650" qty="9" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AMX500" qty="9" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">60.75</total>
+  </dispense>
+  <dispense id="RX-88148" date="2026-10-19">
+    <patient id="P1116" name="Swathi Sharma" />
+    <items>
+      <item drug_code="PCM650" qty="14" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="14" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">73.50</total>
+  </dispense>
+  <dispense id="RX-88149" date="2026-10-24">
+    <patient id="P1112" name="Ravi Babu" />
+    <items>
+      <item drug_code="OMP20" qty="6" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="5" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AZM500" qty="16" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="8" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="14" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">410.25</total>
+  </dispense>
+  <dispense id="RX-88150" date="2026-10-25">
+    <patient id="P1008" name="Swathi Reddy" />
+    <items>
+      <item drug_code="OMP20" qty="18" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AZM500" qty="11" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="PCM650" qty="10" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">319.50</total>
+  </dispense>
+  <dispense id="RX-88151" date="2026-10-08">
+    <patient id="P1122" name="Nandhini Nair" />
+    <items>
+      <item drug_code="PCM650" qty="9" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="5" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="OMP20" qty="7" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AMX500" qty="5" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">96.25</total>
+  </dispense>
+  <dispense id="RX-88152" date="2026-10-09">
+    <patient id="P1037" name="Priya S" />
+    <items>
+      <item drug_code="OMP20" qty="18" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AZM500" qty="10" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">279.00</total>
+  </dispense>
+  <dispense id="RX-88153" date="2026-10-07">
+    <patient id="P1117" name="Nandhini Nair" />
+    <items>
+      <item drug_code="PCM650" qty="5" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="OMP20" qty="20" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">121.25</total>
+  </dispense>
+  <dispense id="RX-88154" date="2026-10-25">
+    <patient id="P1061" name="Swathi Nair" />
+    <items>
+      <item drug_code="AMX500" qty="20" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">90.00</total>
+  </dispense>
+  <dispense id="RX-88155" date="2026-10-18">
+    <patient id="P1095" name="Mohammed Irfan" />
+    <items>
+      <item drug_code="CTZ10" qty="12" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="OMP20" qty="20" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AZM500" qty="7" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="14" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="PCM650" qty="6" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">348.50</total>
+  </dispense>
+  <dispense id="RX-88156" date="2026-10-21">
+    <patient id="P1088" name="Lakshmi Sharma" />
+    <items>
+      <item drug_code="CTZ10" qty="10" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="OMP20" qty="6" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="14" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AZM500" qty="13" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="6" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">355.50</total>
+  </dispense>
+  <dispense id="RX-88157" date="2026-10-14">
+    <patient id="P1162" name="Swathi Kumar" />
+    <items>
+      <item drug_code="AZM500" qty="20" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="7" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="PCM650" qty="9" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">411.75</total>
+  </dispense>
+  <dispense id="RX-88158" date="2026-10-26">
+    <patient id="P1130" name="Priya Babu" />
+    <items>
+      <item drug_code="CTZ10" qty="8" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AZM500" qty="10" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="9" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">244.50</total>
+  </dispense>
+  <dispense id="RX-88159" date="2026-10-18">
+    <patient id="P1115" name="Arjun Sharma" />
+    <items>
+      <item drug_code="AZM500" qty="15" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="7" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">301.50</total>
+  </dispense>
+  <dispense id="RX-88160" date="2026-10-18">
+    <patient id="P1038" name="Nandhini R" />
+    <items>
+      <item drug_code="PCM650" qty="6" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AZM500" qty="13" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="CTZ10" qty="8" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="OMP20" qty="6" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="CORRECTED_MISMATCH">304.50</total>
+  </dispense>
+  <dispense id="RX-88161" date="2026-10-12">
+    <patient id="P1043" name="Vikram Sharma" />
+    <items>
+      <item drug_code="PCM650" qty="13" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="OMP20" qty="9" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="CTZ10" qty="18" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AZM500" qty="5" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="14" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">285.75</total>
+  </dispense>
+  <dispense id="RX-88162" date="2026-10-20">
+    <patient id="P1115" name="Lakshmi Kumar" />
+    <items>
+      <item drug_code="AZM500" qty="16" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">288.00</total>
+  </dispense>
+  <dispense id="RX-88163" date="2026-10-25">
+    <patient id="P1111" name="Kavitha S" />
+    <items>
+      <item drug_code="AZM500" qty="12" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="OMP20" qty="11" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="15" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">310.25</total>
+  </dispense>
+  <dispense id="RX-88164" date="2026-10-06">
+    <patient id="P1047" name="Ravi S" />
+    <items>
+      <item drug_code="OMP20" qty="8" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">44.00</total>
+  </dispense>
+  <dispense id="RX-88165" date="2026-10-16">
+    <patient id="P1135" name="Deepak R" />
+    <items>
+      <item drug_code="CTZ10" qty="5" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="PCM650" qty="7" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AMX500" qty="6" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">57.75</total>
+  </dispense>
+  <dispense id="RX-88166" date="2026-10-18">
+    <patient id="P1153" name="Karthik S" />
+    <items>
+      <item drug_code="AZM500" qty="9" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">162.00</total>
+  </dispense>
+  <dispense id="RX-88167" date="2026-10-18">
+    <patient id="P1097" name="Suresh N" />
+    <items>
+      <item drug_code="OMP20" qty="19" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AMX500" qty="13" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="18" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">217.00</total>
+  </dispense>
+  <dispense id="RX-88168" date="2026-10-25">
+    <patient id="P1083" name="Kavitha Kumar" />
+    <items>
+      <item drug_code="OMP20" qty="13" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="CTZ10" qty="10" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AMX500" qty="19" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="PCM650" qty="7" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">202.75</total>
+  </dispense>
+  <dispense id="RX-88169" date="2026-10-12">
+    <patient id="P1126" name="Suresh Sharma" />
+    <items>
+      <item drug_code="PCM650" qty="18" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">40.50</total>
+  </dispense>
+  <dispense id="RX-88170" date="2026-10-15">
+    <patient id="P1056" name="Meena N" />
+    <items>
+      <item drug_code="AMX500" qty="7" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">31.50</total>
+  </dispense>
+  <dispense id="RX-88171" date="2026-10-15">
+    <patient id="P1019" name="Prakash Irfan" />
+    <items>
+      <item drug_code="AMX500" qty="17" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">76.50</total>
+  </dispense>
+  <dispense id="RX-88172" date="2026-10-09">
+    <patient id="P1069" name="Nandhini Babu" />
+    <items>
+      <item drug_code="AZM500" qty="20" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">360.00</total>
+  </dispense>
+  <dispense id="RX-88173" date="2026-10-07">
+    <patient id="P1123" name="Mohammed Menon" />
+    <items>
+      <item drug_code="AMX500" qty="20" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="8" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">134.00</total>
+  </dispense>
+  <dispense id="RX-88174" date="2026-10-11">
+    <patient id="P1146" name="Vikram Reddy" />
+    <items>
+      <item drug_code="AMX500" qty="16" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">72.00</total>
+  </dispense>
+  <dispense id="RX-88175" date="2026-10-14">
+    <patient id="P1137" name="Vikram R" />
+    <items>
+      <item drug_code="AZM500" qty="17" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="11" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="CORRECTED_MISMATCH">355.50</total>
+  </dispense>
+  <dispense id="RX-88176" date="2026-10-10">
+    <patient id="P9576" name="Nandhini S" />
+    <items>
+      <item drug_code="OMP20" qty="19" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AMX500" qty="11" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="9" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">181.00</total>
+  </dispense>
+  <dispense id="RX-88177" date="2026-10-02">
+    <patient id="P9577" name="Ravi Babu" />
+    <items>
+      <item drug_code="OMP20" qty="7" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AZM500" qty="14" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">290.50</total>
+  </dispense>
+  <dispense id="RX-88178" date="2026-10-16">
+    <patient id="P9578" name="Meena Kumar" />
+    <items>
+      <item drug_code="CTZ10" qty="6" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">18.00</total>
+  </dispense>
+  <dispense id="RX-88179" date="2026-10-11">
+    <patient id="P9579" name="Anitha Reddy" />
+    <items>
+      <item drug_code="PCM650" qty="19" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">42.75</total>
+  </dispense>
+  <dispense id="RX-88180" date="2026-10-22">
+    <patient id="P9580" name="Priya Babu" />
+    <items>
+      <item drug_code="AMX500" qty="9" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="AZM500" qty="20" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">400.50</total>
+  </dispense>
+  <dispense id="RX-88181" date="2026-10-21">
+    <patient id="P9581" name="Prakash Babu" />
+    <items>
+      <item drug_code="PCM650" qty="9" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">20.25</total>
+  </dispense>
+  <dispense id="RX-88182" date="2026-10-01">
+    <patient id="P9582" name="Anitha N" />
+    <items>
+      <item drug_code="OMP20" qty="10" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">55.00</total>
+  </dispense>
+  <dispense id="RX-88183" date="2026-10-19">
+    <patient id="P9583" name="Karthik S" />
+    <items>
+      <item drug_code="AZM500" qty="18" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="PCM650" qty="15" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AMX500" qty="17" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="15" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">479.25</total>
+  </dispense>
+  <dispense id="RX-88184" date="2026-10-04">
+    <patient id="P9584" name="Swathi Menon" />
+    <items>
+      <item drug_code="CTZ10" qty="6" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="PCM650" qty="10" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">40.50</total>
+  </dispense>
+  <dispense id="RX-88185" date="2026-10-11">
+    <patient id="P9585" name="Karthik N" />
+    <items>
+      <item drug_code="OMP20" qty="16" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="10" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">110.50</total>
+  </dispense>
+  <dispense id="RX-88186" date="2026-10-15">
+    <patient id="P9586" name="Swathi Kumar" />
+    <items>
+      <item drug_code="AMX500" qty="10" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="OMP20" qty="5" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">72.50</total>
+  </dispense>
+  <dispense id="RX-88187" date="2026-10-16">
+    <patient id="P9587" name="Ravi Kumar" />
+    <items>
+      <item drug_code="AMX500" qty="18" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="20" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">141.00</total>
+  </dispense>
+  <dispense id="RX-88188" date="2026-10-23">
+    <patient id="P9588" name="Divya Irfan" />
+    <items>
+      <item drug_code="AZM500" qty="12" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="OMP20" qty="10" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="6" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">284.50</total>
+  </dispense>
+  <dispense id="RX-88189" date="2026-10-20">
+    <patient id="P9589" name="Prakash Babu" />
+    <items>
+      <item drug_code="CTZ10" qty="16" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">48.00</total>
+  </dispense>
+  <dispense id="RX-88190" date="2026-10-14">
+    <patient id="P9590" name="Harish R" />
+    <items>
+      <item drug_code="AMX500" qty="16" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="AZM500" qty="12" unit_price="18.00">Azithromycin 500mg</item>
+    </items>
+    <total currency="INR" status="CORRECTED_MISMATCH">288.00</total>
+  </dispense>
+  <dispense id="RX-88191" date="2026-10-15">
+    <patient id="P9591" name="Divya N" />
+    <items>
+      <item drug_code="PCM650" qty="8" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">18.00</total>
+  </dispense>
+  <dispense id="RX-88192" date="2026-10-26">
+    <patient id="P9592" name="Prakash Sharma" />
+    <items>
+      <item drug_code="PCM650" qty="6" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AMX500" qty="16" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">85.50</total>
+  </dispense>
+  <dispense id="RX-88193" date="2026-10-10">
+    <patient id="P9593" name="Rahul N" />
+    <items>
+      <item drug_code="AZM500" qty="8" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="OMP20" qty="6" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AMX500" qty="10" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">222.00</total>
+  </dispense>
+  <dispense id="RX-88194" date="2026-10-06">
+    <patient id="P9594" name="Prakash Menon" />
+    <items>
+      <item drug_code="AMX500" qty="12" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">54.00</total>
+  </dispense>
+  <dispense id="RX-88195" date="2026-10-24">
+    <patient id="P9595" name="Swathi Babu" />
+    <items>
+      <item drug_code="OMP20" qty="15" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="12" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="8" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">133.50</total>
+  </dispense>
+  <dispense id="RX-88196" date="2026-10-11">
+    <patient id="P9596" name="Karthik R" />
+    <items>
+      <item drug_code="PCM650" qty="20" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="OMP20" qty="20" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="AMX500" qty="6" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="18" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">236.00</total>
+  </dispense>
+  <dispense id="RX-88197" date="2026-10-05">
+    <patient id="P9597" name="Ganesh Sharma" />
+    <items>
+      <item drug_code="OMP20" qty="9" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="CTZ10" qty="19" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">106.50</total>
+  </dispense>
+  <dispense id="RX-88198" date="2026-10-24">
+    <patient id="P9598" name="Deepak N" />
+    <items>
+      <item drug_code="CTZ10" qty="6" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="PCM650" qty="6" unit_price="2.25">Paracetamol 650mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">31.50</total>
+  </dispense>
+  <dispense id="RX-88199" date="2026-10-09">
+    <patient id="P9599" name="Karthik Sharma" />
+    <items>
+      <item drug_code="OMP20" qty="14" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="PCM650" qty="10" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AZM500" qty="10" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="12" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">333.50</total>
+  </dispense>
+  <dispense id="RX-88200" date="2026-10-03">
+    <patient id="P9600" name="Lakshmi Sharma" />
+    <items>
+      <item drug_code="AZM500" qty="19" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="OMP20" qty="13" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">413.50</total>
+  </dispense>
+  <dispense id="RX-88201" date="2026-10-01">
+    <patient id="P9601" name="Rahul R" />
+    <items>
+      <item drug_code="CTZ10" qty="12" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="OMP20" qty="9" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">85.50</total>
+  </dispense>
+  <dispense id="RX-88202" date="2026-10-19">
+    <patient id="P9602" name="Rahul Kumar" />
+    <items>
+      <item drug_code="OMP20" qty="6" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">33.00</total>
+  </dispense>
+  <dispense id="RX-88203" date="2026-10-14">
+    <patient id="P9603" name="Nandhini Sharma" />
+    <items>
+      <item drug_code="OMP20" qty="20" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">110.00</total>
+  </dispense>
+  <dispense id="RX-88204" date="2026-10-08">
+    <patient id="P9604" name="Harish Kumar" />
+    <items>
+      <item drug_code="PCM650" qty="12" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AZM500" qty="7" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="OMP20" qty="5" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="CTZ10" qty="20" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">240.50</total>
+  </dispense>
+  <dispense id="RX-88205" date="2026-10-22">
+    <patient id="P9605" name="Suresh Sharma" />
+    <items>
+      <item drug_code="AZM500" qty="17" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="AMX500" qty="10" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="PCM650" qty="16" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="19" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="OMP20" qty="5" unit_price="5.50">Omeprazole 20mg</item>
+    </items>
+    <total currency="INR" status="CORRECTED_MISMATCH">471.50</total>
+  </dispense>
+  <dispense id="RX-88207" date="2026-10-17">
+    <patient id="P9607" name="Vikram Reddy" />
+    <items>
+      <item drug_code="PCM650" qty="15" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="CTZ10" qty="6" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="MATCHED">51.75</total>
+  </dispense>
+  <dispense id="RX-88209" date="2026-10-15">
+    <patient id="P9609" name="Anitha Nair" />
+    <items>
+      <item drug_code="PCM650" qty="11" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AMX500" qty="9" unit_price="4.50">Amoxicillin 500mg</item>
+      <item drug_code="CTZ10" qty="15" unit_price="3.00">Cetirizine 10mg</item>
+    </items>
+    <total currency="INR" status="IMPUTED_MISSING">110.25</total>
+  </dispense>
+  <dispense id="RX-88210" date="2026-10-08">
+    <patient id="P9610" name="Karthik Sharma" />
+    <items>
+      <item drug_code="PCM650" qty="18" unit_price="2.25">Paracetamol 650mg</item>
+      <item drug_code="AZM500" qty="13" unit_price="18.00">Azithromycin 500mg</item>
+      <item drug_code="OMP20" qty="6" unit_price="5.50">Omeprazole 20mg</item>
+      <item drug_code="CTZ10" qty="7" unit_price="3.00">Cetirizine 10mg</item>
+      <item drug_code="AMX500" qty="16" unit_price="4.50">Amoxicillin 500mg</item>
+    </items>
+    <total currency="INR" status="CORRECTED_MISMATCH">400.50</total>
+  </dispense>
+</pharmacy_dispensing>

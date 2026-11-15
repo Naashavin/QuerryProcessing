@@ -1,0 +1,2 @@
+2026-11-11 18:24:46,499 | INFO | Row 3: removed duplicate visit ('P1001', '2026-10-03', 'Cardiology')
+2026-11-11 18:24:46,499 | WARNING | Row 4 (P1005): rejected MISSING_NAME

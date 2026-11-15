@@ -1,0 +1,1101 @@
+student_id,full_name,dob,gender,department,email,phone,quota_category,marks,admission_date,attendance_cleaned,marks_cleaned,marks_minmax,marks_zscore
+AP26-10507,Harish Patel,2007-07-23,Female,Computer Science and Engineering,harish.patel@mailbox.in,9854758483,GEN,620,2026-07-21,85.0,100.0,1.0,0.9211787276535969
+AP26-10809,Varun de Souza,2005-05-01,Female,Business Administration,varun.de souza@mailbox.in,9699700662,EWS,620,2026-07-21,85.0,100.0,1.0,0.9211787276535969
+AP26-10669,O'Brien Varun,2006-01-20,Prefer not to say,Biomedical Engineering,varun.o'brien@mailbox.in,9603585554,OBC,620,2026-07-22,85.0,100.0,1.0,0.9211787276535969
+AP26-10263,C. Pereira,2004-02-01,Female,Computer Science and Engineering,charulatha.pereira@mailbox.in,9333730242,ST,620,2026-07-17,85.0,100.0,1.0,0.9211787276535969
+AP26-10957,Fernandez Tarun,2006-08-05,M,Artificial Intelligence and Data Science,tarun.fernandez@mailbox.in,9219175774,SC,620,2026-07-19,85.0,100.0,1.0,0.9211787276535969
+AP26-10216,Farhan Banerjee,2005-04-06,M,Information Technology,farhan.banerjee@mailbox.in,9084188279,GEN,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10945,Manoj Fernandez,2004-05-15,M,Business Administration,manoj.fernandez@mailbox.in,8931317269,EWS,620,2026-07-25,85.0,100.0,1.0,0.9211787276535969
+AP26-10298,A. Iyer,2007-08-14,F,Mechanical Engineering,ashwin.iyer@mailbox.in,8783358062,EWS,620,2026-07-23,85.0,100.0,1.0,0.9211787276535969
+AP26-10125,R. Hemalatha,2006-07-25,F,Business Administration,hemalatha.r@mailbox.in,8634982803,EWS,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10282,V. K.,2005-11-21,M,Computer Science and Engineering,vignesh.k@mailbox.in,8418601224,EWS,620,2026-07-19,85.0,100.0,1.0,0.9211787276535969
+AP26-10124,Ashwin Iyer,2004-01-15,F,Artificial Intelligence and Data Science,ashwin.iyer@mailbox.in,8352407936,ST,620,2026-07-17,85.0,100.0,1.0,0.9211787276535969
+AP26-11057,Tarun Venkatesh,2005-03-15,Female,Artificial Intelligence and Data Science,tarun.venkatesh@mailbox.in,7934912718,EWS,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10514,Charulatha Reddy,2007-05-01,F,Artificial Intelligence and Data Science,charulatha.reddy@mailbox.in,7854960747,GEN,620,2026-07-21,85.0,100.0,1.0,0.9211787276535969
+AP26-10468,M. Menon,2004-08-27,Female,Biomedical Engineering,manoj.menon@mailbox.in,7664777410,EWS,620,2026-07-21,85.0,100.0,1.0,0.9211787276535969
+AP26-10570,Ishwarya Bose,2004-06-13,M,Information Technology,ishwarya.bose@mailbox.in,7251937834,EWS,620,2026-07-25,85.0,100.0,1.0,0.9211787276535969
+AP26-10398,O'Brien Suresh,2005-05-13,Prefer not to say,Artificial Intelligence and Data Science,suresh.o'brien@mailbox.in,6476847966,ST,620,2026-07-22,85.0,100.0,1.0,0.9211787276535969
+AP26-10975,J. de Souza,2006-12-05,F,Information Technology,jagan.de souza@mailbox.in,6420336372,EWS,620,2026-07-19,85.0,100.0,1.0,0.9211787276535969
+AP26-10864,K. Bose,2005-03-11,Prefer not to say,Biomedical Engineering,karthik.bose@mailbox.in,6175240511,OBC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10773,Das Monika,2006-01-17,Prefer not to say,Artificial Intelligence and Data Science,monika.das@mailbox.in,6143096311,GEN,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10013,Uma Joshi,2004-05-14,M,Biomedical Engineering,uma.joshi@mailbox.in,,OBC,620,2026-07-23,85.0,100.0,1.0,0.9211787276535969
+AP26-10077,De Souza Zeeshan,2004-09-22,Prefer not to say,Artificial Intelligence and Data Science,zeeshan.de souza@mailbox.in,,SC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10194,Vignesh D'Silva,2007-02-27,Female,Artificial Intelligence and Data Science,vignesh.d'silva@mailbox.in,,ST,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10219,K. Pillai,2007-04-14,Prefer not to say,Biomedical Engineering,keerthi.pillai@mailbox.in,,EWS,620,2026-07-16,85.0,100.0,1.0,0.9211787276535969
+AP26-10226,K. Fernandez,2005-09-25,F,Mechanical Engineering,keerthi.fernandez@mailbox.in,,GEN,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10272,Gupta Arun,2005-12-09,M,Computer Science and Engineering,arun.gupta@mailbox.in,,GEN,620,2026-07-19,85.0,100.0,1.0,0.9211787276535969
+AP26-10301,C. Kumar,2006-08-11,F,Artificial Intelligence and Data Science,chirag.kumar@mailbox.in,,SC,620,2026-07-16,85.0,100.0,1.0,0.9211787276535969
+AP26-10396,Karthik K.,2006-11-18,M,Computer Science and Engineering,karthik.k@mailbox.in,,EWS,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10604,Banerjee Chirag,2004-03-06,F,Artificial Intelligence and Data Science,chirag.banerjee@mailbox,,GEN,620,2026-07-25,85.0,100.0,1.0,0.9211787276535969
+AP26-10731,M. Kumar,2004-05-03,F,Information Technology,mohammed.kumar@mailbox.in,,OBC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10891,V. Balaji,2004-04-06,F,Artificial Intelligence and Data Science,vignesh.balaji@mailbox.in,,SC,620,2026-07-23,85.0,100.0,1.0,0.9211787276535969
+AP26-10858,Murugan Jagan,2006-08-22,Male,Computer Science and Engineering,jagan.murugan@mailbox.in,9320854627,EWS,99.5,2026-07-19,85.0,99.5,0.9944444444444445,0.8993927908332631
+AP26-10133,D. Reddy,2007-03-24,F,Information Technology,divya.reddy@mailbox.in,,GEN,99.5,2026-07-19,85.0,99.5,0.9944444444444445,0.8993927908332631
+AP26-10560,D. Bose,2005-09-28,Prefer not to say,Computer Science and Engineering,dinesh.bose@mailbox.in,,EWS,99.5,,85.0,99.5,0.9944444444444445,0.8993927908332631
+AP26-11096,J. O'Brien,2005-01-16,Male,Business Administration,jagan.o'brien@mailbox.in,7918086056,OBC,99.2,,85.0,99.2,0.9911111111111112,0.8863212287410629
+AP26-10543,Charulatha Joshi,2005-11-05,F,Artificial Intelligence and Data Science,charulatha.joshi@mailbox.in,7190701727,SC,98.8,2026-07-19,85.0,98.8,0.9866666666666666,0.8688924792847955
+AP26-10424,Bose Charulatha,2007-12-01,Female,Computer Science and Engineering,charulatha.bose@mailbox.in,,EWS,0.98,,85.0,98.0,0.9777777777777777,0.8340349803722615
+AP26-10505,Tharani Nathan,2006-09-16,Female,Information Technology,tharani.nathan@mailbox.in,,GEN,0.98,,85.0,98.0,0.9777777777777777,0.8340349803722615
+AP26-10627,Pradeep O'Brien,2007-07-26,M,Computer Science and Engineering,pradeep.o'brien@mailbox.in,8461871006,SC,0.97,2026-07-24,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-10503,Rajesh Murugan,2004-04-18,M,Computer Science and Engineering,rajesh.murugan@mailbox.in,8405995163,ST,0.97,2026-07-17,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-10952,V. Reddy,2005-04-03,Female,Biomedical Engineering,varun.reddy@mailbox.in,8248398383,GEN,0.97,2026-07-16,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-10597,Charulatha Patel,2005-02-13,Prefer not to say,Artificial Intelligence and Data Science,charulatha.patel@mailbox.in,7362833579,OBC,0.97,2026-07-25,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-10447,Lavanya Bose,2005-02-05,Male,Artificial Intelligence and Data Science,lavanya.bose@mailbox.in,7304715248,SC,0.97,2026-07-21,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-10691,Venkatesh Manoj,2007-03-10,M,Artificial Intelligence and Data Science,manoj.venkatesh@mailbox.in,,GEN,0.97,2026-07-22,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-10406,Divya Rao,2006-07-06,Male,Mechanical Engineering,divya.rao@mailbox.in,,OBC,96.8,2026-07-19,85.0,96.8,0.9644444444444444,0.7817487320034603
+AP26-10747,A. Irfan,2005-05-20,Male,Artificial Intelligence and Data Science,arun.irfan@mailbox.in,8944762091,EWS,0.96,,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-10357,Karthik Iyengar,2007-10-08,Male,Biomedical Engineering,karthik.iyengar@mailbox.in,6753210413,GEN,0.96,,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-10586,Singh Mohammed,2007-08-06,Prefer not to say,Information Technology,mohammed.singh@mailbox.in,,GEN,0.96,,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-10715,E. Fernandez,2005-06-07,F,Biomedical Engineering,ezhil.fernandez@mailbox.in,,SC,0.96,,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-10030,Kavitha Iyengar,2007-03-18,Male,Information Technology,kavitha.iyengar@mailbox.in,,ST,95.3,2026-07-22,85.0,95.3,0.9477777777777777,0.7163909215424588
+AP26-10112,J. de Souza,2006-11-03,Male,Computer Science and Engineering,jagan.de souza@mailbox.in,,GEN,95.1,,85.0,95.1,0.9455555555555555,0.7076765468143251
+AP26-10192,Divya Das,2006-08-05,Male,Artificial Intelligence and Data Science,divya.das@mailbox.in,7310548287,GEN,0.95,2026-07-25,85.0,95.0,0.9444444444444444,0.7033193594502587
+AP26-10999,Rao Dinesh,2007-04-02,F,Mechanical Engineering,dinesh.rao@mailbox.in,6308871865,ST,0.95,2026-07-20,85.0,95.0,0.9444444444444444,0.7033193594502587
+AP26-10953,Kumar Karthik,2007-12-09,M,Artificial Intelligence and Data Science,karthik.kumar@mailbox.in,,SC,0.95,2026-07-21,85.0,95.0,0.9444444444444444,0.7033193594502587
+AP26-10912,M. Choudhury,2004-12-06,F,Mechanical Engineering,meena.choudhury@mailbox.in,7878062944,ST,94.5,2026-07-15,85.0,94.5,0.9388888888888889,0.6815334226299248
+AP26-10161,Verma Priya,2005-07-09,M,Mechanical Engineering,priya.verma@mailbox.in,7175991318,OBC,94.5,,85.0,94.5,0.9388888888888889,0.6815334226299248
+AP26-10566,Verma Gayathri,2004-12-04,Prefer not to say,Artificial Intelligence and Data Science,gayathri.verma@mailbox.in,8768712278,GEN,94.2,,85.0,94.2,0.9355555555555556,0.6684618605377246
+AP26-10707,D'Silva Deepa,2005-03-27,Male,Information Technology,deepa.d'silva@mailbox.in,9346471236,GEN,93.6,,85.0,93.6,0.9288888888888889,0.6423187363533237
+AP26-11032,Rahul Iyer,2004-10-24,Male,Civil Engineering,rahul.iyer@mailbox.in,9506450546,SC,93.3,2026-07-19,85.0,93.3,0.9255555555555556,0.6292471742611235
+AP26-10624,P. Reddy,2007-02-10,Female,Business Administration,pradeep.reddy@mailbox.in,6915177957,GEN,93.1,2026-07-23,85.0,93.1,0.9233333333333332,0.6205327995329899
+AP26-11020,S. Das,2004-12-01,Prefer not to say,Business Administration,sandhya.das@mailbox.in,9226981243,EWS,0.93,,85.0,93.0,0.9222222222222223,0.6161756121689234
+AP26-10726,Jayanth Fernandez,2004-05-22,Female,Mechanical Engineering,jayanth.fernandez@mailbox.in,6976384436,OBC,0.93,,85.0,93.0,0.9222222222222223,0.6161756121689234
+AP26-10190,Z. Das,2007-09-25,Female,Civil Engineering,zeeshan.das@mailbox.in,,SC,0.93,2026-07-21,85.0,93.0,0.9222222222222223,0.6161756121689234
+AP26-10369,Manoj Pereira,2006-01-20,F,Artificial Intelligence and Data Science,manoj.pereira@mailbox.in,,GEN,0.93,,85.0,93.0,0.9222222222222223,0.6161756121689234
+AP26-10204,S. Sneha,2006-06-09,M,Information Technology,sneha.s@mailbox.in,,ST,92.2,,85.0,92.2,0.9133333333333333,0.5813181132563894
+AP26-10275,Vasanth Irfan,2007-12-23,Prefer not to say,Business Administration,vasanth.irfan@mailbox.in,8336945980,OBC,92.1,2026-07-17,85.0,92.1,0.9122222222222222,0.5769609258923222
+AP26-10799,D. Verma,2005-01-25,Female,Business Administration,dinesh.verma@mailbox.in,9751508526,SC,0.92,2026-07-23,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-10267,N. Rao,2006-10-12,Prefer not to say,Artificial Intelligence and Data Science,nithya.rao@mailbox.in,8349892598,GEN,0.92,2026-07-15,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-10279,B. S.,2007-03-11,Prefer not to say,Computer Science and Engineering,bhavna.s@mailbox.in,6321738109,GEN,0.92,2026-07-21,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-10098,E. D'Silva,2007-10-23,F,Artificial Intelligence and Data Science,ezhil.d'silva@mailbox.in,,GEN,0.92,2026-07-23,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-10317,Meena Balaji,2007-12-27,Prefer not to say,Biomedical Engineering,meena.balaji@mailbox.in,,OBC,0.92,2026-07-23,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-11029,R. de Souza,2006-04-17,Prefer not to say,Civil Engineering,rahul.de souza@mailbox.in,,OBC,0.92,,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-11037,Banerjee Farhan,2007-03-04,M,Business Administration,farhan.banerjee@mailbox.in,9920636835,EWS,91.2,2026-07-24,85.0,91.2,0.9022222222222223,0.5377462396157218
+AP26-10483,K. Swetha,2007-03-28,Female,Biomedical Engineering,swetha.k@mailbox.in,8656952921,ST,91.1,,85.0,91.1,0.9011111111111111,0.5333890522516546
+AP26-10160,Bhavna Rao,2007-11-12,Female,Mechanical Engineering,bhavna.rao@mailbox.in,9859767861,SC,455,2026-07-24,85.0,91.0,0.9,0.529031864887588
+AP26-10902,Nithya Iyengar,2004-07-04,Female,Artificial Intelligence and Data Science,nithya.iyengar@mailbox.in,9830030945,SC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10516,M. D'Silva,2006-05-23,Female,Biomedical Engineering,mohammed.d'silva@mailbox.in,9758108940,EWS,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10432,Divya Bose,2004-10-04,Male,Artificial Intelligence and Data Science,divya.bose@mailbox.in,9738127226,EWS,455,2026-07-19,85.0,91.0,0.9,0.529031864887588
+AP26-10673,Lavanya Rao,2006-01-24,F,Biomedical Engineering,lavanya.rao@mailbox.in,9706763654,GEN,455,2026-07-23,85.0,91.0,0.9,0.529031864887588
+AP26-10905,O'Brien Pradeep,2007-06-22,Male,Civil Engineering,pradeep.o'brien@mailbox,9357104324,EWS,455,2026-07-22,85.0,91.0,0.9,0.529031864887588
+AP26-10031,Pillai Manoj,2006-08-03,M,Computer Science and Engineering,manoj.pillai@mailbox.in,9183619255,ST,455,2026-07-20,85.0,91.0,0.9,0.529031864887588
+AP26-10990,Zeeshan Fernandez,2007-03-12,Female,Civil Engineering,zeeshan.fernandez@mailbox.in,9001870728,OBC,455,2026-07-20,85.0,91.0,0.9,0.529031864887588
+AP26-10449,Sundaram Meena,2004-11-11,M,Biomedical Engineering,meena.sundaram@mailbox.in,8510858754,GEN,455,2026-07-23,85.0,91.0,0.9,0.529031864887588
+AP26-10123,Uma K.,2004-04-26,Prefer not to say,Artificial Intelligence and Data Science,uma.k@mailbox.in,8374087634,GEN,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10421,Priya Sharma,2005-04-21,Female,Computer Science and Engineering,priya.sharma@mailbox.in,8125216146,EWS,455,2026-07-23,85.0,91.0,0.9,0.529031864887588
+AP26-10770,Gupta Monika,2005-06-05,Prefer not to say,Computer Science and Engineering,monika.gupta@mailbox.in,7726597142,OBC,0.91,,85.0,91.0,0.9,0.529031864887588
+AP26-10225,Rajesh Menon,2006-09-15,F,Information Technology,rajesh.menon@mailbox.in,7669370089,ST,455,2026-07-15,85.0,91.0,0.9,0.529031864887588
+AP26-10058,Pereira Abishek,2007-08-14,Prefer not to say,Computer Science and Engineering,abishek.pereira@mailbox.in,7627193542,OBC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-11023,Charulatha Sharma,2007-09-16,Prefer not to say,Business Administration,charulatha.sharma@mailbox.in,7430045465,GEN,455,2026-07-21,85.0,91.0,0.9,0.529031864887588
+AP26-10144,Pillai Sandhya,2006-02-23,Prefer not to say,Biomedical Engineering,sandhya.pillai@mailbox.in,7307113676,EWS,455,2026-07-18,85.0,91.0,0.9,0.529031864887588
+AP26-10900,Iyer Sneha,2005-12-14,Female,Computer Science and Engineering,sneha.iyer@mailbox.in,7198830444,EWS,455,2026-07-17,85.0,91.0,0.9,0.529031864887588
+AP26-10083,Manoj Nair,2005-07-26,F,Artificial Intelligence and Data Science,manoj.nair@mailbox.in,7169308143,GEN,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10385,Anitha O'Brien,2005-03-06,Male,Computer Science and Engineering,anitha.o'brien@mailbox.in,7137509180,ST,455,2026-07-25,85.0,91.0,0.9,0.529031864887588
+AP26-10542,J. Banerjee,2006-12-25,Female,Computer Science and Engineering,jayanth.banerjee@mailbox.in,6958229007,SC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10650,I. Sundaram,2004-10-08,M,Mechanical Engineering,ishwarya.sundaram@mailbox.in,6779466045,EWS,455,2026-07-19,85.0,91.0,0.9,0.529031864887588
+AP26-10750,Menon Jagan,2006-03-10,M,Business Administration,jagan.menon@mailbox.in,6579290755,ST,455,2026-07-23,85.0,91.0,0.9,0.529031864887588
+AP26-10104,Manoj Choudhury,2006-05-13,Female,Civil Engineering,manoj.choudhury@mailbox.in,6527893757,GEN,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10162,G. Pereira,2007-11-05,Female,Artificial Intelligence and Data Science,gayathri.pereira@mailbox.in,6513223593,EWS,455,2026-07-19,85.0,91.0,0.9,0.529031864887588
+AP26-10239,Meena R.,2005-08-08,Male,Biomedical Engineering,meena.r@mailbox.in,6251619703,OBC,455,2026-07-17,85.0,91.0,0.9,0.529031864887588
+AP26-10412,Kavitha Reddy,2007-10-19,M,Biomedical Engineering,kavitha.reddy@mailbox.in,6226310978,SC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10835,L. Singh,2005-06-27,M,Information Technology,lakshmi.singh@mailbox.in,6092190391,ST,455,2026-07-16,85.0,91.0,0.9,0.529031864887588
+AP26-10177,R. Pereira,2007-10-15,F,Mechanical Engineering,revathi.pereira@mailbox.in,6035961848,OBC,455,2026-07-17,85.0,91.0,0.9,0.529031864887588
+AP26-10025,J. Iyer,2007-08-09,F,Mechanical Engineering,jagan.iyer@mailbox.in,,EWS,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10090,A. Verma,2006-05-28,Male,Civil Engineering,arun.verma@mailbox.in,,OBC,455,2026-07-20,85.0,91.0,0.9,0.529031864887588
+AP26-10091,Nair Pradeep,2007-03-07,Female,Computer Science and Engineering,pradeep.nair@mailbox.in,,OBC,455,2026-07-15,85.0,91.0,0.9,0.529031864887588
+AP26-10236,Iyengar Harish,2004-09-19,Female,Business Administration,harish.iyengar@mailbox.in,,EWS,455,2026-07-21,85.0,91.0,0.9,0.529031864887588
+AP26-10309,Irfan Gita,2007-10-26,Female,Mechanical Engineering,gita.irfan@mailbox.in,,ST,455,2026-07-20,85.0,91.0,0.9,0.529031864887588
+AP26-10403,Kumar Rohit,2007-02-26,F,Business Administration,rohit.kumar@mailbox.in,,ST,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10506,Balaji Revathi,2004-11-07,F,Civil Engineering,revathi.balaji@mailbox.in,,OBC,455,2026-07-24,85.0,91.0,0.9,0.529031864887588
+AP26-10685,Sharma Hemalatha,2005-09-07,M,Information Technology,hemalatha.sharma@mailbox.in,,OBC,0.91,,85.0,91.0,0.9,0.529031864887588
+AP26-10710,Kumar Lakshmi,2004-11-06,Male,Civil Engineering,lakshmi.kumar@mailbox.in,,SC,455,2026-07-22,85.0,91.0,0.9,0.529031864887588
+AP26-10714,Bhavna S.,2005-11-25,M,Information Technology,bhavna.s@mailbox.in,,GEN,0.91,2026-07-20,85.0,91.0,0.9,0.529031864887588
+AP26-10797,Kavitha Pereira,2007-05-10,M,Information Technology,kavitha.pereira@mailbox.in,,OBC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10951,N. Rao,2007-09-09,Male,Biomedical Engineering,naveen.rao@mailbox.in,,SC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-11048,Rajesh Patel,2004-05-19,M,Computer Science and Engineering,rajesh.patel@mailbox.in,,EWS,0.91,2026-07-23,85.0,91.0,0.9,0.529031864887588
+AP26-11099,Uma Fernandez,2007-01-20,Female,Biomedical Engineering,uma.fernandez@mailbox.in,,SC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10917,Chirag Verma,2005-02-18,Prefer not to say,Information Technology,chirag.verma@mailbox.in,,ST,90.9,,85.0,90.9,0.898888888888889,0.5246746775235216
+AP26-10712,Sanjay Joshi,2006-12-12,F,Artificial Intelligence and Data Science,sanjay.joshi@mailbox.in,9881795460,GEN,90.7,2026-07-20,85.0,90.7,0.8966666666666667,0.5159603027953878
+AP26-10630,D'Silva Arun,2005-01-05,M,Artificial Intelligence and Data Science,arun.d'silva@mailbox,9096669336,ST,90.4,,85.0,90.4,0.8933333333333334,0.5028887407031877
+AP26-10686,Nithya Verma,2006-10-22,Male,Computer Science and Engineering,nithya.verma@mailbox.in,7654003096,GEN,90.4,2026-07-15,85.0,90.4,0.8933333333333334,0.5028887407031877
+AP26-10460,D. Sharma,2005-10-05,Female,Artificial Intelligence and Data Science,divya.sharma@mailbox.in,6635147538,OBC,90.3,2026-07-18,85.0,90.3,0.8922222222222221,0.4985315533391206
+AP26-10197,Anitha Das,2004-12-04,Male,Business Administration,anitha.das@mailbox,9929399654,ST,0.9,2026-07-15,85.0,90.0,0.8888888888888888,0.4854599912469204
+AP26-10752,Pillai Ashwin,2005-04-03,Female,Business Administration,ashwin.pillai@mailbox.in,9044581857,OBC,0.9,2026-07-17,85.0,90.0,0.8888888888888888,0.4854599912469204
+AP26-10574,Verma Nithya,2004-03-07,Prefer not to say,Computer Science and Engineering,nithya.verma@mailbox.in,,SC,0.9,2026-07-21,85.0,90.0,0.8888888888888888,0.4854599912469204
+AP26-10523,Patel Hemalatha,2007-01-03,Male,Biomedical Engineering,hemalatha.patel@mailbox.in,8328261516,EWS,89.9,2026-07-22,85.0,89.9,0.8877777777777779,0.4811028038828539
+AP26-10964,P. D'Silva,2004-01-02,Female,Artificial Intelligence and Data Science,pradeep.d'silva@mailbox.in,,GEN,89.8,,85.0,89.8,0.8866666666666666,0.4767456165187868
+AP26-10494,Dinesh Irfan,2004-12-28,M,Business Administration,dinesh.irfan@mailbox.in,7897834714,OBC,89.4,2026-07-17,85.0,89.4,0.8822222222222222,0.45931686706252006
+AP26-10500,Gita Venkatesh,2007-08-24,Male,Business Administration,gita.venkatesh@mailbox.in,8441986716,GEN,89.3,2026-07-21,85.0,89.3,0.8811111111111111,0.4549596796984529
+AP26-10251,Chirag Pereira,2007-11-02,Prefer not to say,Computer Science and Engineering,chirag.pereira@mailbox.in,,SC,89.2,2026-07-19,85.0,89.2,0.88,0.45060249233438643
+AP26-10366,Patel Indumathi,2007-10-25,Male,Biomedical Engineering,indumathi.patel@mailbox.in,,ST,89.2,2026-07-21,85.0,89.2,0.88,0.45060249233438643
+AP26-10798,Divya D'Silva,2006-12-19,M,Artificial Intelligence and Data Science,divya.d'silva@mailbox.in,,ST,89.2,,85.0,89.2,0.88,0.45060249233438643
+AP26-10559,Menon Indumathi,2006-05-06,Male,Business Administration,indumathi.menon@mailbox.in,7558730096,OBC,0.89,2026-07-18,85.0,89.0,0.8777777777777778,0.4418881176062528
+AP26-10310,Gupta Chirag,2005-10-13,F,Civil Engineering,chirag.gupta@mailbox.in,7191793982,OBC,0.89,,85.0,89.0,0.8777777777777778,0.4418881176062528
+AP26-10716,Ishwarya Pillai,2007-10-24,Prefer not to say,Computer Science and Engineering,ishwarya.pillai@mailbox.in,,ST,0.89,2026-07-20,85.0,89.0,0.8777777777777778,0.4418881176062528
+AP26-10337,Sandhya R.,2005-02-04,M,Mechanical Engineering,sandhya.r@mailbox.in,,GEN,88.9,2026-07-25,85.0,88.9,0.8766666666666667,0.43753093024218626
+AP26-10066,Hemalatha Reddy,2005-08-16,Prefer not to say,Biomedical Engineering,hemalatha.reddy@mailbox.in,6377545343,ST,88.7,2026-07-18,85.0,88.7,0.8744444444444445,0.4288165555140526
+AP26-11080,D. Nair,2004-11-22,Female,Civil Engineering,divya.nair@mailbox.in,8165301805,ST,88.6,,85.0,88.6,0.8733333333333333,0.42445936814998547
+AP26-10284,Rajesh de Souza,2005-07-24,Male,Computer Science and Engineering,rajesh.de souza@mailbox.in,,ST,88.6,2026-07-21,85.0,88.6,0.8733333333333333,0.42445936814998547
+AP26-10393,Rajesh Gupta,2004-12-22,Male,Artificial Intelligence and Data Science,rajesh.gupta@mailbox.in,,EWS,88.4,,85.0,88.4,0.8711111111111112,0.41574499342185245
+AP26-10677,Balaji Suresh,2004-10-08,Prefer not to say,Civil Engineering,suresh.balaji@mailbox.in,,GEN,88.4,2026-07-15,85.0,88.4,0.8711111111111112,0.41574499342185245
+AP26-10048,R. Singh,2005-08-12,M,Computer Science and Engineering,revathi.singh@mailbox.in,,EWS,88.3,,85.0,88.3,0.87,0.4113878060577853
+AP26-10415,Verma Kavitha,2006-11-16,M,Computer Science and Engineering,kavitha.verma@mailbox.in,6158746561,SC,88.2,2026-07-25,85.0,88.2,0.8688888888888889,0.40703061869371876
+AP26-10668,De Souza Ashwin,2006-10-08,Female,Computer Science and Engineering,ashwin.de souza@mailbox.in,7039523472,ST,88.1,,85.0,88.1,0.8677777777777778,0.40267343132965167
+AP26-10913,M. Balaji,2006-04-15,Prefer not to say,Computer Science and Engineering,manoj.balaji@mailbox.in,7197886366,EWS,0.88,,85.0,88.0,0.8666666666666667,0.3983162439655851
+AP26-11005,R. Menon,2007-03-02,F,Business Administration,rohit.menon@mailbox.in,,OBC,88.0,2026-07-19,85.0,88.0,0.8666666666666667,0.3983162439655851
+AP26-10063,De Souza Zeeshan,2006-10-23,Male,Business Administration,zeeshan.de souza@mailbox.in,,ST,87.9,,85.0,87.9,0.8655555555555556,0.3939590566015186
+AP26-10827,Kumar Zeeshan,2004-02-09,Male,Artificial Intelligence and Data Science,zeeshan.kumar@mailbox.in,7420284415,EWS,87.8,2026-07-25,85.0,87.8,0.8644444444444445,0.3896018692374515
+AP26-10569,Manoj Bose,2004-12-28,F,Computer Science and Engineering,manoj.bose@mailbox.in,7187874511,SC,87.8,2026-07-16,85.0,87.8,0.8644444444444445,0.3896018692374515
+AP26-10759,Jagan Irfan,2007-04-05,Prefer not to say,Biomedical Engineering,jagan.irfan@mailbox.in,,ST,87.8,2026-07-20,85.0,87.8,0.8644444444444445,0.3896018692374515
+AP26-10577,D. D'Silva,2004-04-02,Female,Artificial Intelligence and Data Science,dinesh.d'silva@mailbox.in,,OBC,87.7,2026-07-25,85.0,87.7,0.8633333333333334,0.38524468187338495
+AP26-10855,Chirag Balaji,2007-06-11,F,Computer Science and Engineering,chirag.balaji@mailbox.in,6644556531,EWS,87.5,2026-07-16,85.0,87.5,0.8611111111111112,0.3765303071452513
+AP26-10397,V. O'Brien,2007-10-11,Female,Business Administration,vignesh.o'brien@mailbox.in,9866330020,EWS,N.A.,2026-07-18,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10143,V. Choudhury,2004-09-15,F,Business Administration,vasanth.choudhury@mailbox.in,7919794179,ST,N.A.,2026-07-17,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10273,H. Reddy,2007-04-01,F,Business Administration,hemalatha.reddy@mailbox.in,7826259354,SC,N.A.,2026-07-17,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10841,Irfan Ashwin,2005-07-01,Male,Business Administration,ashwin.irfan@mailbox.in,7656369935,EWS,N.A.,2026-07-17,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10828,Uma Nathan,2006-06-14,Prefer not to say,Business Administration,uma.nathan@mailbox.in,7554964883,GEN,N.A.,2026-07-21,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10016,Mohammed Kumar,2005-05-16,M,Business Administration,mohammed.kumar@mailbox.in,,ST,N.A.,2026-07-22,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10146,Deepa Irfan,2004-03-01,M,Business Administration,deepa.irfan@mailbox.in,,SC,N.A.,,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10213,Meena Sundaram,2007-03-05,M,Business Administration,meena.sundaram@mailbox.in,,ST,N.A.,2026-07-20,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10457,Abishek Bose,2004-12-27,M,Business Administration,abishek.bose@mailbox.in,,ST,N.A.,2026-07-24,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10943,Sneha K.,2007-12-03,Male,Business Administration,sneha.k@mailbox.in,,ST,N.A.,,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-11006,S. Sanjay,2004-10-02,Male,Business Administration,sanjay.s@mailbox.in,,EWS,N.A.,,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-11078,Abishek Sundaram,2004-06-18,M,Biomedical Engineering,abishek.sundaram@mailbox,,EWS,87.2,2026-07-24,85.0,87.2,0.8577777777777779,0.36345874505305115
+AP26-10075,Priya Rao,2004-10-23,Prefer not to say,Computer Science and Engineering,priya.rao@mailbox.in,9840012399,EWS,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10105,Menon Chirag,2005-11-22,Male,Computer Science and Engineering,chirag.menon@mailbox.in,9840012399,EWS,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10165,Sneha Sundaram,2006-10-04,F,Artificial Intelligence and Data Science,sneha.sundaram@mailbox.in,9840012399,GEN,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10195,Monika Gupta,2006-11-03,Male,Mechanical Engineering,monika.gupta@mailbox.in,9840012399,ST,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10240,S. Sanjay,2007-01-03,Female,Biomedical Engineering,sanjay.s@mailbox.in,9840012399,SC,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10285,Lakshmi D'Silva,2004-03-21,M,Biomedical Engineering,lakshmi.d'silva@mailbox.in,9840012399,GEN,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10300,Joshi Mohammed,2005-05-16,F,Business Administration,mohammed.joshi@mailbox.in,9840012399,OBC,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10315,Vasanth Irfan,2004-04-01,Female,Artificial Intelligence and Data Science,vasanth.irfan@mailbox.in,9840012399,EWS,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10390,Nair Tharani,2004-07-25,Prefer not to say,Mechanical Engineering,tharani.nair@mailbox.in,9840012399,EWS,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10405,K. Iyer,2004-03-19,Female,Computer Science and Engineering,karthik.iyer@mailbox.in,9840012399,SC,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10450,Charulatha Venkatesh,2007-06-10,Female,Mechanical Engineering,charulatha.venkatesh@mailbox.in,9840012399,OBC,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10465,Bose Subramanian,2005-09-14,Male,Biomedical Engineering,subramanian.bose@mailbox.in,9840012399,EWS,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10495,S. Rao,2004-04-25,M,Artificial Intelligence and Data Science,sanjay.rao@mailbox.in,9840012399,OBC,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10510,Keerthi de Souza,2006-02-15,M,Computer Science and Engineering,keerthi.de souza@mailbox.in,9840012399,GEN,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10256,Kavitha de Souza,2005-03-08,F,Information Technology,kavitha.de souza@mailbox.in,9783988151,SC,N.A.,2026-07-19,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10702,Tharani Menon,2006-01-10,F,Information Technology,tharani.menon@mailbox.in,8599494831,EWS,N.A.,2026-07-21,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10939,Lavanya Sharma,2007-12-25,M,Information Technology,lavanya.sharma@mailbox.in,8587274031,EWS,N.A.,2026-07-20,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-11010,Ishwarya R.,2004-05-01,Male,Information Technology,ishwarya.r@mailbox.in,7262786094,SC,N.A.,2026-07-19,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10906,D. Irfan,2006-05-28,Male,Biomedical Engineering,dinesh.irfan@mailbox.in,6705283293,GEN,0.87,2026-07-16,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10261,R. Revathi,2007-06-24,Female,Information Technology,revathi.r@mailbox.in,6561364555,OBC,N.A.,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10892,J. Sundaram,2005-04-18,Prefer not to say,Information Technology,jagan.sundaram@mailbox.in,6216452281,SC,N.A.,2026-07-23,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10485,Jagan Das,2006-08-04,Prefer not to say,Information Technology,jagan.das@mailbox.in,,EWS,N.A.,2026-07-18,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10557,Priya Irfan,2007-01-18,Prefer not to say,Information Technology,priya.irfan@mailbox.in,,GEN,N.A.,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10598,Rohit Bose,2006-12-26,Male,Information Technology,rohit.bose@mailbox.in,,EWS,N.A.,2026-07-24,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10736,Kavitha Rao,2004-03-07,M,Information Technology,kavitha.rao@mailbox.in,,GEN,N.A.,2026-07-17,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10847,Yamini Murugan,2007-08-28,Male,Information Technology,yamini.murugan@mailbox.in,,ST,N.A.,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-11035,Monika Irfan,2004-02-22,Male,Computer Science and Engineering,monika.irfan@mailbox.in,,ST,0.87,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10458,Sharma Hemalatha,2005-04-26,Male,Computer Science and Engineering,hemalatha.sharma@mailbox.in,8910658933,OBC,86.9,2026-07-16,85.0,86.9,0.8544444444444446,0.350387182960851
+AP26-10041,Irfan Nithya,2006-08-03,Male,Information Technology,nithya.irfan@mailbox,,OBC,86.8,2026-07-18,85.0,86.8,0.8533333333333333,0.3460299955967838
+AP26-10575,M. Venkatesh,2007-11-11,F,Artificial Intelligence and Data Science,meena.venkatesh@mailbox.in,9084481189,EWS,86.6,2026-07-23,85.0,86.6,0.851111111111111,0.3373156208686502
+AP26-10142,V. Gupta,2007-04-03,Female,Biomedical Engineering,varun.gupta@mailbox.in,7328257894,OBC,86.3,2026-07-15,85.0,86.3,0.8477777777777777,0.32424405877645
+AP26-10469,Sanjay Bose,2004-12-20,Female,Civil Engineering,sanjay.bose@mailbox.in,8892485648,ST,86.1,2026-07-22,85.0,86.1,0.8455555555555555,0.31552968404831633
+AP26-10235,Patel Dinesh,2005-03-03,Prefer not to say,Biomedical Engineering,dinesh.patel@mailbox.in,8672185585,SC,0.86,2026-07-18,85.0,86.0,0.8444444444444444,0.31117249668424984
+AP26-10212,Nithya D'Silva,2005-08-06,M,Computer Science and Engineering,nithya.d'silva@mailbox.in,6384792974,SC,0.86,2026-07-19,85.0,86.0,0.8444444444444444,0.31117249668424984
+AP26-10374,Singh Zeeshan,2004-12-21,Prefer not to say,Information Technology,zeeshan.singh@mailbox.in,,ST,0.86,2026-07-22,85.0,86.0,0.8444444444444444,0.31117249668424984
+AP26-10389,Sneha Choudhury,2006-12-28,M,Artificial Intelligence and Data Science,sneha.choudhury@mailbox.in,,EWS,0.86,2026-07-16,85.0,86.0,0.8444444444444444,0.31117249668424984
+AP26-10614,Iyer Pradeep,2007-06-03,Female,Artificial Intelligence and Data Science,pradeep.iyer@mailbox.in,,EWS,0.86,2026-07-25,85.0,86.0,0.8444444444444444,0.31117249668424984
+AP26-10617,D. Venkatesh,2007-06-14,F,Business Administration,divya.venkatesh@mailbox.in,,ST,0.86,,85.0,86.0,0.8444444444444444,0.31117249668424984
+AP26-10729,Manoj K.,2005-08-21,M,Artificial Intelligence and Data Science,manoj.k@mailbox.in,,OBC,0.86,2026-07-25,85.0,86.0,0.8444444444444444,0.31117249668424984
+AP26-10758,Gupta Meena,2004-03-25,Prefer not to say,Artificial Intelligence and Data Science,meena.gupta@mailbox.in,,GEN,0.86,2026-07-17,85.0,86.0,0.8444444444444444,0.31117249668424984
+AP26-10609,Rohit Iyer,2004-12-07,Female,Biomedical Engineering,rohit.iyer@mailbox.in,9649065505,OBC,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10296,K. Gupta,2005-05-23,Prefer not to say,Biomedical Engineering,karthik.gupta@mailbox.in,9482280073,SC,N.A.,2026-07-24,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10540,O'Brien Sandhya,2006-09-05,Prefer not to say,Biomedical Engineering,sandhya.o'brien@mailbox.in,9056515513,GEN,N.A.,2026-07-18,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10042,Lavanya Pillai,2007-10-26,M,Biomedical Engineering,lavanya.pillai@mailbox.in,8591254567,SC,N.A.,2026-07-23,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10518,Zeeshan Irfan,2004-12-28,Prefer not to say,Biomedical Engineering,zeeshan.irfan@mailbox.in,7893001020,SC,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10007,Murugan Abishek,2004-06-22,Female,Biomedical Engineering,abishek.murugan@mailbox.in,7270054532,SC,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10461,Sundaram Ashwin,2007-05-19,Prefer not to say,Biomedical Engineering,ashwin.sundaram@mailbox.in,7264550670,SC,N.A.,2026-07-21,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-11062,D. Rao,2007-12-08,Prefer not to say,Biomedical Engineering,dinesh.rao@mailbox.in,6653763247,EWS,N.A.,2026-07-20,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10877,O'Brien Jagan,2007-12-09,M,Biomedical Engineering,jagan.o'brien@mailbox,6602586374,OBC,85.7,2026-07-18,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10620,V. Fernandez,2005-05-21,Male,Biomedical Engineering,varun.fernandez@mailbox.in,6451857754,SC,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10152,Vignesh Iyer,2006-04-25,M,Biomedical Engineering,vignesh.iyer@mailbox.in,6442431797,OBC,N.A.,2026-07-25,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10095,Pradeep D'Silva,2004-08-20,F,Biomedical Engineering,pradeep.d'silva@mailbox.in,6311251601,SC,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10032,V. Fernandez,2006-04-06,M,Biomedical Engineering,vasanth.fernandez@mailbox.in,,ST,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10170,D. Menon,2006-07-25,Male,Biomedical Engineering,dinesh.menon@mailbox.in,,GEN,N.A.,2026-07-15,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10308,P. Pillai,2004-12-06,Male,Biomedical Engineering,pavithra.pillai@mailbox.in,,EWS,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10419,Verma Sandhya,2005-11-19,M,Biomedical Engineering,sandhya.verma@mailbox.in,,SC,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10462,Divya Sundaram,2007-09-19,F,Biomedical Engineering,divya.sundaram@mailbox.in,,SC,N.A.,2026-07-22,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10678,Rahul Banerjee,2006-03-27,Female,Biomedical Engineering,rahul.banerjee@mailbox.in,,ST,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10781,Singh Zeeshan,2006-09-06,Female,Biomedical Engineering,zeeshan.singh@mailbox.in,,OBC,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10843,Charulatha Irfan,2004-07-04,Female,Biomedical Engineering,charulatha.irfan@mailbox.in,,OBC,N.A.,2026-07-17,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10857,Yamini Pillai,2005-01-09,F,Biomedical Engineering,yamini.pillai@mailbox.in,,SC,N.A.,2026-07-21,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10738,Reddy Suresh,2004-09-08,Female,Biomedical Engineering,suresh.reddy@mailbox.in,6531931386,SC,85.6,2026-07-25,85.0,85.6,0.84,0.2937437472279825
+AP26-10056,Gita Venkatesh,2005-06-27,Male,Information Technology,gita.venkatesh@mailbox.in,,OBC,85.6,2026-07-24,85.0,85.6,0.84,0.2937437472279825
+AP26-10649,Farhan Kumar,2005-04-08,F,Civil Engineering,farhan.kumar@mailbox.in,7609086155,ST,N.A.,2026-07-25,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10741,K. Balaji,2005-02-12,Prefer not to say,Civil Engineering,kavitha.balaji@mailbox.in,6246640617,OBC,N.A.,,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10487,Y. Choudhury,2007-10-06,Male,Civil Engineering,yamini.choudhury@mailbox.in,,OBC,N.A.,2026-07-17,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10520,Keerthi S.,2005-10-22,M,Civil Engineering,keerthi.s@mailbox.in,,ST,N.A.,2026-07-18,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10538,Reddy Tharani,2006-07-25,M,Civil Engineering,tharani.reddy@mailbox.in,,ST,N.A.,2026-07-23,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10545,Z. K.,2005-07-27,Female,Civil Engineering,zeeshan.k@mailbox.in,,EWS,N.A.,,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10822,E. Banerjee,2004-06-13,Female,Civil Engineering,ezhil.banerjee@mailbox.in,,SC,N.A.,2026-07-15,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-11019,Jagan Joshi,2007-01-28,Prefer not to say,Civil Engineering,jagan.joshi@mailbox.in,,OBC,N.A.,,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10581,Abishek Murugan,2006-02-06,Male,Artificial Intelligence and Data Science,abishek.murugan@mailbox.in,,EWS,85.3,2026-07-16,85.0,85.3,0.8366666666666667,0.28067218513578235
+AP26-10073,R. Das,2007-11-10,Prefer not to say,Computer Science and Engineering,revathi.das@mailbox.in,9422774415,EWS,0.85,2026-07-15,85.0,85.0,0.8333333333333334,0.2676006230435822
+AP26-10304,R. Irfan,2004-01-27,Female,Biomedical Engineering,rajesh.irfan@mailbox.in,6913929748,GEN,0.85,2026-07-21,85.0,85.0,0.8333333333333334,0.2676006230435822
+AP26-10072,R. Mohammed,2007-01-18,M,Business Administration,mohammed.r@mailbox.in,6676642279,GEN,0.85,2026-07-25,85.0,85.0,0.8333333333333334,0.2676006230435822
+AP26-10343,Gita S.,2005-12-03,M,Civil Engineering,gita.s@mailbox.in,,SC,0.85,,85.0,85.0,0.8333333333333334,0.2676006230435822
+AP26-10429,Menon Dinesh,2004-07-11,M,Computer Science and Engineering,dinesh.menon@mailbox.in,9758865801,ST,N.A.,2026-07-21,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10932,D. O'Brien,2004-06-13,Prefer not to say,Computer Science and Engineering,deepa.o'brien@mailbox.in,9274362510,EWS,N.A.,2026-07-23,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10639,Z. Irfan,2004-02-12,M,Computer Science and Engineering,zeeshan.irfan@mailbox.in,9075303980,EWS,N.A.,2026-07-25,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10218,R. Pillai,2005-04-13,Prefer not to say,Computer Science and Engineering,revathi.pillai@mailbox.in,9040598908,EWS,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10904,Deepa Reddy,2006-07-15,Male,Computer Science and Engineering,deepa.reddy@mailbox.in,8937478779,SC,N.A.,2026-07-19,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10481,Abishek Pereira,2005-12-10,F,Computer Science and Engineering,abishek.pereira@mailbox.in,8600297434,OBC,N.A.,2026-07-23,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10723,L. Bose,2006-07-17,F,Computer Science and Engineering,lavanya.bose@mailbox.in,8301835933,SC,N.A.,2026-07-23,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-11054,Manoj Murugan,2005-12-16,Female,Computer Science and Engineering,manoj.murugan@mailbox.in,8076669474,EWS,N.A.,2026-07-22,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-11093,Charulatha Pereira,2004-09-22,M,Computer Science and Engineering,charulatha.pereira@mailbox.in,8026841524,ST,N.A.,2026-07-18,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10069,Gita K.,2006-09-13,Female,Computer Science and Engineering,gita.k@mailbox.in,7993122740,EWS,N.A.,2026-07-21,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10035,V. Nathan,2005-02-17,F,Computer Science and Engineering,vignesh.nathan@mailbox.in,7520404455,SC,N.A.,2026-07-23,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10886,K. Nathan,2006-01-09,M,Computer Science and Engineering,kavitha.nathan@mailbox.in,7385860621,ST,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10338,H. S.,2004-03-13,Prefer not to say,Computer Science and Engineering,hemalatha.s@mailbox.in,6477610304,EWS,N.A.,2026-07-18,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10231,Farhan Patel,2007-10-16,F,Computer Science and Engineering,farhan.patel@mailbox.in,,GEN,N.A.,2026-07-24,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10322,N. Verma,2004-01-22,Prefer not to say,Computer Science and Engineering,naveen.verma@mailbox.in,,EWS,N.A.,2026-07-17,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10328,Subramanian Murugan,2005-08-01,Male,Computer Science and Engineering,subramanian.murugan@mailbox.in,,EWS,N.A.,2026-07-17,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10339,K. Patel,2006-09-13,M,Computer Science and Engineering,karthik.patel@mailbox.in,,ST,N.A.,2026-07-23,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10493,A. R.,2005-11-28,F,Computer Science and Engineering,anitha.r@mailbox.in,,ST,N.A.,2026-07-18,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10563,Nair Vasanth,2007-06-13,Male,Computer Science and Engineering,vasanth.nair@mailbox.in,,GEN,N.A.,2026-07-20,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10652,Rohit Menon,2006-02-09,Female,Computer Science and Engineering,rohit.menon@mailbox.in,,SC,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10760,Bhavna Iyengar,2007-06-26,Prefer not to say,Computer Science and Engineering,bhavna.iyengar@mailbox.in,,GEN,N.A.,2026-07-15,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10326,Bose Ishwarya,2004-02-28,Male,Artificial Intelligence and Data Science,ishwarya.bose@mailbox.in,8715532937,GEN,N.A.,2026-07-16,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10638,Kumar Sanjay,2007-08-25,Female,Artificial Intelligence and Data Science,sanjay.kumar@mailbox.in,8075708126,GEN,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10612,R. de Souza,2004-09-22,M,Artificial Intelligence and Data Science,rajesh.de souza@mailbox.in,7695345522,OBC,N.A.,2026-07-17,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10984,Rohit S.,2007-09-15,Prefer not to say,Artificial Intelligence and Data Science,rohit.s@mailbox.in,7055077191,GEN,N.A.,2026-07-19,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10208,P. K.,2004-10-14,Prefer not to say,Computer Science and Engineering,pradeep.k@mailbox.in,6999252186,OBC,84.9,2026-07-23,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10384,P. Nair,2005-10-24,Female,Artificial Intelligence and Data Science,pradeep.nair@mailbox.in,6917445164,EWS,N.A.,2026-07-21,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10774,Bhavna Singh,2004-12-12,Female,Artificial Intelligence and Data Science,bhavna.singh@mailbox.in,6915594976,ST,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10795,Rajesh Reddy,2007-10-28,Prefer not to say,Artificial Intelligence and Data Science,rajesh.reddy@mailbox.in,6628279312,EWS,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10062,B. O'Brien,2005-02-06,Female,Artificial Intelligence and Data Science,bhavna.o'brien@mailbox.in,,ST,N.A.,2026-07-18,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10166,Gita Singh,2006-04-21,Female,Artificial Intelligence and Data Science,gita.singh@mailbox.in,,GEN,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10191,Pradeep Menon,2005-03-20,Male,Artificial Intelligence and Data Science,pradeep.menon@mailbox.in,,EWS,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10221,Vasanth Gupta,2007-12-18,F,Artificial Intelligence and Data Science,vasanth.gupta@mailbox.in,,ST,N.A.,2026-07-22,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10288,B. Irfan,2004-04-09,Male,Artificial Intelligence and Data Science,bhavna.irfan@mailbox.in,,SC,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10364,L. de Souza,2007-08-02,Male,Artificial Intelligence and Data Science,lavanya.de souza@mailbox.in,,ST,N.A.,2026-07-22,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10455,Tharani Balaji,2004-03-18,Prefer not to say,Artificial Intelligence and Data Science,tharani.balaji@mailbox,,ST,N.A.,2026-07-20,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10456,E. S.,2005-01-13,F,Artificial Intelligence and Data Science,ezhil.s@mailbox.in,,GEN,N.A.,2026-07-16,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10610,Lavanya Joshi,2007-11-23,M,Artificial Intelligence and Data Science,lavanya.joshi@mailbox.in,,GEN,N.A.,2026-07-19,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10806,R. Meena,2007-03-19,Female,Artificial Intelligence and Data Science,meena.r@mailbox.in,,SC,N.A.,2026-07-19,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10915,Vasanth Iyer,2007-10-23,Female,Artificial Intelligence and Data Science,vasanth.iyer@mailbox.in,,GEN,N.A.,2026-07-18,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10916,U. R.,2004-08-03,Prefer not to say,Artificial Intelligence and Data Science,uma.r@mailbox.in,,GEN,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10159,Fernandez Sandhya,2005-01-06,Male,Artificial Intelligence and Data Science,sandhya.fernandez@mailbox.in,9583073754,EWS,84.8,2026-07-20,85.0,84.8,0.8311111111111111,0.25888624831544854
+AP26-10241,Yamini Menon,2005-02-14,Prefer not to say,Civil Engineering,yamini.menon@mailbox.in,7714648605,ST,84.5,2026-07-22,85.0,84.5,0.8277777777777777,0.24581468622324837
+AP26-10353,Rahul D'Silva,2005-04-14,Prefer not to say,Civil Engineering,rahul.d'silva@mailbox.in,,OBC,84.4,,85.0,84.4,0.8266666666666668,0.24145749885918186
+AP26-10761,S. S.,2005-09-11,Prefer not to say,Biomedical Engineering,suresh.s@mailbox.in,6844213688,SC,0.84,2026-07-25,85.0,84.0,0.8222222222222222,0.22402874940291453
+AP26-10784,Abishek Joshi,2007-03-14,Male,Civil Engineering,abishek.joshi@mailbox,6079798209,SC,0.84,2026-07-23,85.0,84.0,0.8222222222222222,0.22402874940291453
+AP26-10178,F. Joshi,2006-02-28,F,Artificial Intelligence and Data Science,farhan.joshi@mailbox.in,,OBC,0.84,,85.0,84.0,0.8222222222222222,0.22402874940291453
+AP26-10344,A. Pereira,2004-04-01,Prefer not to say,Artificial Intelligence and Data Science,anitha.pereira@mailbox.in,,EWS,0.84,,85.0,84.0,0.8222222222222222,0.22402874940291453
+AP26-10391,S. Joshi,2005-11-08,F,Artificial Intelligence and Data Science,swetha.joshi@mailbox.in,,GEN,0.84,2026-07-15,85.0,84.0,0.8222222222222222,0.22402874940291453
+AP26-10093,Banerjee Vasanth,2005-04-19,Male,Artificial Intelligence and Data Science,vasanth.banerjee@mailbox.in,9058438229,SC,83.6,2026-07-15,85.0,83.6,0.8177777777777777,0.20659999994664724
+AP26-10148,Ishwarya Nair,2005-07-27,F,Biomedical Engineering,ishwarya.nair@mailbox.in,6713571844,OBC,83.6,,85.0,83.6,0.8177777777777777,0.20659999994664724
+AP26-11060,R. Pillai,2005-08-10,F,Computer Science and Engineering,rahul.pillai@mailbox.in,7674062294,SC,0.83,2026-07-25,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10065,Pradeep Verma,2006-02-26,Prefer not to say,Biomedical Engineering,pradeep.verma@mailbox,7120896199,ST,0.83,2026-07-16,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10189,S. Rao,2005-08-06,Male,Biomedical Engineering,swetha.rao@mailbox.in,6946691726,SC,0.83,2026-07-21,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10370,S. Gupta,2005-11-26,Prefer not to say,Biomedical Engineering,suresh.gupta@mailbox.in,7742020059,SC,82.9,2026-07-18,85.0,82.9,0.81,0.17609968839818038
+AP26-10628,D. R.,2006-06-06,Prefer not to say,Mechanical Engineering,divya.r@mailbox.in,9955820582,SC,82.7,2026-07-18,85.0,82.7,0.8077777777777778,0.16738531367004672
+AP26-11016,H. Sundaram,2005-04-18,Prefer not to say,Civil Engineering,hemalatha.sundaram@mailbox.in,8060847010,ST,82.7,2026-07-22,85.0,82.7,0.8077777777777778,0.16738531367004672
+AP26-10490,Banerjee Vijay,2005-11-15,Male,Mechanical Engineering,vijay.banerjee@mailbox.in,9990673504,ST,N.A.,2026-07-16,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10278,Yamini Nair,2006-03-06,Female,Mechanical Engineering,yamini.nair@mailbox.in,9212068755,OBC,N.A.,2026-07-22,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10690,V. Iyer,2004-02-22,Female,Mechanical Engineering,vijay.iyer@mailbox.in,9034214424,GEN,N.A.,,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10331,Ishwarya R.,2005-09-15,F,Mechanical Engineering,ishwarya.r@mailbox.in,8736451663,ST,N.A.,2026-07-15,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10832,Pereira Farhan,2007-02-11,Male,Mechanical Engineering,farhan.pereira@mailbox.in,8184164826,OBC,N.A.,2026-07-24,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10004,Rao Sanjay,2005-11-01,Male,Mechanical Engineering,sanjay.rao@mailbox.in,,ST,N.A.,2026-07-18,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10113,Suresh Irfan,2007-07-22,Prefer not to say,Mechanical Engineering,suresh.irfan@mailbox.in,,EWS,N.A.,2026-07-24,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10513,Aarav Sharma,2004-06-24,Male,Mechanical Engineering,aarav.sharma@mailbox.in,,GEN,N.A.,2026-07-15,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-11022,Choudhury Varun,2004-12-20,M,Mechanical Engineering,varun.choudhury@mailbox.in,,GEN,N.A.,,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10732,Zeeshan Pereira,2007-05-17,Female,Biomedical Engineering,zeeshan.pereira@mailbox.in,,OBC,0.82,2026-07-19,85.0,82.0,0.8,0.13688500212157925
+AP26-10967,Aarav Pereira,2005-09-14,Prefer not to say,Artificial Intelligence and Data Science,aarav.pereira@mailbox.in,,ST,0.82,,85.0,82.0,0.8,0.13688500212157925
+AP26-10244,Naveen Fernandez,2006-11-10,Female,Computer Science and Engineering,naveen.fernandez@mailbox.in,,OBC,81.7,,85.0,81.7,0.7966666666666667,0.12381344002937908
+AP26-11076,Banerjee Vignesh,2007-02-06,Female,Business Administration,vignesh.banerjee@mailbox.in,8015976456,ST,81.5,2026-07-17,85.0,81.5,0.7944444444444444,0.11509906530124543
+AP26-10820,Monika de Souza,2007-04-28,Male,Civil Engineering,monika.de souza@mailbox.in,6323833773,GEN,81.5,,85.0,81.5,0.7944444444444444,0.11509906530124543
+AP26-10411,S. Jayanth,2005-01-03,M,Civil Engineering,jayanth.s@mailbox.in,7133384683,EWS,81.1,2026-07-17,85.0,81.1,0.7899999999999999,0.09767031584497812
+AP26-10655,K. Banerjee,2006-01-06,Female,Artificial Intelligence and Data Science,karthik.banerjee@mailbox.in,7156856306,OBC,80.9,,85.0,80.9,0.7877777777777778,0.08895594111684509
+AP26-10011,S. Irfan,2005-01-07,Prefer not to say,Information Technology,sandhya.irfan@mailbox.in,7852357082,EWS,80.8,2026-07-21,85.0,80.8,0.7866666666666666,0.08459875375277795
+AP26-10247,Charulatha Banerjee,2004-10-17,Prefer not to say,Artificial Intelligence and Data Science,charulatha.banerjee@mailbox.in,8889294853,EWS,80.6,2026-07-18,85.0,80.6,0.7844444444444444,0.0758843790246443
+AP26-10929,Lakshmi K.,2006-04-15,Male,Information Technology,lakshmi.k@mailbox.in,8632331370,OBC,80.4,,85.0,80.4,0.7822222222222223,0.06717000429651127
+AP26-10684,Chirag de Souza,2004-12-08,Prefer not to say,Information Technology,chirag.de souza@mailbox.in,6393104796,GEN,80.4,,85.0,80.4,0.7822222222222223,0.06717000429651127
+AP26-10739,Hemalatha Sundaram,2005-06-28,F,Artificial Intelligence and Data Science,hemalatha.sundaram@mailbox.in,8612618383,SC,0.8,2026-07-24,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10441,Balaji Divya,2005-04-10,Prefer not to say,Artificial Intelligence and Data Science,divya.balaji@mailbox.in,8041319717,SC,0.8,2026-07-24,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10512,De Souza Revathi,2007-10-11,Female,Civil Engineering,revathi.de souza@mailbox.in,7221677985,EWS,0.8,2026-07-16,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10661,D. Kumar,2005-08-21,F,Civil Engineering,dinesh.kumar@mailbox.in,7111868924,ST,0.8,2026-07-21,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10103,K. Kumar,2005-03-14,Prefer not to say,Computer Science and Engineering,karthik.kumar@mailbox.in,,ST,0.8,2026-07-20,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10321,K. Meena,2006-09-14,Female,Computer Science and Engineering,meena.k@mailbox.in,,SC,0.8,,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10055,Indumathi Sharma,2007-12-14,Male,Civil Engineering,indumathi.sharma@mailbox.in,6452530522,GEN,79.7,,85.0,79.7,0.7744444444444445,0.03666969274804379
+AP26-10592,Vasanth K.,2005-04-14,Female,Artificial Intelligence and Data Science,vasanth.k@mailbox.in,6230248807,EWS,79.3,2026-07-23,85.0,79.3,0.77,0.01924094329177648
+AP26-10258,Pavithra Rao,2004-07-26,Female,Biomedical Engineering,pavithra.rao@mailbox.in,,ST,79.3,2026-07-24,85.0,79.3,0.77,0.01924094329177648
+AP26-10036,Ezhil Iyer,2007-08-12,F,Mechanical Engineering,ezhil.iyer@mailbox.in,6568624606,GEN,79.2,2026-07-17,85.0,79.2,0.768888888888889,0.014883755927709965
+AP26-10804,Tharani Iyer,2005-01-27,Male,Mechanical Engineering,tharani.iyer@mailbox.in,7636757771,GEN,0.79,2026-07-19,85.0,79.0,0.7666666666666667,0.006169381199576313
+AP26-10399,Chirag Venkatesh,2005-06-02,Female,Artificial Intelligence and Data Science,chirag.venkatesh@mailbox.in,7688904214,GEN,78.8,2026-07-18,85.0,78.8,0.7644444444444444,-0.0025449935285573404
+AP26-10006,Divya D'Silva,2007-09-18,M,Biomedical Engineering,divya.d'silva@mailbox.in,,SC,78.2,2026-07-22,85.0,78.2,0.7577777777777778,-0.02868811771295768
+AP26-10923,Nair Nithya,2005-08-02,Male,Business Administration,nithya.nair@mailbox.in,,ST,78.2,2026-07-22,85.0,78.2,0.7577777777777778,-0.02868811771295768
+AP26-10368,S. Swetha,2006-01-13,Prefer not to say,Artificial Intelligence and Data Science,swetha.s@mailbox.in,7896895077,SC,0.78,,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-10701,Kavitha Gupta,2007-03-19,F,Artificial Intelligence and Data Science,kavitha.gupta@mailbox,6391314399,GEN,0.78,,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-11034,Rahul Balaji,2006-04-16,Prefer not to say,Computer Science and Engineering,rahul.balaji@mailbox.in,7192841688,EWS,77.9,,85.0,77.9,0.7544444444444445,-0.04175967980515785
+AP26-10351,Ishwarya Fernandez,2004-03-14,M,Artificial Intelligence and Data Science,ishwarya.fernandez@mailbox.in,9492566741,OBC,77.5,,85.0,77.5,0.75,-0.05918842926142515
+AP26-10074,V. Irfan,2006-01-26,F,Information Technology,varun.irfan@mailbox.in,,GEN,77.5,2026-07-18,85.0,77.5,0.75,-0.05918842926142515
+AP26-10626,Mohammed Rao,2005-04-16,F,Computer Science and Engineering,mohammed.rao@mailbox.in,,ST,77.3,2026-07-17,85.0,77.3,0.7477777777777778,-0.06790280398955881
+AP26-10622,Sanjay de Souza,2006-12-20,Male,Artificial Intelligence and Data Science,sanjay.de souza@mailbox.in,7266696208,ST,0.77,,85.0,77.0,0.7444444444444445,-0.08097436608175898
+AP26-10982,Sneha Nathan,2006-05-20,F,Computer Science and Engineering,sneha.nathan@mailbox.in,6454763118,SC,0.77,2026-07-15,85.0,77.0,0.7444444444444445,-0.08097436608175898
+AP26-10131,Gayathri Balaji,2005-11-05,Female,Computer Science and Engineering,gayathri.balaji@mailbox.in,,GEN,0.77,,85.0,77.0,0.7444444444444445,-0.08097436608175898
+AP26-10440,A. R.,2007-07-19,Female,Business Administration,ashwin.r@mailbox.in,,GEN,0.77,2026-07-16,85.0,77.0,0.7444444444444445,-0.08097436608175898
+AP26-10757,Rajesh Fernandez,2007-06-10,M,Business Administration,rajesh.fernandez@mailbox.in,,ST,0.77,2026-07-24,85.0,77.0,0.7444444444444445,-0.08097436608175898
+AP26-11007,K. Menon,2007-06-19,F,Artificial Intelligence and Data Science,karthik.menon@mailbox.in,,OBC,0.77,,85.0,77.0,0.7444444444444445,-0.08097436608175898
+AP26-10642,Hemalatha S.,2004-01-28,Prefer not to say,Artificial Intelligence and Data Science,hemalatha.s@mailbox.in,8692608921,OBC,76.7,2026-07-17,85.0,76.7,0.7411111111111112,-0.09404592817395915
+AP26-10183,J. Bose,2005-01-01,Prefer not to say,Mechanical Engineering,jayanth.bose@mailbox.in,,SC,76.4,2026-07-17,85.0,76.4,0.7377777777777779,-0.10711749026615931
+AP26-10471,V. Rao,2006-04-08,Female,Artificial Intelligence and Data Science,vasanth.rao@mailbox.in,,EWS,76.1,2026-07-17,85.0,76.1,0.7344444444444443,-0.12018905235836011
+AP26-10922,Naveen Gupta,2006-10-18,F,Mechanical Engineering,naveen.gupta@mailbox,9768988317,SC,0.76,2026-07-22,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-10229,Jayanth Sundaram,2007-10-06,Female,Business Administration,jayanth.sundaram@mailbox,6979166594,GEN,0.76,,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-10721,Nithya Patel,2006-02-28,F,Civil Engineering,nithya.patel@mailbox.in,6925984095,OBC,0.76,,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-10863,Charulatha Irfan,2005-11-10,Female,Mechanical Engineering,charulatha.irfan@mailbox.in,6707805095,ST,0.76,,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-11073,Rao Rahul,2006-04-17,M,Business Administration,rahul.rao@mailbox.in,6611802546,ST,0.76,2026-07-17,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-10942,Ezhil Gupta,2005-10-23,Prefer not to say,Artificial Intelligence and Data Science,ezhil.gupta@mailbox.in,6257062883,GEN,0.76,2026-07-20,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-10907,Vasanth Menon,2005-09-03,M,Information Technology,vasanth.menon@mailbox.in,,SC,76.0,2026-07-20,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-10897,A. Pillai,2006-09-19,M,Mechanical Engineering,aarav.pillai@mailbox.in,9696169688,SC,0.75,2026-07-15,85.0,75.0,0.7222222222222222,-0.16811811336309426
+AP26-10200,Murugan Tarun,2004-04-17,Female,Computer Science and Engineering,tarun.murugan@mailbox.in,,EWS,0.75,,85.0,75.0,0.7222222222222222,-0.16811811336309426
+AP26-11087,Joshi Priya,2006-02-06,F,Biomedical Engineering,priya.joshi@mailbox.in,8518682855,SC,74.9,2026-07-19,85.0,74.9,0.7211111111111111,-0.17247530072716077
+AP26-10012,V. Verma,2007-05-05,M,Computer Science and Engineering,vijay.verma@mailbox.in,,EWS,74.8,,85.0,74.8,0.72,-0.17683248809122792
+AP26-10662,Vasanth Patel,2007-07-19,Prefer not to say,Information Technology,vasanth.patel@mailbox.in,6986609090,OBC,0.74,,85.0,74.0,0.7111111111111111,-0.2116899870037619
+AP26-10043,Gupta Rahul,2005-08-09,Male,Mechanical Engineering,rahul.gupta@mailbox.in,,SC,0.74,,85.0,74.0,0.7111111111111111,-0.2116899870037619
+AP26-10039,G. Pereira,2004-03-02,F,Information Technology,gita.pereira@mailbox.in,7540018071,EWS,73.5,2026-07-24,85.0,73.5,0.7055555555555556,-0.23347592382409574
+AP26-10327,A. Singh,2005-03-26,F,Biomedical Engineering,ashwin.singh@mailbox.in,,SC,73.1,2026-07-25,85.0,73.1,0.701111111111111,-0.25090467328036303
+AP26-10259,Pavithra Joshi,2004-04-09,F,Computer Science and Engineering,pavithra.joshi@mailbox.in,7192594948,ST,0.73,2026-07-25,85.0,73.0,0.7,-0.2552618606444296
+AP26-10040,P. S.,2004-08-13,Male,Computer Science and Engineering,pavithra.s@mailbox.in,6825290762,SC,0.73,2026-07-18,85.0,73.0,0.7,-0.2552618606444296
+AP26-10944,Vasanth Das,2007-12-21,Male,Biomedical Engineering,vasanth.das@mailbox.in,8729082449,OBC,72.1,2026-07-17,85.0,72.1,0.69,-0.2944765469210307
+AP26-10528,Tarun Pereira,2004-04-20,F,Mechanical Engineering,tarun.pereira@mailbox.in,9174016863,GEN,0.72,,85.0,72.0,0.6888888888888889,-0.2988337342850972
+AP26-10821,Bhavna Patel,2004-07-27,Prefer not to say,Civil Engineering,bhavna.patel@mailbox.in,8849685154,EWS,0.72,,85.0,72.0,0.6888888888888889,-0.2988337342850972
+AP26-11008,Revathi Joshi,2005-08-03,Male,Biomedical Engineering,revathi.joshi@mailbox.in,8706113086,OBC,0.72,,85.0,72.0,0.6888888888888889,-0.2988337342850972
+AP26-10579,Murugan Ezhil,2005-07-04,F,Artificial Intelligence and Data Science,ezhil.murugan@mailbox.in,8676583445,OBC,0.72,2026-07-21,85.0,72.0,0.6888888888888889,-0.2988337342850972
+AP26-10320,Monika Balaji,2004-04-05,Male,Biomedical Engineering,monika.balaji@mailbox.in,6427501079,SC,0.72,2026-07-21,85.0,72.0,0.6888888888888889,-0.2988337342850972
+AP26-10386,S. Choudhury,2004-05-15,Male,Artificial Intelligence and Data Science,swetha.choudhury@mailbox.in,,GEN,0.72,2026-07-22,85.0,72.0,0.6888888888888889,-0.2988337342850972
+AP26-10621,Manoj Bose,2007-04-25,Female,Artificial Intelligence and Data Science,manoj.bose@mailbox.in,,OBC,0.72,2026-07-16,85.0,72.0,0.6888888888888889,-0.2988337342850972
+AP26-10601,Patel Tharani,2005-04-16,Prefer not to say,Biomedical Engineering,tharani.patel@mailbox.in,7146075363,EWS,0.71,,85.0,71.0,0.6777777777777778,-0.34240560792576485
+AP26-10765,Jagan Nathan,2005-09-02,M,Information Technology,jagan.nathan@mailbox.in,6807610496,OBC,0.71,2026-07-22,85.0,71.0,0.6777777777777778,-0.34240560792576485
+AP26-11077,Jayanth Das,2004-07-25,Female,Biomedical Engineering,jayanth.das@mailbox.in,6412517791,SC,0.71,,85.0,71.0,0.6777777777777778,-0.34240560792576485
+AP26-10810,Gayathri Joshi,2007-06-05,M,Information Technology,gayathri.joshi@mailbox.in,6339665379,ST,0.71,2026-07-23,85.0,71.0,0.6777777777777778,-0.34240560792576485
+AP26-10920,Meena Verma,2005-10-12,Female,Biomedical Engineering,meena.verma@mailbox.in,,GEN,0.71,2026-07-22,85.0,71.0,0.6777777777777778,-0.34240560792576485
+AP26-10589,Indumathi Venkatesh,2004-09-28,Prefer not to say,Computer Science and Engineering,indumathi.venkatesh@mailbox.in,7344073283,EWS,70.3,,85.0,70.3,0.6699999999999999,-0.37290591947423235
+AP26-10995,Fernandez Farhan,2006-04-21,M,Civil Engineering,farhan.fernandez@mailbox.in,,SC,70.1,,85.0,70.1,0.6677777777777777,-0.381620294202366
+AP26-10674,S. Das,2005-03-13,Female,Business Administration,swetha.das@mailbox.in,9533349346,ST,0.7,2026-07-25,85.0,70.0,0.6666666666666666,-0.3859774815664325
+AP26-10408,Revathi O'Brien,2004-10-05,Male,Biomedical Engineering,revathi.o'brien@mailbox.in,8964363129,EWS,0.7,2026-07-21,85.0,70.0,0.6666666666666666,-0.3859774815664325
+AP26-10354,De Souza Bhavna,2005-12-18,Female,Business Administration,bhavna.de souza@mailbox.in,,SC,70.0,2026-07-25,85.0,70.0,0.6666666666666666,-0.3859774815664325
+AP26-10402,Nithya Iyengar,2005-02-13,Female,Computer Science and Engineering,nithya.iyengar@mailbox.in,,SC,0.7,2026-07-24,85.0,70.0,0.6666666666666666,-0.3859774815664325
+AP26-10582,Arun Singh,2007-11-18,Male,Computer Science and Engineering,arun.singh@mailbox.in,7206353162,SC,69.9,2026-07-21,85.0,69.9,0.6655555555555556,-0.390334668930499
+AP26-10116,Mohammed Sundaram,2005-06-26,M,Artificial Intelligence and Data Science,mohammed.sundaram@mailbox.in,8105362827,SC,69.7,,85.0,69.7,0.6633333333333333,-0.39904904365863264
+AP26-10837,Pradeep R.,2004-06-06,Prefer not to say,Civil Engineering,pradeep.r@mailbox.in,8458167398,OBC,69.0,2026-07-22,85.0,69.0,0.6555555555555556,-0.42954935520710014
+AP26-10572,Arun Sharma,2004-09-28,Female,Business Administration,arun.sharma@mailbox.in,,ST,0.69,2026-07-15,85.0,69.0,0.6555555555555556,-0.42954935520710014
+AP26-10909,Swetha D'Silva,2007-01-01,Prefer not to say,Artificial Intelligence and Data Science,swetha.d'silva@mailbox.in,,ST,0.69,,85.0,69.0,0.6555555555555556,-0.42954935520710014
+AP26-10492,Lavanya Fernandez,2007-12-12,Prefer not to say,Artificial Intelligence and Data Science,lavanya.fernandez@mailbox.in,8570276016,OBC,68.9,2026-07-18,85.0,68.9,0.6544444444444445,-0.4339065425711667
+AP26-10283,Ezhil Balaji,2006-04-27,Female,Biomedical Engineering,ezhil.balaji@mailbox.in,6327600279,OBC,0.68,,85.0,68.0,0.6444444444444445,-0.4731212288477678
+AP26-10660,Gayathri D'Silva,2007-01-16,Female,Computer Science and Engineering,gayathri.d'silva@mailbox.in,,ST,0.68,2026-07-23,85.0,68.0,0.6444444444444445,-0.4731212288477678
+AP26-10783,Abishek Singh,2005-03-18,M,Computer Science and Engineering,abishek.singh@mailbox.in,,OBC,0.68,2026-07-22,85.0,68.0,0.6444444444444445,-0.4731212288477678
+AP26-10973,Swetha S.,2004-05-03,Male,Biomedical Engineering,swetha.s@mailbox.in,,SC,0.68,2026-07-20,85.0,68.0,0.6444444444444445,-0.4731212288477678
+AP26-10653,Mohammed Iyer,2005-10-25,M,Business Administration,mohammed.iyer@mailbox.in,,EWS,67.9,,85.0,67.9,0.6433333333333334,-0.4774784162118343
+AP26-10409,Charulatha Irfan,2004-02-12,F,Computer Science and Engineering,charulatha.irfan@mailbox,8359398069,GEN,67.3,2026-07-17,85.0,67.3,0.6366666666666666,-0.5036215403962353
+AP26-10262,Divya Gupta,2006-06-12,Female,Information Technology,divya.gupta@mailbox.in,8811837695,EWS,67.0,2026-07-25,85.0,67.0,0.6333333333333333,-0.5166931024884355
+AP26-10497,Meena R.,2005-10-18,F,Business Administration,meena.r@mailbox,8384394656,ST,0.67,,85.0,67.0,0.6333333333333333,-0.5166931024884355
+AP26-10873,Lakshmi de Souza,2006-05-25,M,Computer Science and Engineering,lakshmi.de souza@mailbox.in,7213713039,OBC,0.67,,85.0,67.0,0.6333333333333333,-0.5166931024884355
+AP26-10110,Rao Arun,2007-01-04,Male,Biomedical Engineering,arun.rao@mailbox.in,6789440609,EWS,0.66,2026-07-18,85.0,66.0,0.6222222222222222,-0.5602649761291031
+AP26-10833,Menon Zeeshan,2006-04-07,Prefer not to say,Mechanical Engineering,zeeshan.menon@mailbox.in,,OBC,0.66,2026-07-17,85.0,66.0,0.6222222222222222,-0.5602649761291031
+AP26-10437,Tharani Menon,2006-03-02,Female,Artificial Intelligence and Data Science,tharani.menon@mailbox.in,9882654654,EWS,65.8,2026-07-16,85.0,65.8,0.62,-0.5689793508572367
+AP26-10117,Iyer Nithya,2007-09-14,Prefer not to say,Computer Science and Engineering,nithya.iyer@mailbox.in,,OBC,65.7,2026-07-15,85.0,65.7,0.6188888888888889,-0.5733365382213033
+AP26-10205,Priya D'Silva,2005-06-08,Prefer not to say,Biomedical Engineering,priya.d'silva@mailbox.in,,GEN,0.65,,85.0,65.0,0.6111111111111112,-0.6038368497697707
+AP26-11068,Tharani Pillai,2004-10-09,Female,Artificial Intelligence and Data Science,tharani.pillai@mailbox.in,7782648280,GEN,63.5,,85.0,63.5,0.5944444444444444,-0.6691946602307722
+AP26-10694,D'Silva Gayathri,2006-12-24,Prefer not to say,Biomedical Engineering,gayathri.d'silva@mailbox.in,9850486708,ST,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10636,Naveen Iyengar,2005-12-12,Prefer not to say,Information Technology,naveen.iyengar@mailbox.in,9847711082,EWS,-10,2026-07-18,85.0,10.0,0.0,-3.000289900006491
+AP26-10548,K. Das,2005-08-21,Male,Business Administration,kavitha.das@mailbox,9599393193,GEN,-10,2026-07-20,85.0,10.0,0.0,-3.000289900006491
+AP26-11071,Gayathri Rao,2006-03-14,F,Mechanical Engineering,gayathri.rao@mailbox.in,9558032678,EWS,-10,2026-07-18,85.0,10.0,0.0,-3.000289900006491
+AP26-10414,Reddy Chirag,2004-09-02,Prefer not to say,Artificial Intelligence and Data Science,chirag.reddy@mailbox.in,9205314954,ST,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-10811,Suresh Murugan,2006-03-20,Male,Business Administration,suresh.murugan@mailbox.in,8997615940,GEN,-10,2026-07-25,85.0,10.0,0.0,-3.000289900006491
+AP26-10139,Vasanth Reddy,2007-03-14,Male,Information Technology,vasanth.reddy@mailbox.in,8995935539,EWS,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10536,Choudhury Meena,2007-08-27,Prefer not to say,Business Administration,meena.choudhury@mailbox.in,8805015573,OBC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10930,K. Pillai,2007-10-17,Male,Computer Science and Engineering,karthik.pillai@mailbox.in,8780669501,ST,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10779,Sandhya Menon,2005-03-23,M,Biomedical Engineering,sandhya.menon@mailbox.in,8383225859,EWS,-10,2026-07-23,85.0,10.0,0.0,-3.000289900006491
+AP26-10547,Deepa Kumar,2006-09-28,M,Mechanical Engineering,deepa.kumar@mailbox,8347469008,SC,-10,2026-07-24,85.0,10.0,0.0,-3.000289900006491
+AP26-10127,A. Rao,2005-03-26,M,Business Administration,ashwin.rao@mailbox.in,8105471755,OBC,-10,2026-07-18,85.0,10.0,0.0,-3.000289900006491
+AP26-10859,Sundaram Tharani,2006-01-09,Prefer not to say,Biomedical Engineering,tharani.sundaram@mailbox,8017447153,SC,-10,2026-07-21,85.0,10.0,0.0,-3.000289900006491
+AP26-11004,Jagan O'Brien,2004-10-24,Prefer not to say,Computer Science and Engineering,jagan.o'brien@mailbox.in,7747606686,EWS,-10,2026-07-23,85.0,10.0,0.0,-3.000289900006491
+AP26-10992,U. S.,2004-11-10,Prefer not to say,Information Technology,uma.s@mailbox.in,7560644452,EWS,-10,2026-07-22,85.0,10.0,0.0,-3.000289900006491
+AP26-10202,Murugan Keerthi,2007-08-18,Prefer not to say,Artificial Intelligence and Data Science,keerthi.murugan@mailbox,7337129152,EWS,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10675,Vijay K.,2006-07-27,M,Biomedical Engineering,vijay.k@mailbox.in,7263421339,GEN,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-11065,K. Bose,2005-01-09,Female,Computer Science and Engineering,keerthi.bose@mailbox.in,7037211950,EWS,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-10376,Subramanian Menon,2007-03-07,Female,Civil Engineering,subramanian.menon@mailbox.in,6915477491,ST,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10868,O'Brien Rahul,2005-05-22,Female,Biomedical Engineering,rahul.o'brien@mailbox.in,6049402649,ST,-10,2026-07-16,85.0,10.0,0.0,-3.000289900006491
+AP26-10070,Kumar Tharani,2005-05-15,F,Biomedical Engineering,tharani.kumar@mailbox.in,,ST,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-10092,Nair Arun,2007-11-13,Male,Computer Science and Engineering,arun.nair@mailbox.in,,EWS,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10097,S. K.,2005-11-20,Male,Civil Engineering,subramanian.k@mailbox.in,,EWS,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10130,Rohit Iyengar,2005-04-03,Male,Artificial Intelligence and Data Science,rohit.iyengar@mailbox.in,,EWS,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10173,Pradeep Bose,2005-04-12,M,Artificial Intelligence and Data Science,pradeep.bose@mailbox.in,,SC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10185,M. Fernandez,2004-04-06,Male,Artificial Intelligence and Data Science,manoj.fernandez@mailbox.in,,ST,-10,2026-07-25,85.0,10.0,0.0,-3.000289900006491
+AP26-10203,Nathan Arun,2005-12-05,M,Civil Engineering,arun.nathan@mailbox.in,,SC,-10,2026-07-16,85.0,10.0,0.0,-3.000289900006491
+AP26-10362,K. Rao,2006-08-27,Male,Biomedical Engineering,keerthi.rao@mailbox.in,,OBC,-10,2026-07-18,85.0,10.0,0.0,-3.000289900006491
+AP26-10388,Zeeshan S.,2005-01-14,Male,Mechanical Engineering,zeeshan.s@mailbox.in,,GEN,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-10474,Sharma Pavithra,2006-01-06,Female,Computer Science and Engineering,pavithra.sharma@mailbox.in,,ST,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10558,Uma Venkatesh,2005-03-24,Prefer not to say,Information Technology,uma.venkatesh@mailbox.in,,ST,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-10637,R. Harish,2007-09-01,Female,Artificial Intelligence and Data Science,harish.r@mailbox.in,,ST,-10,2026-07-16,85.0,10.0,0.0,-3.000289900006491
+AP26-10644,Venkatesh Uma,2004-01-18,Female,Biomedical Engineering,uma.venkatesh@mailbox.in,,GEN,-10,2026-07-23,85.0,10.0,0.0,-3.000289900006491
+AP26-10812,A. S.,2005-12-25,Male,Computer Science and Engineering,aarav.s@mailbox,,ST,-10,2026-07-18,85.0,10.0,0.0,-3.000289900006491
+AP26-10814,Sanjay Balaji,2006-01-03,Female,Information Technology,sanjay.balaji@mailbox.in,,ST,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10819,Swetha Sundaram,2007-04-21,Female,Computer Science and Engineering,swetha.sundaram@mailbox.in,,ST,-10,2026-07-20,85.0,10.0,0.0,-3.000289900006491
+AP26-10949,A. S.,2006-02-15,Prefer not to say,Computer Science and Engineering,ashwin.s@mailbox.in,,SC,-10,2026-07-16,85.0,10.0,0.0,-3.000289900006491
+AP26-10971,F. de Souza,2004-10-20,M,Biomedical Engineering,farhan.de souza@mailbox.in,,GEN,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-11066,Y. Das,2005-02-08,M,Mechanical Engineering,yamini.das@mailbox.in,,ST,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-11094,K. S.,2005-04-11,Female,Biomedical Engineering,kavitha.s@mailbox.in,,GEN,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10010,M. R.,,Female,Artificial Intelligence and Data Science,meena.r@mailbox.in,9947301171,OBC,620,2026-07-20,85.0,100.0,1.0,0.9211787276535969
+AP26-11040,D. Rao,,Female,Civil Engineering,deepa.rao@mailbox.in,9805208685,SC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10407,A. Nathan,,Prefer not to say,Computer Science and Engineering,anitha.nathan@mailbox.in,9765124715,EWS,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10293,Abishek Nathan,,Prefer not to say,Biomedical Engineering,abishek.nathan@mailbox.in,9633968131,SC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10890,Farhan Patel,,Male,Information Technology,farhan.patel@mailbox.in,9624674347,OBC,620,2026-07-24,85.0,100.0,1.0,0.9211787276535969
+AP26-10735,Nathan Tarun,,Male,Civil Engineering,tarun.nathan@mailbox.in,9596118189,ST,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10489,Meena Irfan,,Male,Business Administration,meena.irfan@mailbox.in,9285953312,ST,620,2026-07-24,85.0,100.0,1.0,0.9211787276535969
+AP26-10554,Suresh Sharma,,Male,Biomedical Engineering,suresh.sharma@mailbox.in,9240425478,EWS,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10270,Ishwarya Singh,,M,Biomedical Engineering,ishwarya.singh@mailbox.in,8993094914,SC,620,2026-07-22,85.0,100.0,1.0,0.9211787276535969
+AP26-10562,Subramanian de Souza,,M,Computer Science and Engineering,subramanian.de souza@mailbox.in,8983491078,OBC,620,2026-07-22,85.0,100.0,1.0,0.9211787276535969
+AP26-10395,Keerthi Gupta,,Female,Artificial Intelligence and Data Science,keerthi.gupta@mailbox.in,8891629561,SC,620,2026-07-22,85.0,100.0,1.0,0.9211787276535969
+AP26-10289,Dinesh Fernandez,,Female,Biomedical Engineering,dinesh.fernandez@mailbox.in,8758533631,EWS,620,2026-07-25,85.0,100.0,1.0,0.9211787276535969
+AP26-10782,Nithya Iyengar,,Female,Biomedical Engineering,nithya.iyengar@mailbox.in,8715492029,GEN,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10565,C. Iyengar,,F,Computer Science and Engineering,chirag.iyengar@mailbox.in,8546082665,OBC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-11039,Mohammed Rao,,Male,Artificial Intelligence and Data Science,mohammed.rao@mailbox.in,8375829601,ST,620,2026-07-16,85.0,100.0,1.0,0.9211787276535969
+AP26-10151,G. Kumar,,M,Business Administration,gita.kumar@mailbox.in,8244777635,ST,620,2026-07-20,85.0,100.0,1.0,0.9211787276535969
+AP26-11014,Aarav Balaji,,M,Biomedical Engineering,aarav.balaji@mailbox.in,8146085795,OBC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10895,L. Singh,,Female,Biomedical Engineering,lavanya.singh@mailbox.in,8085670615,SC,620,2026-07-22,85.0,100.0,1.0,0.9211787276535969
+AP26-10927,Nair Manoj,,F,Computer Science and Engineering,manoj.nair@mailbox.in,8033759264,OBC,620,2026-07-16,85.0,100.0,1.0,0.9211787276535969
+AP26-10349,R. Naveen,,Female,Civil Engineering,naveen.r@mailbox.in,7981523998,GEN,620,2026-07-20,85.0,100.0,1.0,0.9211787276535969
+AP26-10268,Balaji Sandhya,,F,Business Administration,sandhya.balaji@mailbox.in,7972379613,GEN,620,2026-07-23,85.0,100.0,1.0,0.9211787276535969
+AP26-10874,Gupta Pradeep,,Prefer not to say,Artificial Intelligence and Data Science,pradeep.gupta@mailbox.in,7845155314,GEN,620,2026-07-18,85.0,100.0,1.0,0.9211787276535969
+AP26-10210,R. Pereira,,Prefer not to say,Business Administration,rahul.pereira@mailbox.in,7609723263,SC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10722,D. Verma,,F,Mechanical Engineering,divya.verma@mailbox.in,7423481167,GEN,620,2026-07-18,85.0,100.0,1.0,0.9211787276535969
+AP26-10434,Iyengar Hemalatha,,F,Civil Engineering,hemalatha.iyengar@mailbox.in,7101500709,EWS,620,2026-07-15,85.0,100.0,1.0,0.9211787276535969
+AP26-10014,Gayathri Singh,,F,Biomedical Engineering,gayathri.singh@mailbox.in,7085620568,GEN,620,2026-07-17,85.0,100.0,1.0,0.9211787276535969
+AP26-10882,Farhan Kumar,,Female,Artificial Intelligence and Data Science,farhan.kumar@mailbox.in,6922153391,EWS,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10665,Patel Harish,,Female,Artificial Intelligence and Data Science,harish.patel@mailbox.in,6673441843,SC,620,2026-07-21,85.0,100.0,1.0,0.9211787276535969
+AP26-10051,I. Nair,,Male,Information Technology,ishwarya.nair@mailbox.in,,GEN,620,2026-07-17,85.0,100.0,1.0,0.9211787276535969
+AP26-10057,N. Sharma,,Male,Artificial Intelligence and Data Science,naveen.sharma@mailbox.in,,SC,620,2026-07-19,85.0,100.0,1.0,0.9211787276535969
+AP26-10087,Irfan Abishek,,M,Biomedical Engineering,abishek.irfan@mailbox.in,,OBC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10209,T. Bose,,Female,Business Administration,tharani.bose@mailbox,,GEN,620,2026-07-19,85.0,100.0,1.0,0.9211787276535969
+AP26-10246,S. O'Brien,,Female,Biomedical Engineering,sandhya.o'brien@mailbox,,ST,620,2026-07-19,85.0,100.0,1.0,0.9211787276535969
+AP26-10254,Meena de Souza,,Female,Civil Engineering,meena.de souza@mailbox.in,,EWS,620,2026-07-18,85.0,100.0,1.0,0.9211787276535969
+AP26-10255,Vignesh Fernandez,,F,Business Administration,vignesh.fernandez@mailbox.in,,GEN,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10295,Meena de Souza,,Prefer not to say,Computer Science and Engineering,meena.de souza@mailbox.in,,OBC,620,2026-07-18,85.0,100.0,1.0,0.9211787276535969
+AP26-10379,Chirag Fernandez,,Female,Biomedical Engineering,chirag.fernandez@mailbox.in,,OBC,620,2026-07-24,85.0,100.0,1.0,0.9211787276535969
+AP26-10401,Priya R.,,M,Business Administration,priya.r@mailbox.in,,EWS,620,2026-07-23,85.0,100.0,1.0,0.9211787276535969
+AP26-10404,Pavithra Verma,,Prefer not to say,Computer Science and Engineering,pavithra.verma@mailbox.in,,GEN,620,2026-07-15,85.0,100.0,1.0,0.9211787276535969
+AP26-10436,Karthik Banerjee,,Female,Business Administration,karthik.banerjee@mailbox.in,,OBC,620,2026-07-21,85.0,100.0,1.0,0.9211787276535969
+AP26-10666,Zeeshan Iyengar,,F,Information Technology,zeeshan.iyengar@mailbox.in,,ST,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10745,Pradeep Murugan,,Female,Artificial Intelligence and Data Science,pradeep.murugan@mailbox.in,,ST,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10776,Ashwin Iyengar,,Male,Information Technology,ashwin.iyengar@mailbox.in,,ST,620,2026-07-17,85.0,100.0,1.0,0.9211787276535969
+AP26-10903,Lakshmi Patel,,F,Biomedical Engineering,lakshmi.patel@mailbox.in,,EWS,620,2026-07-23,85.0,100.0,1.0,0.9211787276535969
+AP26-10908,Ashwin Pillai,,Female,Computer Science and Engineering,ashwin.pillai@mailbox.in,,OBC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10921,Banerjee Chirag,,Prefer not to say,Business Administration,chirag.banerjee@mailbox.in,,EWS,620,2026-07-25,85.0,100.0,1.0,0.9211787276535969
+AP26-10925,Irfan Abishek,,F,Business Administration,abishek.irfan@mailbox.in,,GEN,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10938,Anitha Irfan,,Prefer not to say,Computer Science and Engineering,anitha.irfan@mailbox.in,,SC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-10968,Subramanian Rao,,Female,Computer Science and Engineering,subramanian.rao@mailbox.in,,OBC,620,,85.0,100.0,1.0,0.9211787276535969
+AP26-11042,Jagan Bose,,F,Business Administration,jagan.bose@mailbox.in,,EWS,620,2026-07-17,85.0,100.0,1.0,0.9211787276535969
+AP26-10635,Aarav S.,,Female,Business Administration,aarav.s@mailbox.in,9530286555,SC,99.5,2026-07-18,85.0,99.5,0.9944444444444445,0.8993927908332631
+AP26-10931,R. Patel,,Prefer not to say,Information Technology,revathi.patel@mailbox.in,6965316130,GEN,99.5,2026-07-17,85.0,99.5,0.9944444444444445,0.8993927908332631
+AP26-10438,C. Reddy,,M,Civil Engineering,chirag.reddy@mailbox.in,6188899936,EWS,99.5,2026-07-24,85.0,99.5,0.9944444444444445,0.8993927908332631
+AP26-10672,A. Venkatesh,,Male,Computer Science and Engineering,abishek.venkatesh@mailbox.in,,ST,99.5,,85.0,99.5,0.9944444444444445,0.8993927908332631
+AP26-10887,V. Iyer,,Female,Biomedical Engineering,vignesh.iyer@mailbox.in,,OBC,99.5,,85.0,99.5,0.9944444444444445,0.8993927908332631
+AP26-10001,U. Pillai,,Male,Biomedical Engineering,uma.pillai@mailbox.in,6640233152,GEN,98.5,2026-07-21,85.0,98.5,0.9833333333333333,0.8558209171925955
+AP26-10537,Pavithra Rao,,F,Computer Science and Engineering,pavithra.rao@mailbox.in,,GEN,98.3,2026-07-15,85.0,98.3,0.981111111111111,0.8471065424644617
+AP26-10482,N. Sharma,,Male,Biomedical Engineering,naveen.sharma@mailbox.in,9544712091,OBC,0.98,,85.0,98.0,0.9777777777777777,0.8340349803722615
+AP26-10656,Anitha Sundaram,,Female,Computer Science and Engineering,anitha.sundaram@mailbox.in,9231928390,EWS,0.98,2026-07-21,85.0,98.0,0.9777777777777777,0.8340349803722615
+AP26-10870,Vasanth R.,,Prefer not to say,Biomedical Engineering,vasanth.r@mailbox.in,9061220479,GEN,0.98,2026-07-20,85.0,98.0,0.9777777777777777,0.8340349803722615
+AP26-10846,Kavitha Reddy,,Prefer not to say,Business Administration,kavitha.reddy@mailbox.in,,OBC,0.98,2026-07-21,85.0,98.0,0.9777777777777777,0.8340349803722615
+AP26-10329,Suresh Iyengar,,M,Information Technology,suresh.iyengar@mailbox.in,,SC,97.2,,85.0,97.2,0.9688888888888889,0.7991774814597276
+AP26-11098,Reddy Farhan,,Female,Civil Engineering,farhan.reddy@mailbox.in,8060389182,SC,0.97,2026-07-21,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-11015,Pradeep Iyengar,,Prefer not to say,Biomedical Engineering,pradeep.iyengar@mailbox.in,7413287101,OBC,0.97,2026-07-20,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-10061,Deepa Balaji,,M,Business Administration,deepa.balaji@mailbox.in,6573926979,SC,0.97,,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-10024,Sneha Pillai,,M,Artificial Intelligence and Data Science,sneha.pillai@mailbox.in,,GEN,0.97,2026-07-18,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-10801,K. K.,,M,Computer Science and Engineering,karthik.k@mailbox.in,,OBC,0.97,,85.0,97.0,0.9666666666666667,0.7904631067315939
+AP26-10211,Dinesh Irfan,,M,Mechanical Engineering,dinesh.irfan@mailbox.in,,OBC,96.7,,85.0,96.7,0.9633333333333334,0.7773915446393938
+AP26-10553,Ezhil Venkatesh,,Male,Artificial Intelligence and Data Science,ezhil.venkatesh@mailbox.in,,GEN,96.6,2026-07-20,85.0,96.6,0.9622222222222222,0.7730343572753267
+AP26-10015,Sharma Vijay,,Prefer not to say,Information Technology,vijay.sharma@mailbox.in,6421786707,OBC,96.1,2026-07-25,85.0,96.1,0.9566666666666666,0.7512484204549928
+AP26-11001,S. Joshi,,Prefer not to say,Business Administration,swetha.joshi@mailbox.in,9154159219,EWS,0.96,2026-07-24,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-11083,Varun D'Silva,,M,Computer Science and Engineering,varun.d'silva@mailbox.in,7512193017,GEN,0.96,,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-10314,Arun Balaji,,M,Computer Science and Engineering,arun.balaji@mailbox.in,7016677033,EWS,96.0,,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-10969,I. Iyengar,,F,Artificial Intelligence and Data Science,indumathi.iyengar@mailbox.in,6469942596,ST,0.96,2026-07-17,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-10078,Zeeshan Fernandez,,M,Biomedical Engineering,zeeshan.fernandez@mailbox.in,6160044807,ST,0.96,2026-07-23,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-10549,Vignesh S.,,F,Computer Science and Engineering,vignesh.s@mailbox.in,,EWS,0.96,2026-07-20,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-10564,Divya Choudhury,,F,Computer Science and Engineering,divya.choudhury@mailbox.in,,OBC,0.96,,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-11056,Naveen Sundaram,,Prefer not to say,Information Technology,naveen.sundaram@mailbox.in,,SC,0.96,2026-07-19,85.0,96.0,0.9555555555555556,0.7468912330909263
+AP26-10050,R. Joshi,,M,Biomedical Engineering,rahul.joshi@mailbox.in,,ST,95.8,2026-07-16,85.0,95.8,0.9533333333333333,0.7381768583627927
+AP26-10319,Nathan Yamini,,M,Computer Science and Engineering,yamini.nathan@mailbox.in,9121695472,OBC,95.7,2026-07-25,85.0,95.7,0.9522222222222223,0.7338196709987261
+AP26-10132,Varun Joshi,,F,Artificial Intelligence and Data Science,varun.joshi@mailbox.in,,EWS,95.7,,85.0,95.7,0.9522222222222223,0.7338196709987261
+AP26-10764,Zeeshan Menon,,Male,Computer Science and Engineering,zeeshan.menon@mailbox.in,9272340271,EWS,95.6,2026-07-23,85.0,95.6,0.951111111111111,0.7294624836346589
+AP26-10872,A. Rao,,Prefer not to say,Computer Science and Engineering,arun.rao@mailbox.in,9784428337,EWS,95.5,,85.0,95.5,0.95,0.7251052962705925
+AP26-10555,Y. Fernandez,,F,Biomedical Engineering,yamini.fernandez@mailbox.in,,GEN,95.3,2026-07-16,85.0,95.3,0.9477777777777777,0.7163909215424588
+AP26-10576,Manoj Fernandez,,Male,Artificial Intelligence and Data Science,manoj.fernandez@mailbox.in,,ST,95.3,,85.0,95.3,0.9477777777777777,0.7163909215424588
+AP26-10068,Naveen Bose,,Male,Biomedical Engineering,naveen.bose@mailbox.in,9748413677,GEN,95.2,,85.0,95.2,0.9466666666666667,0.7120337341783923
+AP26-10446,Suresh Pereira,,M,Artificial Intelligence and Data Science,suresh.pereira@mailbox.in,8308843026,SC,95.1,,85.0,95.1,0.9455555555555555,0.7076765468143251
+AP26-10501,Priya Nair,,F,Information Technology,priya.nair@mailbox.in,,EWS,0.95,,85.0,95.0,0.9444444444444444,0.7033193594502587
+AP26-10539,Jayanth Fernandez,,Male,Civil Engineering,jayanth.fernandez@mailbox.in,,SC,0.95,,85.0,95.0,0.9444444444444444,0.7033193594502587
+AP26-10771,M. Reddy,,Male,Business Administration,monika.reddy@mailbox.in,9905694944,ST,94.7,2026-07-24,85.0,94.7,0.9411111111111111,0.6902477973580585
+AP26-10383,Bhavna Gupta,,Female,Artificial Intelligence and Data Science,bhavna.gupta@mailbox.in,9859209840,OBC,94.3,2026-07-15,85.0,94.3,0.9366666666666666,0.6728190479017911
+AP26-10215,Zeeshan Iyer,,Male,Mechanical Engineering,zeeshan.iyer@mailbox.in,7629401512,SC,94.2,2026-07-22,85.0,94.2,0.9355555555555556,0.6684618605377246
+AP26-10794,De Souza Rahul,,F,Biomedical Engineering,rahul.de souza@mailbox.in,6299457724,OBC,93.1,2026-07-19,85.0,93.1,0.9233333333333332,0.6205327995329899
+AP26-10879,D'Silva Hemalatha,,Male,Computer Science and Engineering,hemalatha.d'silva@mailbox.in,9082599800,GEN,0.93,,85.0,93.0,0.9222222222222223,0.6161756121689234
+AP26-10718,L. Murugan,,Prefer not to say,Biomedical Engineering,lakshmi.murugan@mailbox.in,6919312667,GEN,0.93,2026-07-21,85.0,93.0,0.9222222222222223,0.6161756121689234
+AP26-10914,Meena R.,,F,Business Administration,meena.r@mailbox.in,,OBC,92.9,2026-07-24,85.0,92.9,0.9211111111111112,0.6118184248048568
+AP26-10348,Tharani Das,,Male,Mechanical Engineering,tharani.das@mailbox.in,7703276795,ST,92.6,,85.0,92.6,0.9177777777777777,0.5987468627126561
+AP26-10480,Abishek Joshi,,F,Business Administration,abishek.joshi@mailbox.in,6675574714,OBC,92.6,,85.0,92.6,0.9177777777777777,0.5987468627126561
+AP26-10064,T. Banerjee,,F,Biomedical Engineering,tharani.banerjee@mailbox.in,7807595834,SC,92.2,2026-07-20,85.0,92.2,0.9133333333333333,0.5813181132563894
+AP26-10796,Lakshmi Verma,,Male,Artificial Intelligence and Data Science,lakshmi.verma@mailbox.in,7377774494,SC,92.2,2026-07-23,85.0,92.2,0.9133333333333333,0.5813181132563894
+AP26-10744,Rohit Singh,,M,Artificial Intelligence and Data Science,rohit.singh@mailbox.in,9901507934,EWS,92.1,,85.0,92.1,0.9122222222222222,0.5769609258923222
+AP26-10459,Manoj Venkatesh,,Female,Artificial Intelligence and Data Science,manoj.venkatesh@mailbox,9630793074,ST,92.1,2026-07-20,85.0,92.1,0.9122222222222222,0.5769609258923222
+AP26-10963,Pillai Divya,,M,Artificial Intelligence and Data Science,divya.pillai@mailbox.in,7121491489,ST,0.92,2026-07-21,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-10168,Karthik Banerjee,,Prefer not to say,Biomedical Engineering,karthik.banerjee@mailbox.in,6755010762,SC,0.92,,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-10252,A. Reddy,,M,Artificial Intelligence and Data Science,arun.reddy@mailbox,6667681772,ST,0.92,2026-07-22,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-10464,M. Pillai,,F,Artificial Intelligence and Data Science,mohammed.pillai@mailbox.in,,ST,0.92,,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-10720,Pereira Pradeep,,Prefer not to say,Business Administration,pradeep.pereira@mailbox.in,,GEN,0.92,2026-07-21,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-10881,Swetha Rao,,Female,Artificial Intelligence and Data Science,swetha.rao@mailbox.in,,EWS,0.92,2026-07-21,85.0,92.0,0.9111111111111111,0.5726037385282557
+AP26-10845,Naveen Murugan,,Prefer not to say,Information Technology,naveen.murugan@mailbox.in,7301288327,GEN,91.5,2026-07-22,85.0,91.5,0.9055555555555556,0.5508178017079218
+AP26-10780,Divya Murugan,,Male,Information Technology,divya.murugan@mailbox.in,7077532292,OBC,91.5,2026-07-18,85.0,91.5,0.9055555555555556,0.5508178017079218
+AP26-11091,Pavithra de Souza,,M,Biomedical Engineering,pavithra.de souza@mailbox.in,9881711391,EWS,91.1,2026-07-20,85.0,91.1,0.9011111111111111,0.5333890522516546
+AP26-10245,Ezhil Venkatesh,,M,Computer Science and Engineering,ezhil.venkatesh@mailbox.in,9896898305,EWS,455,2026-07-25,85.0,91.0,0.9,0.529031864887588
+AP26-10703,Anitha Iyengar,,Female,Computer Science and Engineering,anitha.iyengar@mailbox.in,9630084434,ST,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10838,N. Reddy,,M,Artificial Intelligence and Data Science,naveen.reddy@mailbox.in,9617964699,SC,455,2026-07-21,85.0,91.0,0.9,0.529031864887588
+AP26-10962,Vasanth Patel,,F,Information Technology,vasanth.patel@mailbox.in,9580103356,GEN,455,2026-07-17,85.0,91.0,0.9,0.529031864887588
+AP26-10250,Deepa Gupta,,Female,Computer Science and Engineering,deepa.gupta@mailbox.in,9421041593,OBC,455,2026-07-17,85.0,91.0,0.9,0.529031864887588
+AP26-11090,Rao Deepa,,Prefer not to say,Information Technology,deepa.rao@mailbox.in,9377166822,ST,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10657,Naveen de Souza,,Prefer not to say,Computer Science and Engineering,naveen.de souza@mailbox.in,9066274986,EWS,455,2026-07-16,85.0,91.0,0.9,0.529031864887588
+AP26-10147,A. Sundaram,,Male,Biomedical Engineering,abishek.sundaram@mailbox.in,9059311386,OBC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10517,Farhan Fernandez,,M,Computer Science and Engineering,farhan.fernandez@mailbox.in,8957443589,OBC,455,2026-07-23,85.0,91.0,0.9,0.529031864887588
+AP26-10807,Divya Sharma,,M,Computer Science and Engineering,divya.sharma@mailbox.in,8841899444,ST,455,2026-07-18,85.0,91.0,0.9,0.529031864887588
+AP26-10671,Vignesh Sundaram,,Male,Artificial Intelligence and Data Science,vignesh.sundaram@mailbox.in,8630593310,OBC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10373,Monika Sundaram,,M,Business Administration,monika.sundaram@mailbox.in,8597659879,ST,455,2026-07-22,85.0,91.0,0.9,0.529031864887588
+AP26-10400,Ezhil Nair,,F,Civil Engineering,ezhil.nair@mailbox.in,8306689970,ST,455,2026-07-22,85.0,91.0,0.9,0.529031864887588
+AP26-11070,Tharani de Souza,,Prefer not to say,Information Technology,tharani.de souza@mailbox.in,8270066923,EWS,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10333,Kumar Tarun,,Prefer not to say,Artificial Intelligence and Data Science,tarun.kumar@mailbox.in,8206183490,GEN,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10755,Aarav D'Silva,,F,Biomedical Engineering,aarav.d'silva@mailbox.in,7850389002,EWS,455,2026-07-18,85.0,91.0,0.9,0.529031864887588
+AP26-10340,Sundaram Abishek,,Prefer not to say,Computer Science and Engineering,abishek.sundaram@mailbox.in,7841634718,OBC,455,2026-07-18,85.0,91.0,0.9,0.529031864887588
+AP26-10573,Monika Pillai,,M,Biomedical Engineering,monika.pillai@mailbox.in,7779141949,SC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10002,A. Singh,,M,Artificial Intelligence and Data Science,ashwin.singh@mailbox.in,7668955623,EWS,455,2026-07-18,85.0,91.0,0.9,0.529031864887588
+AP26-10960,Charulatha Das,,F,Biomedical Engineering,charulatha.das@mailbox.in,7493132096,GEN,455,2026-07-18,85.0,91.0,0.9,0.529031864887588
+AP26-10664,K. Arun,,Male,Business Administration,arun.k@mailbox.in,7481279821,EWS,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10965,Manoj Bose,,F,Biomedical Engineering,manoj.bose@mailbox.in,7332539748,SC,455,2026-07-18,85.0,91.0,0.9,0.529031864887588
+AP26-10746,R. D'Silva,,Female,Mechanical Engineering,rahul.d'silva@mailbox.in,6867835858,GEN,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10924,Aarav Menon,,Prefer not to say,Biomedical Engineering,aarav.menon@mailbox.in,6196831341,EWS,455,2026-07-25,85.0,91.0,0.9,0.529031864887588
+AP26-10371,Banerjee Abishek,,Prefer not to say,Computer Science and Engineering,abishek.banerjee@mailbox.in,6130916719,ST,455,2026-07-24,85.0,91.0,0.9,0.529031864887588
+AP26-10022,B. S.,,Female,Civil Engineering,bhavna.s@mailbox.in,6011190974,EWS,455,2026-07-21,85.0,91.0,0.9,0.529031864887588
+AP26-10020,D. Murugan,,Male,Business Administration,deepa.murugan@mailbox.in,,OBC,91.0,2026-07-17,85.0,91.0,0.9,0.529031864887588
+AP26-10027,T. Nathan,,Prefer not to say,Artificial Intelligence and Data Science,tharani.nathan@mailbox.in,,EWS,455,2026-07-25,85.0,91.0,0.9,0.529031864887588
+AP26-10037,Harish Sharma,,Male,Biomedical Engineering,harish.sharma@mailbox.in,,EWS,455,2026-07-22,85.0,91.0,0.9,0.529031864887588
+AP26-10100,D'Silva Sandhya,,M,Computer Science and Engineering,sandhya.d'silva@mailbox.in,,GEN,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10120,O'Brien Sanjay,,M,Biomedical Engineering,sanjay.o'brien@mailbox.in,,ST,455,2026-07-19,85.0,91.0,0.9,0.529031864887588
+AP26-10140,G. Nair,,F,Artificial Intelligence and Data Science,gita.nair@mailbox.in,,SC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10141,Vijay Murugan,,F,Biomedical Engineering,vijay.murugan@mailbox.in,,GEN,455,2026-07-20,85.0,91.0,0.9,0.529031864887588
+AP26-10171,Gita Sharma,,F,Civil Engineering,gita.sharma@mailbox.in,,GEN,455,2026-07-18,85.0,91.0,0.9,0.529031864887588
+AP26-10175,Arun Banerjee,,Prefer not to say,Computer Science and Engineering,arun.banerjee@mailbox.in,,SC,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10243,Monika Venkatesh,,Prefer not to say,Mechanical Engineering,monika.venkatesh@mailbox.in,,ST,455,2026-07-15,85.0,91.0,0.9,0.529031864887588
+AP26-10324,Pavithra Irfan,,M,Computer Science and Engineering,pavithra.irfan@mailbox.in,,SC,455,2026-07-17,85.0,91.0,0.9,0.529031864887588
+AP26-10381,S. Iyengar,,F,Information Technology,sandhya.iyengar@mailbox.in,,OBC,455,2026-07-17,85.0,91.0,0.9,0.529031864887588
+AP26-10425,H. Bose,,Female,Computer Science and Engineering,harish.bose@mailbox.in,,OBC,455,2026-07-15,85.0,91.0,0.9,0.529031864887588
+AP26-10435,K. Balaji,,Female,Computer Science and Engineering,kavitha.balaji@mailbox.in,,EWS,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10444,Yamini Rao,,Female,Civil Engineering,yamini.rao@mailbox.in,,GEN,455,2026-07-25,85.0,91.0,0.9,0.529031864887588
+AP26-10484,V. Patel,,Prefer not to say,Civil Engineering,vasanth.patel@mailbox.in,,ST,455,2026-07-25,85.0,91.0,0.9,0.529031864887588
+AP26-10499,Gita Balaji,,Prefer not to say,Business Administration,gita.balaji@mailbox.in,,EWS,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10504,Priya Bose,,Prefer not to say,Civil Engineering,priya.bose@mailbox.in,,ST,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10522,Vasanth Reddy,,F,Artificial Intelligence and Data Science,vasanth.reddy@mailbox.in,,GEN,455,2026-07-22,85.0,91.0,0.9,0.529031864887588
+AP26-10534,Naveen de Souza,,M,Business Administration,naveen.de souza@mailbox.in,,GEN,455,2026-07-18,85.0,91.0,0.9,0.529031864887588
+AP26-10619,K. Sundaram,,F,Artificial Intelligence and Data Science,karthik.sundaram@mailbox.in,,ST,455,2026-07-24,85.0,91.0,0.9,0.529031864887588
+AP26-10631,Meena Sundaram,,M,Computer Science and Engineering,meena.sundaram@mailbox.in,,ST,455,2026-07-19,85.0,91.0,0.9,0.529031864887588
+AP26-10763,J. Balaji,,Female,Artificial Intelligence and Data Science,jagan.balaji@mailbox.in,,GEN,455,,85.0,91.0,0.9,0.529031864887588
+AP26-10778,R. Fernandez,,F,Information Technology,rohit.fernandez@mailbox.in,,ST,0.91,2026-07-19,85.0,91.0,0.9,0.529031864887588
+AP26-10842,Sandhya Nathan,,M,Information Technology,sandhya.nathan@mailbox.in,,OBC,455,2026-07-15,85.0,91.0,0.9,0.529031864887588
+AP26-10860,Meena Sundaram,,Prefer not to say,Civil Engineering,meena.sundaram@mailbox.in,,EWS,455,2026-07-24,85.0,91.0,0.9,0.529031864887588
+AP26-10884,Zeeshan Kumar,,F,Civil Engineering,zeeshan.kumar@mailbox.in,,GEN,455,2026-07-19,85.0,91.0,0.9,0.529031864887588
+AP26-10911,Bose Bhavna,,F,Business Administration,bhavna.bose@mailbox.in,,OBC,455,2026-07-16,85.0,91.0,0.9,0.529031864887588
+AP26-10955,M. Fernandez,,Female,Business Administration,monika.fernandez@mailbox.in,,SC,455,2026-07-20,85.0,91.0,0.9,0.529031864887588
+AP26-10970,Rao Charulatha,,M,Biomedical Engineering,charulatha.rao@mailbox.in,,EWS,455,,85.0,91.0,0.9,0.529031864887588
+AP26-11028,U. Sundaram,,Female,Biomedical Engineering,uma.sundaram@mailbox.in,,EWS,455,,85.0,91.0,0.9,0.529031864887588
+AP26-11030,Reddy Sandhya,,F,Civil Engineering,sandhya.reddy@mailbox.in,,OBC,455,2026-07-20,85.0,91.0,0.9,0.529031864887588
+AP26-11046,Vijay Pillai,,F,Information Technology,vijay.pillai@mailbox.in,,OBC,90.8,2026-07-20,85.0,90.8,0.8977777777777778,0.5203174901594544
+AP26-10583,M. Pereira,,Prefer not to say,Biomedical Engineering,mohammed.pereira@mailbox.in,8402992265,ST,90.7,2026-07-16,85.0,90.7,0.8966666666666667,0.5159603027953878
+AP26-10654,Suresh Pereira,,F,Business Administration,suresh.pereira@mailbox.in,,ST,90.7,2026-07-23,85.0,90.7,0.8966666666666667,0.5159603027953878
+AP26-10086,J. Pillai,,Prefer not to say,Artificial Intelligence and Data Science,jayanth.pillai@mailbox.in,6073662364,OBC,90.6,2026-07-18,85.0,90.6,0.8955555555555554,0.5116031154313208
+AP26-10910,A. Kumar,,Prefer not to say,Artificial Intelligence and Data Science,abishek.kumar@mailbox.in,8071837071,ST,90.2,,85.0,90.2,0.8911111111111112,0.49417436597505404
+AP26-10201,Balaji Lavanya,,Female,Civil Engineering,lavanya.balaji@mailbox.in,6505023246,ST,90.2,,85.0,90.2,0.8911111111111112,0.49417436597505404
+AP26-10976,Sanjay Murugan,,Male,Biomedical Engineering,sanjay.murugan@mailbox.in,7996318560,ST,90.1,2026-07-23,85.0,90.1,0.8899999999999999,0.48981717861098695
+AP26-10121,Harish Balaji,,Female,Biomedical Engineering,harish.balaji@mailbox.in,9903951269,GEN,90.0,2026-07-25,85.0,90.0,0.8888888888888888,0.4854599912469204
+AP26-10792,Jagan K.,,M,Artificial Intelligence and Data Science,jagan.k@mailbox.in,9477418914,SC,90.0,2026-07-23,85.0,90.0,0.8888888888888888,0.4854599912469204
+AP26-10541,U. Venkatesh,,Male,Computer Science and Engineering,uma.venkatesh@mailbox.in,9253805635,GEN,0.9,2026-07-21,85.0,90.0,0.8888888888888888,0.4854599912469204
+AP26-10157,Vasanth Venkatesh,,M,Business Administration,vasanth.venkatesh@mailbox.in,9153416840,SC,0.9,,85.0,90.0,0.8888888888888888,0.4854599912469204
+AP26-10670,Murugan Bhavna,,Female,Biomedical Engineering,bhavna.murugan@mailbox.in,9113759516,GEN,0.9,,85.0,90.0,0.8888888888888888,0.4854599912469204
+AP26-10080,Anitha Sundaram,,Prefer not to say,Computer Science and Engineering,anitha.sundaram@mailbox.in,8423359878,SC,0.9,2026-07-16,85.0,90.0,0.8888888888888888,0.4854599912469204
+AP26-10651,Sandhya Kumar,,F,Artificial Intelligence and Data Science,sandhya.kumar@mailbox.in,,ST,0.9,,85.0,90.0,0.8888888888888888,0.4854599912469204
+AP26-10777,Naveen Verma,,Male,Business Administration,naveen.verma@mailbox.in,8955677485,GEN,89.8,2026-07-25,85.0,89.8,0.8866666666666666,0.4767456165187868
+AP26-10363,I. Verma,,Male,Computer Science and Engineering,indumathi.verma@mailbox.in,6611260605,GEN,89.8,2026-07-16,85.0,89.8,0.8866666666666666,0.4767456165187868
+AP26-10834,Ezhil Nair,,M,Information Technology,ezhil.nair@mailbox.in,8340792902,EWS,89.4,2026-07-19,85.0,89.4,0.8822222222222222,0.45931686706252006
+AP26-10029,Pillai Ishwarya,,M,Civil Engineering,ishwarya.pillai@mailbox.in,8721095656,ST,89.1,2026-07-22,85.0,89.1,0.8788888888888888,0.4462453049703193
+AP26-10280,Gita Fernandez,,Male,Biomedical Engineering,gita.fernandez@mailbox.in,,EWS,89.1,2026-07-23,85.0,89.1,0.8788888888888888,0.4462453049703193
+AP26-10496,Priya Reddy,,Male,Biomedical Engineering,priya.reddy@mailbox.in,8189260844,ST,0.89,,85.0,89.0,0.8777777777777778,0.4418881176062528
+AP26-10452,Kumar Swetha,,F,Civil Engineering,swetha.kumar@mailbox.in,7352479640,SC,0.89,,85.0,89.0,0.8777777777777778,0.4418881176062528
+AP26-10054,R. Das,,Prefer not to say,Computer Science and Engineering,revathi.das@mailbox.in,6432350839,ST,0.89,2026-07-22,85.0,89.0,0.8777777777777778,0.4418881176062528
+AP26-10961,Chirag Das,,F,Information Technology,chirag.das@mailbox.in,6296871194,ST,0.89,,85.0,89.0,0.8777777777777778,0.4418881176062528
+AP26-10217,Vasanth Bose,,Female,Biomedical Engineering,vasanth.bose@mailbox.in,,ST,0.89,2026-07-23,85.0,89.0,0.8777777777777778,0.4418881176062528
+AP26-10361,Priya Sundaram,,Prefer not to say,Biomedical Engineering,priya.sundaram@mailbox.in,,SC,0.89,2026-07-19,85.0,89.0,0.8777777777777778,0.4418881176062528
+AP26-10658,Pereira Anitha,,Male,Civil Engineering,anitha.pereira@mailbox.in,8362456477,ST,88.9,,85.0,88.9,0.8766666666666667,0.43753093024218626
+AP26-11021,D. Verma,,M,Information Technology,deepa.verma@mailbox.in,9615364805,EWS,88.7,2026-07-24,85.0,88.7,0.8744444444444445,0.4288165555140526
+AP26-10830,Rahul Kumar,,F,Information Technology,rahul.kumar@mailbox.in,9196598775,EWS,88.7,,85.0,88.7,0.8744444444444445,0.4288165555140526
+AP26-10102,Nathan Tarun,,Male,Civil Engineering,tarun.nathan@mailbox.in,,OBC,88.7,2026-07-17,85.0,88.7,0.8744444444444445,0.4288165555140526
+AP26-10813,Singh Hemalatha,,M,Biomedical Engineering,hemalatha.singh@mailbox.in,,ST,88.2,,85.0,88.2,0.8688888888888889,0.40703061869371876
+AP26-10978,Abishek Joshi,,M,Biomedical Engineering,abishek.joshi@mailbox.in,7368812494,SC,0.88,2026-07-16,85.0,88.0,0.8666666666666667,0.3983162439655851
+AP26-10825,V. Venkatesh,,Male,Biomedical Engineering,varun.venkatesh@mailbox.in,7211005937,SC,0.88,2026-07-21,85.0,88.0,0.8666666666666667,0.3983162439655851
+AP26-10749,S. Patel,,Female,Biomedical Engineering,sanjay.patel@mailbox.in,7145988575,ST,0.88,2026-07-22,85.0,88.0,0.8666666666666667,0.3983162439655851
+AP26-10181,Patel Revathi,,Male,Civil Engineering,revathi.patel@mailbox.in,8032585912,GEN,87.9,,85.0,87.9,0.8655555555555556,0.3939590566015186
+AP26-11089,H. Pereira,,Male,Computer Science and Engineering,hemalatha.pereira@mailbox.in,6818744699,GEN,87.8,2026-07-18,85.0,87.8,0.8644444444444445,0.3896018692374515
+AP26-10561,Kumar Subramanian,,Female,Business Administration,subramanian.kumar@mailbox.in,9661856093,GEN,N.A.,2026-07-22,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10515,Joshi Keerthi,,M,Business Administration,keerthi.joshi@mailbox.in,9608980661,GEN,N.A.,2026-07-19,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10616,Reddy Tarun,,Prefer not to say,Business Administration,tarun.reddy@mailbox.in,9526930541,SC,N.A.,2026-07-23,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10297,Yamini Choudhury,,Female,Business Administration,yamini.choudhury@mailbox.in,9449959438,SC,87.3,2026-07-15,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10876,R. Patel,,Prefer not to say,Business Administration,rahul.patel@mailbox.in,9443686124,OBC,N.A.,,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-11064,Keerthi de Souza,,F,Business Administration,keerthi.de souza@mailbox.in,9391459821,ST,N.A.,,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10071,Priya Choudhury,,M,Business Administration,priya.choudhury@mailbox.in,9078678567,SC,N.A.,,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10511,Swetha Rao,,Female,Business Administration,swetha.rao@mailbox.in,8937292522,ST,N.A.,2026-07-20,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10003,H. de Souza,,M,Business Administration,hemalatha.de souza@mailbox.in,8282872700,ST,N.A.,2026-07-22,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10106,Sneha Singh,,M,Business Administration,sneha.singh@mailbox.in,7897829387,GEN,N.A.,2026-07-18,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10602,S. Sandhya,,Female,Business Administration,sandhya.s@mailbox.in,6869697358,EWS,N.A.,2026-07-24,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10017,Lakshmi Fernandez,,F,Business Administration,lakshmi.fernandez@mailbox.in,6497300356,GEN,N.A.,2026-07-16,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10198,Ezhil Joshi,,M,Business Administration,ezhil.joshi@mailbox.in,6258440381,GEN,N.A.,2026-07-20,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10307,A. Gupta,,Prefer not to say,Business Administration,aarav.gupta@mailbox.in,6021964960,ST,N.A.,,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10079,Irfan Manoj,,F,Business Administration,manoj.irfan@mailbox.in,,OBC,N.A.,2026-07-23,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10150,Venkatesh Harish,,F,Artificial Intelligence and Data Science,harish.venkatesh@mailbox.in,,OBC,87.3,2026-07-24,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10705,Naveen Irfan,,M,Business Administration,naveen.irfan@mailbox.in,,SC,N.A.,,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10989,Karthik Sharma,,Male,Business Administration,karthik.sharma@mailbox.in,,ST,N.A.,2026-07-20,85.0,87.3,0.8588888888888888,0.36781593241711763
+AP26-10158,Lakshmi Reddy,,Female,Civil Engineering,lakshmi.reddy@mailbox.in,,GEN,87.1,2026-07-21,85.0,87.1,0.8566666666666666,0.359101557688984
+AP26-10000,Gayathri Bose,,F,Mechanical Engineering,gayathri.bose@mailbox.in,9840012399,ST,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10045,Nathan Aarav,,Prefer not to say,Biomedical Engineering,aarav.nathan@mailbox.in,9840012399,SC,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10060,De Souza Sanjay,,Female,Biomedical Engineering,sanjay.de souza@mailbox.in,9840012399,EWS,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10135,Tharani Reddy,,Prefer not to say,Information Technology,tharani.reddy@mailbox.in,9840012399,ST,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10180,O'Brien Uma,,Male,Information Technology,uma.o'brien@mailbox.in,9840012399,EWS,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10330,C. Pereira,,Female,Mechanical Engineering,charulatha.pereira@mailbox.in,9840012399,ST,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10345,S. S.,,F,Civil Engineering,swetha.s@mailbox.in,9840012399,GEN,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10360,Revathi Choudhury,,Male,Biomedical Engineering,revathi.choudhury@mailbox.in,9840012399,GEN,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10375,V. Singh,,M,Artificial Intelligence and Data Science,vignesh.singh@mailbox.in,9840012399,ST,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10420,Monika S.,,Female,Computer Science and Engineering,monika.s@mailbox.in,9840012399,GEN,0.87,2026-07-22,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10108,Nathan Pradeep,,Prefer not to say,Business Administration,pradeep.nathan@mailbox.in,9573030133,GEN,0.87,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10248,Charulatha Reddy,,F,Information Technology,charulatha.reddy@mailbox.in,9555814277,EWS,N.A.,2026-07-25,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10439,Karthik D'Silva,,Prefer not to say,Information Technology,karthik.d'silva@mailbox.in,9433592109,ST,N.A.,2026-07-17,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-11026,Lakshmi Murugan,,Male,Information Technology,lakshmi.murugan@mailbox.in,8939577682,GEN,N.A.,2026-07-23,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10207,Jagan Joshi,,Male,Information Technology,jagan.joshi@mailbox.in,8891547377,EWS,N.A.,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10786,A. Nathan,,M,Information Technology,arun.nathan@mailbox.in,8509775520,GEN,N.A.,2026-07-24,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10772,Naveen Joshi,,Male,Information Technology,naveen.joshi@mailbox.in,7893543513,EWS,N.A.,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10634,Tarun Joshi,,M,Information Technology,tarun.joshi@mailbox.in,7436411607,EWS,N.A.,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10645,S. Vignesh,,F,Computer Science and Engineering,vignesh.s@mailbox.in,6802781038,GEN,0.87,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10991,Karthik S.,,Prefer not to say,Information Technology,karthik.s@mailbox.in,6075501679,EWS,N.A.,2026-07-20,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10053,Deepa Nair,,Male,Information Technology,deepa.nair@mailbox.in,,SC,N.A.,2026-07-23,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10249,Rohit Sundaram,,F,Information Technology,rohit.sundaram@mailbox.in,,GEN,N.A.,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10299,A. Patel,,M,Information Technology,abishek.patel@mailbox.in,,SC,N.A.,2026-07-19,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10591,Deepa K.,,Prefer not to say,Information Technology,deepa.k@mailbox.in,,ST,N.A.,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10595,Iyer Rohit,,M,Information Technology,rohit.iyer@mailbox.in,,GEN,0.87,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10805,Lavanya Kumar,,Prefer not to say,Information Technology,lavanya.kumar@mailbox.in,,GEN,N.A.,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10856,Tarun Pereira,,F,Information Technology,tarun.pereira@mailbox.in,,SC,N.A.,,85.0,87.0,0.8555555555555555,0.35474437032491746
+AP26-10342,K. Patel,,F,Civil Engineering,kavitha.patel@mailbox.in,8881424629,SC,86.8,,85.0,86.8,0.8533333333333333,0.3460299955967838
+AP26-10584,Charulatha Fernandez,,Prefer not to say,Mechanical Engineering,charulatha.fernandez@mailbox.in,7717808645,OBC,86.8,,85.0,86.8,0.8533333333333333,0.3460299955967838
+AP26-10096,Das Abishek,,M,Biomedical Engineering,abishek.das@mailbox.in,7369059598,ST,86.8,2026-07-20,85.0,86.8,0.8533333333333333,0.3460299955967838
+AP26-10869,Manoj Bose,,Male,Biomedical Engineering,manoj.bose@mailbox,7018207576,EWS,86.8,2026-07-17,85.0,86.8,0.8533333333333333,0.3460299955967838
+AP26-10475,Aarav Iyer,,Male,Mechanical Engineering,aarav.iyer@mailbox.in,,SC,86.8,2026-07-25,85.0,86.8,0.8533333333333333,0.3460299955967838
+AP26-11051,Rohit Patel,,Male,Civil Engineering,rohit.patel@mailbox.in,6096741268,SC,86.7,,85.0,86.7,0.8522222222222222,0.3416728082327173
+AP26-10588,Iyengar Zeeshan,,Male,Mechanical Engineering,zeeshan.iyengar@mailbox.in,,SC,86.3,2026-07-24,85.0,86.3,0.8477777777777777,0.32424405877645
+AP26-10477,Aarav Bose,,Prefer not to say,Computer Science and Engineering,aarav.bose@mailbox.in,7937060206,ST,0.86,2026-07-22,85.0,86.0,0.8444444444444444,0.31117249668424984
+AP26-10603,Jayanth Pillai,,Male,Mechanical Engineering,jayanth.pillai@mailbox.in,,GEN,85.9,,85.0,85.9,0.8433333333333334,0.3068153093201833
+AP26-10788,V. K.,,Prefer not to say,Biomedical Engineering,varun.k@mailbox.in,8482405057,ST,85.8,2026-07-18,85.0,85.8,0.8422222222222222,0.30245812195611615
+AP26-11000,Joshi Zeeshan,,Female,Artificial Intelligence and Data Science,zeeshan.joshi@mailbox.in,6638649478,OBC,85.8,,85.0,85.8,0.8422222222222222,0.30245812195611615
+AP26-10214,E. Murugan,,Female,Biomedical Engineering,ezhil.murugan@mailbox.in,9739108231,EWS,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10154,Uma K.,,Prefer not to say,Biomedical Engineering,uma.k@mailbox.in,9665790649,ST,N.A.,2026-07-18,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10111,Sanjay Venkatesh,,Male,Biomedical Engineering,sanjay.venkatesh@mailbox.in,9323986444,ST,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10817,I. K.,,Male,Biomedical Engineering,indumathi.k@mailbox.in,9299563197,SC,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10880,V. R.,,Male,Biomedical Engineering,vijay.r@mailbox.in,9279105937,GEN,N.A.,2026-07-21,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10754,Pavithra Murugan,,Female,Biomedical Engineering,pavithra.murugan@mailbox.in,9217954243,ST,N.A.,2026-07-20,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10169,R. Singh,,F,Biomedical Engineering,rohit.singh@mailbox.in,9176009502,ST,N.A.,2026-07-23,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10824,Revathi Iyer,,M,Biomedical Engineering,revathi.iyer@mailbox.in,9035522854,ST,N.A.,2026-07-24,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10663,Zeeshan Choudhury,,Prefer not to say,Biomedical Engineering,zeeshan.choudhury@mailbox.in,8837546323,ST,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10018,Rahul Balaji,,F,Biomedical Engineering,rahul.balaji@mailbox.in,8787089664,GEN,N.A.,2026-07-15,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10803,I. Nair,,F,Biomedical Engineering,ishwarya.nair@mailbox.in,8579871109,OBC,N.A.,2026-07-22,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10291,Divya Fernandez,,Male,Biomedical Engineering,divya.fernandez@mailbox,8578867631,GEN,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10693,Sharma Chirag,,Female,Biomedical Engineering,chirag.sharma@mailbox.in,7908675463,OBC,N.A.,2026-07-19,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-11003,Kavitha Iyengar,,Male,Biomedical Engineering,kavitha.iyengar@mailbox.in,7809740028,SC,N.A.,2026-07-20,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10442,J. R.,,Male,Biomedical Engineering,jayanth.r@mailbox.in,7741057858,SC,85.7,2026-07-23,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-11081,O'Brien Dinesh,,Male,Biomedical Engineering,dinesh.o'brien@mailbox.in,7632472738,GEN,N.A.,2026-07-25,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-11088,E. Menon,,Male,Biomedical Engineering,ezhil.menon@mailbox.in,7550127826,OBC,N.A.,2026-07-19,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10948,Pillai Charulatha,,M,Biomedical Engineering,charulatha.pillai@mailbox.in,7510499931,GEN,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10443,Ishwarya Venkatesh,,Female,Biomedical Engineering,ishwarya.venkatesh@mailbox.in,7441053687,ST,N.A.,2026-07-17,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10986,Subramanian R.,,Female,Biomedical Engineering,subramanian.r@mailbox.in,7404786353,OBC,N.A.,2026-07-22,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10431,Rohit Banerjee,,M,Biomedical Engineering,rohit.banerjee@mailbox.in,7092674680,ST,N.A.,,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-11041,Lavanya O'Brien,,F,Biomedical Engineering,lavanya.o'brien@mailbox.in,6860502333,ST,N.A.,2026-07-24,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10676,Gita Sharma,,Prefer not to say,Biomedical Engineering,gita.sharma@mailbox.in,6581865987,OBC,N.A.,2026-07-25,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10138,F. Menon,,Male,Biomedical Engineering,farhan.menon@mailbox.in,,GEN,N.A.,2026-07-25,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10199,Tharani de Souza,,Prefer not to say,Biomedical Engineering,tharani.de souza@mailbox.in,,EWS,N.A.,2026-07-15,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10417,V. Das,,Male,Biomedical Engineering,vijay.das@mailbox.in,,OBC,N.A.,2026-07-24,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10473,Keerthi Singh,,M,Biomedical Engineering,keerthi.singh@mailbox.in,,SC,N.A.,2026-07-16,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10478,De Souza Abishek,,M,Biomedical Engineering,abishek.de souza@mailbox.in,,ST,N.A.,2026-07-23,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10531,Gupta Pradeep,,Male,Biomedical Engineering,pradeep.gupta@mailbox.in,,EWS,N.A.,2026-07-25,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10768,Deepa Kumar,,Male,Biomedical Engineering,deepa.kumar@mailbox.in,,ST,N.A.,2026-07-21,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10853,Fernandez Jagan,,F,Biomedical Engineering,jagan.fernandez@mailbox.in,,EWS,N.A.,2026-07-24,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10883,Y. K.,,M,Biomedical Engineering,yamini.k@mailbox,,ST,N.A.,2026-07-20,85.0,85.7,0.8411111111111111,0.29810093459204967
+AP26-10593,E. de Souza,,M,Civil Engineering,ezhil.de souza@mailbox.in,9830499537,SC,N.A.,2026-07-24,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10358,Harish Venkatesh,,Male,Civil Engineering,harish.venkatesh@mailbox.in,9809463650,SC,N.A.,,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10826,Ezhil Das,,Male,Civil Engineering,ezhil.das@mailbox.in,9020084063,GEN,N.A.,,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10606,Pereira Ishwarya,,F,Civil Engineering,ishwarya.pereira@mailbox.in,8702188369,ST,N.A.,,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10046,Lavanya Das,,M,Civil Engineering,lavanya.das@mailbox,8652514078,SC,N.A.,,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10336,Reddy Arun,,Male,Civil Engineering,arun.reddy@mailbox,8366996498,OBC,N.A.,,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10188,Ashwin Nair,,Prefer not to say,Civil Engineering,ashwin.nair@mailbox.in,7644187828,ST,N.A.,2026-07-18,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10115,Banerjee Bhavna,,F,Civil Engineering,bhavna.banerjee@mailbox.in,6907355753,OBC,N.A.,2026-07-16,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10118,Sundaram Tharani,,Male,Civil Engineering,tharani.sundaram@mailbox.in,6782026672,SC,N.A.,,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10997,D. Balaji,,M,Civil Engineering,deepa.balaji@mailbox.in,6120465300,EWS,N.A.,2026-07-24,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10009,Murugan Naveen,,Male,Civil Engineering,naveen.murugan@mailbox.in,,EWS,N.A.,2026-07-24,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10085,S. O'Brien,,F,Civil Engineering,sneha.o'brien@mailbox.in,,SC,N.A.,2026-07-23,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10163,Ashwin Pillai,,Female,Civil Engineering,ashwin.pillai@mailbox,,ST,N.A.,,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10233,Monika K.,,M,Civil Engineering,monika.k@mailbox.in,,OBC,N.A.,2026-07-16,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10418,R. de Souza,,Female,Civil Engineering,revathi.de souza@mailbox.in,,OBC,N.A.,2026-07-20,85.0,85.55,0.8394444444444444,0.29156515354594925
+AP26-10600,N. Singh,,Male,Biomedical Engineering,nithya.singh@mailbox.in,8330823456,ST,85.5,2026-07-25,85.0,85.5,0.8388888888888889,0.289386559863916
+AP26-10893,Lavanya D'Silva,,Prefer not to say,Computer Science and Engineering,lavanya.d'silva@mailbox.in,7149279762,OBC,85.4,2026-07-21,85.0,85.4,0.8377777777777778,0.2850293724998495
+AP26-10430,G. Choudhury,,F,Business Administration,gita.choudhury@mailbox.in,,ST,85.4,2026-07-25,85.0,85.4,0.8377777777777778,0.2850293724998495
+AP26-10521,Das Naveen,,M,Computer Science and Engineering,naveen.das@mailbox.in,,SC,85.4,2026-07-25,85.0,85.4,0.8377777777777778,0.2850293724998495
+AP26-10898,Nithya Joshi,,Male,Artificial Intelligence and Data Science,nithya.joshi@mailbox.in,,GEN,85.4,2026-07-18,85.0,85.4,0.8377777777777778,0.2850293724998495
+AP26-10790,N. Pereira,,Prefer not to say,Computer Science and Engineering,nithya.pereira@mailbox.in,7605125087,ST,85.3,,85.0,85.3,0.8366666666666667,0.28067218513578235
+AP26-10242,Indumathi Nair,,Prefer not to say,Biomedical Engineering,indumathi.nair@mailbox.in,,EWS,85.3,,85.0,85.3,0.8366666666666667,0.28067218513578235
+AP26-10972,K. Singh,,Prefer not to say,Computer Science and Engineering,kavitha.singh@mailbox.in,6082249865,ST,85.1,2026-07-16,85.0,85.1,0.8344444444444444,0.2719578104076487
+AP26-10742,Divya Nathan,,M,Mechanical Engineering,divya.nathan@mailbox.in,9898847388,OBC,0.85,2026-07-16,85.0,85.0,0.8333333333333334,0.2676006230435822
+AP26-11067,Mohammed R.,,Prefer not to say,Artificial Intelligence and Data Science,mohammed.r@mailbox.in,9371390831,SC,0.85,2026-07-20,85.0,85.0,0.8333333333333334,0.2676006230435822
+AP26-10994,F. S.,,M,Computer Science and Engineering,farhan.s@mailbox.in,8215178730,OBC,0.85,2026-07-22,85.0,85.0,0.8333333333333334,0.2676006230435822
+AP26-10728,Kumar Uma,,Female,Mechanical Engineering,uma.kumar@mailbox.in,6780254869,OBC,0.85,2026-07-23,85.0,85.0,0.8333333333333334,0.2676006230435822
+AP26-10901,Patel Bhavna,,Prefer not to say,Biomedical Engineering,bhavna.patel@mailbox.in,6402222825,SC,85.0,,85.0,85.0,0.8333333333333334,0.2676006230435822
+AP26-10717,Tarun Banerjee,,Female,Biomedical Engineering,tarun.banerjee@mailbox,,SC,0.85,,85.0,85.0,0.8333333333333334,0.2676006230435822
+AP26-10704,M. Menon,,M,Computer Science and Engineering,meena.menon@mailbox.in,9787867030,OBC,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10335,Patel Rajesh,,Female,Computer Science and Engineering,rajesh.patel@mailbox.in,9776925442,SC,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10052,Verma Rahul,,M,Computer Science and Engineering,rahul.verma@mailbox.in,9721223724,GEN,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10174,Fernandez Mohammed,,F,Computer Science and Engineering,mohammed.fernandez@mailbox.in,9663414562,SC,N.A.,2026-07-21,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10277,Pradeep Nathan,,F,Computer Science and Engineering,pradeep.nathan@mailbox.in,9319578999,SC,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10107,Revathi Nathan,,Prefer not to say,Computer Science and Engineering,revathi.nathan@mailbox.in,9079870750,SC,N.A.,2026-07-20,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-11017,G. K.,,Prefer not to say,Computer Science and Engineering,gayathri.k@mailbox.in,8957340061,ST,N.A.,2026-07-24,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10038,Farhan Pereira,,M,Computer Science and Engineering,farhan.pereira@mailbox.in,8853420820,ST,N.A.,2026-07-16,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10486,E. Rao,,Prefer not to say,Computer Science and Engineering,ezhil.rao@mailbox.in,8611733668,ST,N.A.,2026-07-18,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10352,Mohammed Verma,,Male,Computer Science and Engineering,mohammed.verma@mailbox.in,8386312062,SC,N.A.,2026-07-20,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10433,Irfan Sneha,,M,Computer Science and Engineering,sneha.irfan@mailbox.in,8329080438,EWS,N.A.,2026-07-18,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10848,Sundaram Indumathi,,Male,Computer Science and Engineering,indumathi.sundaram@mailbox.in,8328989264,EWS,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10865,T. Iyengar,,Prefer not to say,Computer Science and Engineering,tarun.iyengar@mailbox.in,8089840985,OBC,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10260,R. Banerjee,,Male,Computer Science and Engineering,rajesh.banerjee@mailbox.in,7914407419,SC,N.A.,2026-07-15,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10265,Nithya Patel,,Female,Computer Science and Engineering,nithya.patel@mailbox.in,7590482797,ST,N.A.,2026-07-20,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10472,O'Brien Farhan,,Female,Computer Science and Engineering,farhan.o'brien@mailbox,7193096506,EWS,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-11079,Lakshmi S.,,F,Computer Science and Engineering,lakshmi.s@mailbox.in,7169559769,OBC,N.A.,2026-07-20,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10740,F. Patel,,F,Computer Science and Engineering,farhan.patel@mailbox.in,6991764837,GEN,N.A.,2026-07-21,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10346,Lavanya Patel,,F,Computer Science and Engineering,lavanya.patel@mailbox.in,6963096860,SC,N.A.,2026-07-17,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10084,Rohit Iyer,,Male,Computer Science and Engineering,rohit.iyer@mailbox,6810180097,EWS,N.A.,2026-07-24,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10238,Abishek Kumar,,Prefer not to say,Computer Science and Engineering,abishek.kumar@mailbox.in,6724118030,ST,N.A.,2026-07-15,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10274,P. Iyengar,,Female,Computer Science and Engineering,priya.iyengar@mailbox.in,6273807316,EWS,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10448,Subramanian D'Silva,,Female,Computer Science and Engineering,subramanian.d'silva@mailbox.in,6093571196,ST,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10119,K. Irfan,,M,Computer Science and Engineering,karthik.irfan@mailbox.in,,OBC,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10176,Gita Pereira,,M,Computer Science and Engineering,gita.pereira@mailbox.in,,GEN,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10193,Rahul Balaji,,F,Computer Science and Engineering,rahul.balaji@mailbox.in,,SC,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10234,Gita Fernandez,,M,Computer Science and Engineering,gita.fernandez@mailbox.in,,SC,N.A.,2026-07-20,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10281,Uma Balaji,,Female,Computer Science and Engineering,uma.balaji@mailbox.in,,SC,N.A.,2026-07-17,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10605,Priya Das,,Female,Computer Science and Engineering,priya.das@mailbox.in,,OBC,N.A.,2026-07-19,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10623,Choudhury Swetha,,Prefer not to say,Computer Science and Engineering,swetha.choudhury@mailbox.in,,SC,N.A.,,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10937,A. Kumar,,Male,Computer Science and Engineering,arun.kumar@mailbox.in,,OBC,N.A.,2026-07-23,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10985,R. Dinesh,,Prefer not to say,Computer Science and Engineering,dinesh.r@mailbox.in,,GEN,N.A.,2026-07-19,85.0,84.95,0.8327777777777778,0.2654220293615489
+AP26-10709,Rohit Venkatesh,,Male,Artificial Intelligence and Data Science,rohit.venkatesh@mailbox.in,9958524150,SC,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10615,V. K.,,M,Artificial Intelligence and Data Science,varun.k@mailbox.in,9484720755,EWS,N.A.,2026-07-16,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10899,J. Balaji,,Prefer not to say,Artificial Intelligence and Data Science,jagan.balaji@mailbox.in,9416724907,OBC,N.A.,2026-07-23,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-11031,Vijay Nair,,Male,Artificial Intelligence and Data Science,vijay.nair@mailbox.in,9327345948,ST,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10453,Vasanth Bose,,Prefer not to say,Artificial Intelligence and Data Science,vasanth.bose@mailbox.in,9076265562,GEN,N.A.,2026-07-16,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10647,Vasanth Iyer,,Male,Artificial Intelligence and Data Science,vasanth.iyer@mailbox,9071664624,EWS,N.A.,2026-07-19,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10230,Nithya Murugan,,Female,Artificial Intelligence and Data Science,nithya.murugan@mailbox.in,9068029781,SC,N.A.,2026-07-17,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10966,V. R.,,Prefer not to say,Artificial Intelligence and Data Science,vijay.r@mailbox.in,9013241198,GEN,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10596,Deepa Fernandez,,F,Artificial Intelligence and Data Science,deepa.fernandez@mailbox.in,8903539387,GEN,84.9,2026-07-20,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10182,Abishek Nair,,Male,Artificial Intelligence and Data Science,abishek.nair@mailbox.in,8803203417,ST,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-11013,Balaji Jayanth,,Prefer not to say,Artificial Intelligence and Data Science,jayanth.balaji@mailbox.in,8779702987,SC,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10101,O'Brien Ashwin,,Male,Artificial Intelligence and Data Science,ashwin.o'brien@mailbox.in,8750075456,OBC,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10885,Pavithra D'Silva,,Male,Artificial Intelligence and Data Science,pavithra.d'silva@mailbox.in,8491325529,GEN,N.A.,2026-07-16,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-11095,Yamini Bose,,M,Artificial Intelligence and Data Science,yamini.bose@mailbox.in,8370238223,OBC,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10724,Dinesh Balaji,,Female,Artificial Intelligence and Data Science,dinesh.balaji@mailbox.in,8310139844,EWS,84.9,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10829,Tharani Pillai,,Male,Artificial Intelligence and Data Science,tharani.pillai@mailbox,8264669878,ST,N.A.,2026-07-16,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-11075,Sneha Das,,Female,Artificial Intelligence and Data Science,sneha.das@mailbox.in,7880806150,GEN,N.A.,2026-07-15,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10172,Revathi Patel,,F,Artificial Intelligence and Data Science,revathi.patel@mailbox.in,7839308990,GEN,N.A.,2026-07-19,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10164,Charulatha Iyengar,,F,Artificial Intelligence and Data Science,charulatha.iyengar@mailbox.in,7790516484,GEN,N.A.,2026-07-22,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10861,Gayathri Das,,M,Artificial Intelligence and Data Science,gayathri.das@mailbox.in,6834935739,GEN,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10641,Sandhya Nair,,Prefer not to say,Artificial Intelligence and Data Science,sandhya.nair@mailbox.in,6645065444,ST,N.A.,2026-07-19,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10918,C. Bose,,Male,Artificial Intelligence and Data Science,charulatha.bose@mailbox.in,6588720233,GEN,N.A.,2026-07-22,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10981,Tharani Banerjee,,Female,Artificial Intelligence and Data Science,tharani.banerjee@mailbox.in,6384734175,SC,N.A.,2026-07-25,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10005,Charulatha Sundaram,,Female,Artificial Intelligence and Data Science,charulatha.sundaram@mailbox.in,,EWS,N.A.,2026-07-20,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10184,Reddy Swetha,,Female,Artificial Intelligence and Data Science,swetha.reddy@mailbox.in,,SC,N.A.,2026-07-18,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10227,Choudhury Indumathi,,F,Artificial Intelligence and Data Science,indumathi.choudhury@mailbox.in,,ST,N.A.,2026-07-21,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10508,Menon Monika,,M,Artificial Intelligence and Data Science,monika.menon@mailbox.in,,OBC,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10532,Jayanth Gupta,,Prefer not to say,Artificial Intelligence and Data Science,jayanth.gupta@mailbox.in,,EWS,N.A.,2026-07-17,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10556,Ezhil Nathan,,M,Artificial Intelligence and Data Science,ezhil.nathan@mailbox.in,,EWS,N.A.,2026-07-17,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10618,Sanjay Balaji,,Prefer not to say,Artificial Intelligence and Data Science,sanjay.balaji@mailbox.in,,ST,N.A.,2026-07-16,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10640,Tharani Menon,,Prefer not to say,Artificial Intelligence and Data Science,tharani.menon@mailbox.in,,SC,N.A.,2026-07-24,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10769,Hemalatha R.,,Female,Artificial Intelligence and Data Science,hemalatha.r@mailbox.in,,OBC,N.A.,2026-07-15,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10775,Iyer Pradeep,,F,Artificial Intelligence and Data Science,pradeep.iyer@mailbox.in,,EWS,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10947,Tarun Pillai,,Prefer not to say,Artificial Intelligence and Data Science,tarun.pillai@mailbox.in,,GEN,N.A.,2026-07-21,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-11053,Chirag Banerjee,,Female,Artificial Intelligence and Data Science,chirag.banerjee@mailbox.in,,EWS,N.A.,,85.0,84.9,0.8322222222222223,0.2632434356795157
+AP26-10334,Rajesh Sharma,,M,Artificial Intelligence and Data Science,rajesh.sharma@mailbox.in,8684984143,ST,84.8,2026-07-20,85.0,84.8,0.8311111111111111,0.25888624831544854
+AP26-10878,Manoj Gupta,,F,Computer Science and Engineering,manoj.gupta@mailbox.in,6950608943,EWS,84.8,2026-07-24,85.0,84.8,0.8311111111111111,0.25888624831544854
+AP26-11092,Abishek Irfan,,Male,Business Administration,abishek.irfan@mailbox.in,,ST,84.6,,85.0,84.6,0.8288888888888888,0.25017187358731485
+AP26-10311,R. Sundaram,,F,Business Administration,rahul.sundaram@mailbox.in,6340888177,OBC,84.5,,85.0,84.5,0.8277777777777777,0.24581468622324837
+AP26-10428,D. de Souza,,Prefer not to say,Mechanical Engineering,dinesh.de souza@mailbox.in,,OBC,84.4,2026-07-25,85.0,84.4,0.8266666666666668,0.24145749885918186
+AP26-10488,Varun Verma,,Male,Artificial Intelligence and Data Science,varun.verma@mailbox.in,8836450491,GEN,84.3,,85.0,84.3,0.8255555555555555,0.2371003114951147
+AP26-10426,Rao Chirag,,Prefer not to say,Artificial Intelligence and Data Science,chirag.rao@mailbox.in,8539730073,GEN,0.84,,85.0,84.0,0.8222222222222222,0.22402874940291453
+AP26-11086,Farhan Nair,,Male,Biomedical Engineering,farhan.nair@mailbox.in,8064248248,OBC,0.84,2026-07-15,85.0,84.0,0.8222222222222222,0.22402874940291453
+AP26-10294,M. Venkatesh,,Prefer not to say,Computer Science and Engineering,monika.venkatesh@mailbox.in,7517288686,GEN,0.84,,85.0,84.0,0.8222222222222222,0.22402874940291453
+AP26-10136,Murugan Swetha,,Male,Biomedical Engineering,swetha.murugan@mailbox,7262190612,GEN,83.9,2026-07-19,85.0,83.9,0.8211111111111111,0.21967156203884802
+AP26-10290,Charulatha Choudhury,,Prefer not to say,Artificial Intelligence and Data Science,charulatha.choudhury@mailbox.in,,GEN,83.9,2026-07-18,85.0,83.9,0.8211111111111111,0.21967156203884802
+AP26-10941,Indumathi Kumar,,F,Computer Science and Engineering,indumathi.kumar@mailbox.in,7623012987,SC,83.8,2026-07-21,85.0,83.8,0.82,0.2153143746747809
+AP26-11082,Ashwin Menon,,M,Biomedical Engineering,ashwin.menon@mailbox.in,7347811873,OBC,83.5,2026-07-20,85.0,83.5,0.8166666666666667,0.20224281258258073
+AP26-10350,T. Sharma,,Female,Mechanical Engineering,tarun.sharma@mailbox.in,8570301835,GEN,83.4,,85.0,83.4,0.8155555555555556,0.1978856252185142
+AP26-10767,Abishek Menon,,F,Information Technology,abishek.menon@mailbox.in,6117064164,GEN,83.4,2026-07-23,85.0,83.4,0.8155555555555556,0.1978856252185142
+AP26-10470,D'Silva Abishek,,Prefer not to say,Biomedical Engineering,abishek.d'silva@mailbox.in,,EWS,83.4,,85.0,83.4,0.8155555555555556,0.1978856252185142
+AP26-10823,Suresh O'Brien,,Prefer not to say,Computer Science and Engineering,suresh.o'brien@mailbox,8671522145,SC,83.3,,85.0,83.3,0.8144444444444444,0.19352843785444707
+AP26-10751,Abishek Reddy,,Prefer not to say,Computer Science and Engineering,abishek.reddy@mailbox.in,,OBC,83.3,2026-07-18,85.0,83.3,0.8144444444444444,0.19352843785444707
+AP26-10292,R. Bose,,F,Civil Engineering,rajesh.bose@mailbox.in,9535975021,SC,0.83,,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10026,A. Gupta,,Prefer not to say,Computer Science and Engineering,aarav.gupta@mailbox,9404398489,GEN,0.83,2026-07-25,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10114,G. Sundaram,,M,Computer Science and Engineering,gita.sundaram@mailbox,9344030719,EWS,0.83,2026-07-17,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10568,Menon Anitha,,Female,Civil Engineering,anitha.menon@mailbox.in,9194884598,GEN,0.83,2026-07-22,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10109,Varun Pereira,,Male,Information Technology,varun.pereira@mailbox.in,9142371362,ST,0.83,2026-07-17,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10544,Verma Uma,,Prefer not to say,Civil Engineering,uma.verma@mailbox.in,7918759143,OBC,0.83,,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10762,Tarun Reddy,,Female,Information Technology,tarun.reddy@mailbox.in,6325029825,GEN,0.83,2026-07-15,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10530,Arun Das,,M,Mechanical Engineering,arun.das@mailbox,,OBC,0.83,2026-07-25,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10587,Pavithra Sundaram,,Male,Artificial Intelligence and Data Science,pavithra.sundaram@mailbox.in,,EWS,83.0,2026-07-17,85.0,83.0,0.8111111111111111,0.1804568757622469
+AP26-10356,P. Gupta,,Prefer not to say,Artificial Intelligence and Data Science,pradeep.gupta@mailbox.in,7922783596,GEN,82.9,2026-07-25,85.0,82.9,0.81,0.17609968839818038
+AP26-10134,H. R.,,F,Computer Science and Engineering,hemalatha.r@mailbox.in,6200275806,ST,82.9,2026-07-15,85.0,82.9,0.81,0.17609968839818038
+AP26-10866,Vignesh Patel,,Prefer not to say,Mechanical Engineering,vignesh.patel@mailbox.in,7785977632,OBC,82.6,2026-07-22,85.0,82.6,0.8066666666666666,0.1630281263059796
+AP26-10599,Rahul Kumar,,Male,Business Administration,rahul.kumar@mailbox.in,7369328361,ST,82.4,2026-07-18,85.0,82.4,0.8044444444444445,0.15431375157784655
+AP26-10862,N. Menon,,F,Artificial Intelligence and Data Science,nithya.menon@mailbox.in,6671707276,SC,82.4,2026-07-20,85.0,82.4,0.8044444444444445,0.15431375157784655
+AP26-10959,D'Silva Deepa,,F,Mechanical Engineering,deepa.d'silva@mailbox.in,,GEN,82.3,,85.0,82.3,0.8033333333333333,0.14995656421377943
+AP26-11055,Murugan Monika,,Female,Mechanical Engineering,monika.murugan@mailbox.in,8954512192,EWS,N.A.,2026-07-20,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10059,Reddy Anitha,,F,Mechanical Engineering,anitha.reddy@mailbox.in,8881945797,GEN,N.A.,2026-07-18,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10313,Dinesh Choudhury,,Prefer not to say,Mechanical Engineering,dinesh.choudhury@mailbox.in,8190106900,GEN,N.A.,2026-07-20,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-11059,Hemalatha Nair,,Prefer not to say,Mechanical Engineering,hemalatha.nair@mailbox.in,7900371100,SC,N.A.,2026-07-20,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-11044,Yamini Pereira,,F,Mechanical Engineering,yamini.pereira@mailbox.in,7841570789,OBC,N.A.,2026-07-18,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-11002,H. Sharma,,M,Mechanical Engineering,hemalatha.sharma@mailbox.in,7734566882,EWS,N.A.,,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10625,Nithya O'Brien,,F,Mechanical Engineering,nithya.o'brien@mailbox.in,7395516425,OBC,N.A.,2026-07-25,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10223,Ezhil O'Brien,,M,Mechanical Engineering,ezhil.o'brien@mailbox,7103671824,GEN,N.A.,2026-07-19,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10367,Balaji Swetha,,Prefer not to say,Mechanical Engineering,swetha.balaji@mailbox.in,6930206084,EWS,N.A.,2026-07-15,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10206,G. Sharma,,Female,Mechanical Engineering,gayathri.sharma@mailbox,6879740559,GEN,N.A.,,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10802,Murugan Revathi,,F,Mechanical Engineering,revathi.murugan@mailbox.in,6795701701,GEN,N.A.,2026-07-24,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10727,S. R.,,M,Mechanical Engineering,sneha.r@mailbox.in,6664752545,ST,N.A.,2026-07-16,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10977,Joshi Abishek,,M,Mechanical Engineering,abishek.joshi@mailbox.in,6445237772,OBC,N.A.,2026-07-19,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10839,A. Fernandez,,Male,Mechanical Engineering,anitha.fernandez@mailbox.in,6258338376,GEN,N.A.,,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10332,Vasanth O'Brien,,Male,Mechanical Engineering,vasanth.o'brien@mailbox.in,,ST,N.A.,2026-07-23,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10347,Hemalatha Nair,,Male,Mechanical Engineering,hemalatha.nair@mailbox.in,,GEN,N.A.,2026-07-18,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10466,H. Irfan,,Female,Mechanical Engineering,harish.irfan@mailbox.in,,GEN,N.A.,,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10585,Uma Murugan,,Male,Mechanical Engineering,uma.murugan@mailbox.in,,SC,N.A.,,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10608,Ezhil Bose,,Female,Mechanical Engineering,ezhil.bose@mailbox.in,,GEN,N.A.,2026-07-18,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10643,Mohammed Das,,Male,Mechanical Engineering,mohammed.das@mailbox.in,,ST,N.A.,2026-07-22,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10689,Tharani Patel,,Prefer not to say,Mechanical Engineering,tharani.patel@mailbox.in,,ST,N.A.,,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10974,N. Nair,,F,Mechanical Engineering,naveen.nair@mailbox.in,,GEN,N.A.,2026-07-24,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-11018,D. Nathan,,M,Mechanical Engineering,deepa.nathan@mailbox.in,,GEN,N.A.,,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-11069,Kavitha Murugan,,F,Mechanical Engineering,kavitha.murugan@mailbox.in,,EWS,N.A.,2026-07-20,85.0,82.15,0.8016666666666667,0.14342078316767964
+AP26-10303,Hemalatha O'Brien,,Female,Computer Science and Engineering,hemalatha.o'brien@mailbox.in,8303471231,EWS,0.82,2026-07-18,85.0,82.0,0.8,0.13688500212157925
+AP26-10875,Joshi Mohammed,,F,Mechanical Engineering,mohammed.joshi@mailbox.in,6708353005,ST,0.82,2026-07-21,85.0,82.0,0.8,0.13688500212157925
+AP26-10533,Zeeshan Kumar,,Male,Mechanical Engineering,zeeshan.kumar@mailbox.in,6681690515,ST,0.82,2026-07-25,85.0,82.0,0.8,0.13688500212157925
+AP26-10850,Rohit Pereira,,Male,Computer Science and Engineering,rohit.pereira@mailbox.in,6902483069,SC,81.7,,85.0,81.7,0.7966666666666667,0.12381344002937908
+AP26-10266,A. Fernandez,,Male,Artificial Intelligence and Data Science,ashwin.fernandez@mailbox.in,9462052078,OBC,81.5,2026-07-20,85.0,81.5,0.7944444444444444,0.11509906530124543
+AP26-10633,Suresh K.,,Male,Biomedical Engineering,suresh.k@mailbox.in,,GEN,81.4,,85.0,81.4,0.7933333333333334,0.1107418779371789
+AP26-10524,Patel Ishwarya,,Prefer not to say,Business Administration,ishwarya.patel@mailbox.in,9183961648,SC,81.3,2026-07-17,85.0,81.3,0.7922222222222222,0.10638469057311177
+AP26-10646,Iyengar Charulatha,,Male,Mechanical Engineering,charulatha.iyengar@mailbox.in,9690723511,OBC,0.81,2026-07-22,85.0,81.0,0.7888888888888889,0.0933131284809116
+AP26-11027,Aarav Menon,,Male,Mechanical Engineering,aarav.menon@mailbox.in,9503738951,OBC,0.81,2026-07-25,85.0,81.0,0.7888888888888889,0.0933131284809116
+AP26-10552,D'Silva Ishwarya,,F,Artificial Intelligence and Data Science,ishwarya.d'silva@mailbox.in,8767588340,GEN,81.0,2026-07-16,85.0,81.0,0.7888888888888889,0.0933131284809116
+AP26-10706,Zeeshan de Souza,,M,Biomedical Engineering,zeeshan.de souza@mailbox.in,6756363401,SC,0.81,2026-07-25,85.0,81.0,0.7888888888888889,0.0933131284809116
+AP26-10551,Tarun Venkatesh,,Prefer not to say,Information Technology,tarun.venkatesh@mailbox.in,6053051185,OBC,0.81,2026-07-23,85.0,81.0,0.7888888888888889,0.0933131284809116
+AP26-10287,S. Choudhury,,Prefer not to say,Mechanical Engineering,sneha.choudhury@mailbox.in,,ST,0.81,,85.0,81.0,0.7888888888888889,0.0933131284809116
+AP26-10519,Uma Choudhury,,Female,Biomedical Engineering,uma.choudhury@mailbox.in,9981685100,OBC,80.9,,85.0,80.9,0.7877777777777778,0.08895594111684509
+AP26-10979,D. Nathan,,Prefer not to say,Computer Science and Engineering,deepa.nathan@mailbox.in,6348928904,SC,80.8,2026-07-17,85.0,80.8,0.7866666666666666,0.08459875375277795
+AP26-10679,S. Harish,,Male,Artificial Intelligence and Data Science,harish.s@mailbox.in,,GEN,80.7,,85.0,80.7,0.7855555555555556,0.08024156638871144
+AP26-10088,D. Sundaram,,Male,Business Administration,deepa.sundaram@mailbox.in,6693879152,OBC,80.5,,85.0,80.5,0.7833333333333333,0.07152719166057778
+AP26-10743,Dinesh Joshi,,Female,Artificial Intelligence and Data Science,dinesh.joshi@mailbox.in,9312983173,ST,80.4,,85.0,80.4,0.7822222222222223,0.06717000429651127
+AP26-11049,Gayathri Rao,,M,Biomedical Engineering,gayathri.rao@mailbox.in,8846717898,SC,80.4,2026-07-18,85.0,80.4,0.7822222222222223,0.06717000429651127
+AP26-10711,K. Keerthi,,M,Artificial Intelligence and Data Science,keerthi.k@mailbox.in,7854532389,ST,80.4,,85.0,80.4,0.7822222222222223,0.06717000429651127
+AP26-10808,Patel Karthik,,M,Business Administration,karthik.patel@mailbox.in,7817740997,EWS,80.4,2026-07-20,85.0,80.4,0.7822222222222223,0.06717000429651127
+AP26-10082,P. Venkatesh,,F,Civil Engineering,pavithra.venkatesh@mailbox.in,9567094173,GEN,80.2,2026-07-17,85.0,80.2,0.78,0.05845562956837761
+AP26-10382,Ezhil Murugan,,F,Biomedical Engineering,ezhil.murugan@mailbox.in,6856277673,EWS,80.2,2026-07-22,85.0,80.2,0.78,0.05845562956837761
+AP26-10526,Pavithra Iyengar,,M,Business Administration,pavithra.iyengar@mailbox.in,7030177134,OBC,80.1,,85.0,80.1,0.7788888888888889,0.054098442204310475
+AP26-10365,Aarav O'Brien,,Female,Business Administration,aarav.o'brien@mailbox.in,9246874185,GEN,0.8,,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10696,Iyengar Rohit,,F,Biomedical Engineering,rohit.iyengar@mailbox.in,9015306639,ST,80.0,2026-07-15,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10269,Jagan Bose,,Prefer not to say,Business Administration,jagan.bose@mailbox.in,8096262612,SC,0.8,,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10590,Lakshmi Joshi,,Male,Artificial Intelligence and Data Science,lakshmi.joshi@mailbox.in,7537385548,EWS,80.0,2026-07-17,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10099,Deepa Gupta,,Male,Business Administration,deepa.gupta@mailbox.in,,EWS,80.0,2026-07-15,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10410,Sanjay Fernandez,,M,Business Administration,sanjay.fernandez@mailbox.in,,EWS,80.0,2026-07-21,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10681,J. Pereira,,Male,Biomedical Engineering,jayanth.pereira@mailbox.in,,EWS,0.8,,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10840,De Souza Uma,,Prefer not to say,Biomedical Engineering,uma.de souza@mailbox.in,,ST,0.8,2026-07-24,85.0,80.0,0.7777777777777778,0.049741254840243956
+AP26-10800,R. Iyer,,Female,Computer Science and Engineering,revathi.iyer@mailbox.in,9367923455,OBC,79.9,,85.0,79.9,0.7766666666666667,0.04538406747617744
+AP26-11043,Ishwarya Menon,,F,Biomedical Engineering,ishwarya.menon@mailbox.in,7972622923,OBC,79.8,2026-07-17,85.0,79.8,0.7755555555555556,0.0410268801121103
+AP26-10089,Arun Banerjee,,Female,Biomedical Engineering,arun.banerjee@mailbox.in,,EWS,79.5,2026-07-18,85.0,79.5,0.7722222222222223,0.027955318019910136
+AP26-10392,Sharma Gita,,F,Artificial Intelligence and Data Science,gita.sharma@mailbox.in,,OBC,79.1,,85.0,79.1,0.7677777777777777,0.010526568563642829
+AP26-10648,Das Gita,,M,Artificial Intelligence and Data Science,gita.das@mailbox.in,,EWS,79.1,2026-07-25,85.0,79.1,0.7677777777777777,0.010526568563642829
+AP26-11012,Karthik Choudhury,,Female,Computer Science and Engineering,karthik.choudhury@mailbox.in,9962945738,ST,79.0,,85.0,79.0,0.7666666666666667,0.006169381199576313
+AP26-10919,Verma Farhan,,M,Biomedical Engineering,farhan.verma@mailbox.in,9828245647,SC,0.79,,85.0,79.0,0.7666666666666667,0.006169381199576313
+AP26-10695,D. Iyengar,,Prefer not to say,Artificial Intelligence and Data Science,deepa.iyengar@mailbox.in,9195329410,OBC,0.79,,85.0,79.0,0.7666666666666667,0.006169381199576313
+AP26-11084,Patel Tarun,,M,Computer Science and Engineering,tarun.patel@mailbox.in,8941152335,ST,0.79,,85.0,79.0,0.7666666666666667,0.006169381199576313
+AP26-10789,Bose Gayathri,,F,Information Technology,gayathri.bose@mailbox.in,8893093114,GEN,0.79,2026-07-21,85.0,79.0,0.7666666666666667,0.006169381199576313
+AP26-10445,P. Venkatesh,,Prefer not to say,Computer Science and Engineering,pradeep.venkatesh@mailbox.in,8314130876,OBC,79.0,,85.0,79.0,0.7666666666666667,0.006169381199576313
+AP26-10844,Sundaram Vasanth,,Prefer not to say,Computer Science and Engineering,vasanth.sundaram@mailbox.in,7951440806,ST,79.0,2026-07-18,85.0,79.0,0.7666666666666667,0.006169381199576313
+AP26-10851,Rahul K.,,M,Biomedical Engineering,rahul.k@mailbox.in,7786173236,ST,0.79,2026-07-15,85.0,79.0,0.7666666666666667,0.006169381199576313
+AP26-10509,Swetha Pereira,,Prefer not to say,Computer Science and Engineering,swetha.pereira@mailbox.in,7011600404,OBC,0.79,,85.0,79.0,0.7666666666666667,0.006169381199576313
+AP26-10220,Jagan Balaji,,Prefer not to say,Computer Science and Engineering,jagan.balaji@mailbox.in,,SC,78.8,,85.0,78.8,0.7644444444444444,-0.0025449935285573404
+AP26-10785,Pereira Tarun,,Male,Mechanical Engineering,tarun.pereira@mailbox.in,,ST,78.3,2026-07-24,85.0,78.3,0.7588888888888888,-0.024330930348891163
+AP26-10237,V. D'Silva,,Male,Computer Science and Engineering,vasanth.d'silva@mailbox.in,8730153543,SC,0.78,2026-07-19,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-10476,A. Verma,,Prefer not to say,Artificial Intelligence and Data Science,aarav.verma@mailbox.in,8278655081,SC,0.78,2026-07-16,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-10081,C. Pillai,,F,Computer Science and Engineering,charulatha.pillai@mailbox.in,7330364357,ST,0.78,,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-10502,T. Choudhury,,F,Information Technology,tharani.choudhury@mailbox.in,7099742817,GEN,0.78,2026-07-16,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-10222,M. Patel,,Prefer not to say,Artificial Intelligence and Data Science,meena.patel@mailbox.in,6538138735,SC,0.78,2026-07-25,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-10187,Joshi Rohit,,Prefer not to say,Biomedical Engineering,rohit.joshi@mailbox.in,,OBC,0.78,,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-10787,J. Nair,,Female,Artificial Intelligence and Data Science,jagan.nair@mailbox.in,,ST,0.78,,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-10849,Y. Bose,,Prefer not to say,Civil Engineering,yamini.bose@mailbox.in,,GEN,0.78,,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-10980,D. D'Silva,,Female,Biomedical Engineering,deepa.d'silva@mailbox.in,,SC,0.78,,85.0,78.0,0.7555555555555555,-0.03740249244109133
+AP26-10993,K. Patel,,Female,Artificial Intelligence and Data Science,karthik.patel@mailbox.in,7397284975,GEN,77.7,2026-07-21,85.0,77.7,0.7522222222222222,-0.050474054533291506
+AP26-10525,D. Gupta,,Female,Civil Engineering,dinesh.gupta@mailbox.in,9997928032,SC,77.6,2026-07-16,85.0,77.6,0.7511111111111111,-0.05483124189735864
+AP26-10126,Ishwarya Das,,M,Mechanical Engineering,ishwarya.das@mailbox.in,6642096354,SC,77.6,2026-07-21,85.0,77.6,0.7511111111111111,-0.05483124189735864
+AP26-10276,N. Venkatesh,,Prefer not to say,Biomedical Engineering,naveen.venkatesh@mailbox.in,7374845184,SC,77.2,,85.0,77.2,0.7466666666666667,-0.07225999135362532
+AP26-10047,Venkatesh Ezhil,,Prefer not to say,Biomedical Engineering,ezhil.venkatesh@mailbox.in,6496638681,GEN,77.2,2026-07-24,85.0,77.2,0.7466666666666667,-0.07225999135362532
+AP26-10049,N. S.,,Prefer not to say,Computer Science and Engineering,naveen.s@mailbox.in,7002402681,ST,0.77,2026-07-22,85.0,77.0,0.7444444444444445,-0.08097436608175898
+AP26-10377,Pradeep Joshi,,M,Artificial Intelligence and Data Science,pradeep.joshi@mailbox.in,,SC,0.77,,85.0,77.0,0.7444444444444445,-0.08097436608175898
+AP26-10852,Dinesh Gupta,,Prefer not to say,Information Technology,dinesh.gupta@mailbox.in,,OBC,0.77,2026-07-21,85.0,77.0,0.7444444444444445,-0.08097436608175898
+AP26-11097,Farhan Menon,,Female,Artificial Intelligence and Data Science,farhan.menon@mailbox.in,,OBC,0.77,2026-07-23,85.0,77.0,0.7444444444444445,-0.08097436608175898
+AP26-10149,S. Venkatesh,,F,Computer Science and Engineering,sandhya.venkatesh@mailbox.in,,OBC,76.8,,85.0,76.8,0.7422222222222222,-0.08968874080989263
+AP26-10305,Deepa O'Brien,,Female,Biomedical Engineering,deepa.o'brien@mailbox.in,9576099314,OBC,76.7,2026-07-19,85.0,76.7,0.7411111111111112,-0.09404592817395915
+AP26-10708,H. Murugan,,M,Civil Engineering,harish.murugan@mailbox.in,6230496167,OBC,76.7,2026-07-25,85.0,76.7,0.7411111111111112,-0.09404592817395915
+AP26-10527,Vasanth Pillai,,Female,Artificial Intelligence and Data Science,vasanth.pillai@mailbox.in,,OBC,76.4,2026-07-23,85.0,76.4,0.7377777777777779,-0.10711749026615931
+AP26-10700,Indumathi Nair,,M,Computer Science and Engineering,indumathi.nair@mailbox.in,9778368949,GEN,76.3,2026-07-21,85.0,76.3,0.7366666666666666,-0.11147467763022645
+AP26-10682,Bose Rajesh,,Prefer not to say,Mechanical Engineering,rajesh.bose@mailbox.in,8850538328,EWS,0.76,2026-07-17,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-10067,Venkatesh Revathi,,Male,Mechanical Engineering,revathi.venkatesh@mailbox.in,8816096200,GEN,0.76,2026-07-22,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-10578,Bhavna O'Brien,,Female,Civil Engineering,bhavna.o'brien@mailbox.in,7471227066,EWS,0.76,,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-10302,Fernandez Jagan,,M,Biomedical Engineering,jagan.fernandez@mailbox.in,,OBC,0.76,,85.0,76.0,0.7333333333333333,-0.12454623972242662
+AP26-10008,Arun Menon,,F,Computer Science and Engineering,arun.menon@mailbox.in,,OBC,75.3,2026-07-19,85.0,75.3,0.7255555555555555,-0.1550465512708941
+AP26-10318,A. de Souza,,Prefer not to say,Computer Science and Engineering,anitha.de souza@mailbox.in,,OBC,75.2,2026-07-24,85.0,75.2,0.7244444444444444,-0.15940373863496063
+AP26-10451,Abishek Nair,,Female,Computer Science and Engineering,abishek.nair@mailbox.in,,GEN,75.1,2026-07-25,85.0,75.1,0.7233333333333333,-0.16376092599902775
+AP26-10529,Vignesh O'Brien,,F,Biomedical Engineering,vignesh.o'brien@mailbox.in,9565856818,GEN,0.75,2026-07-22,85.0,75.0,0.7222222222222222,-0.16811811336309426
+AP26-10228,Monika Banerjee,,Female,Artificial Intelligence and Data Science,monika.banerjee@mailbox.in,8876995300,EWS,0.75,,85.0,75.0,0.7222222222222222,-0.16811811336309426
+AP26-10467,Nathan Pradeep,,F,Business Administration,pradeep.nathan@mailbox.in,8781516487,ST,0.75,2026-07-21,85.0,75.0,0.7222222222222222,-0.16811811336309426
+AP26-10756,Subramanian Reddy,,M,Mechanical Engineering,subramanian.reddy@mailbox,7127442066,OBC,0.75,,85.0,75.0,0.7222222222222222,-0.16811811336309426
+AP26-10815,Divya Patel,,Female,Artificial Intelligence and Data Science,divya.patel@mailbox.in,6950859747,ST,75.0,2026-07-15,85.0,75.0,0.7222222222222222,-0.16811811336309426
+AP26-10156,Jayanth Verma,,Female,Computer Science and Engineering,jayanth.verma@mailbox.in,,SC,0.75,,85.0,75.0,0.7222222222222222,-0.16811811336309426
+AP26-10491,Nathan Vijay,,Female,Computer Science and Engineering,vijay.nathan@mailbox.in,,EWS,0.75,,85.0,75.0,0.7222222222222222,-0.16811811336309426
+AP26-10550,Bhavna Kumar,,M,Artificial Intelligence and Data Science,bhavna.kumar@mailbox.in,,GEN,0.75,2026-07-17,85.0,75.0,0.7222222222222222,-0.16811811336309426
+AP26-10831,A. Balaji,,M,Business Administration,anitha.balaji@mailbox.in,6654623556,ST,74.9,2026-07-22,85.0,74.9,0.7211111111111111,-0.17247530072716077
+AP26-10958,Rajesh D'Silva,,F,Biomedical Engineering,rajesh.d'silva@mailbox.in,,SC,74.7,,85.0,74.7,0.7188888888888889,-0.18118967545529444
+AP26-10730,Hemalatha Gupta,,M,Biomedical Engineering,hemalatha.gupta@mailbox.in,,OBC,74.4,2026-07-17,85.0,74.4,0.7155555555555556,-0.1942612375474946
+AP26-10934,Sharma Ishwarya,,Male,Business Administration,ishwarya.sharma@mailbox.in,,OBC,74.3,2026-07-25,85.0,74.3,0.7144444444444444,-0.19861842491156176
+AP26-10611,Rajesh Iyengar,,M,Computer Science and Engineering,rajesh.iyengar@mailbox.in,,GEN,74.2,,85.0,74.2,0.7133333333333334,-0.20297561227562827
+AP26-10946,D'Silva Naveen,,Prefer not to say,Computer Science and Engineering,naveen.d'silva@mailbox.in,,OBC,74.2,2026-07-22,85.0,74.2,0.7133333333333334,-0.20297561227562827
+AP26-11074,Fernandez Hemalatha,,Male,Mechanical Engineering,hemalatha.fernandez@mailbox.in,9248573671,EWS,74.0,2026-07-21,85.0,74.0,0.7111111111111111,-0.2116899870037619
+AP26-10076,S. Murugan,,Female,Computer Science and Engineering,suresh.murugan@mailbox.in,7339448172,ST,0.74,2026-07-17,85.0,74.0,0.7111111111111111,-0.2116899870037619
+AP26-10698,Arun Singh,,Prefer not to say,Business Administration,arun.singh@mailbox.in,6837177133,GEN,0.74,2026-07-22,85.0,74.0,0.7111111111111111,-0.2116899870037619
+AP26-10145,Naveen Murugan,,Female,Mechanical Engineering,naveen.murugan@mailbox.in,,EWS,0.74,2026-07-22,85.0,74.0,0.7111111111111111,-0.2116899870037619
+AP26-10793,Kavitha Nathan,,Male,Artificial Intelligence and Data Science,kavitha.nathan@mailbox.in,,SC,0.74,2026-07-17,85.0,74.0,0.7111111111111111,-0.2116899870037619
+AP26-11024,J. Menon,,F,Business Administration,jagan.menon@mailbox.in,,GEN,0.74,,85.0,74.0,0.7111111111111111,-0.2116899870037619
+AP26-10479,A. Sharma,,Female,Information Technology,anitha.sharma@mailbox.in,6202129672,SC,73.9,2026-07-21,85.0,73.9,0.7100000000000001,-0.21604717436782844
+AP26-11063,M. Nair,,Prefer not to say,Civil Engineering,monika.nair@mailbox.in,,EWS,73.7,2026-07-25,85.0,73.7,0.7077777777777778,-0.22476154909596208
+AP26-10607,Aarav Reddy,,M,Biomedical Engineering,aarav.reddy@mailbox,9154665224,SC,73.0,2026-07-15,85.0,73.0,0.7,-0.2552618606444296
+AP26-10594,Gayathri Verma,,M,Computer Science and Engineering,gayathri.verma@mailbox.in,7424863189,ST,0.73,2026-07-25,85.0,73.0,0.7,-0.2552618606444296
+AP26-10935,Tharani D'Silva,,Prefer not to say,Artificial Intelligence and Data Science,tharani.d'silva@mailbox.in,7220767865,OBC,73.0,,85.0,73.0,0.7,-0.2552618606444296
+AP26-10028,L. Irfan,,F,Computer Science and Engineering,lavanya.irfan@mailbox.in,,SC,0.73,,85.0,73.0,0.7,-0.2552618606444296
+AP26-10257,Vignesh Fernandez,,Prefer not to say,Computer Science and Engineering,vignesh.fernandez@mailbox.in,,OBC,0.73,2026-07-25,85.0,73.0,0.7,-0.2552618606444296
+AP26-10355,Banerjee Keerthi,,Female,Computer Science and Engineering,keerthi.banerjee@mailbox.in,,EWS,0.73,2026-07-25,85.0,73.0,0.7,-0.2552618606444296
+AP26-10954,Bhavna Rao,,F,Artificial Intelligence and Data Science,bhavna.rao@mailbox.in,,GEN,72.3,2026-07-22,85.0,72.3,0.6922222222222222,-0.285762172192897
+AP26-10378,Banerjee Hemalatha,,Prefer not to say,Business Administration,hemalatha.banerjee@mailbox.in,7888679174,OBC,0.72,,85.0,72.0,0.6888888888888889,-0.2988337342850972
+AP26-10988,A. Nathan,,M,Computer Science and Engineering,abishek.nathan@mailbox.in,7514770519,GEN,0.72,2026-07-18,85.0,72.0,0.6888888888888889,-0.2988337342850972
+AP26-10286,Farhan Choudhury,,Female,Biomedical Engineering,farhan.choudhury@mailbox.in,,EWS,0.72,2026-07-23,85.0,72.0,0.6888888888888889,-0.2988337342850972
+AP26-10699,Naveen Choudhury,,Male,Civil Engineering,naveen.choudhury@mailbox.in,6470779877,EWS,71.7,2026-07-19,85.0,71.7,0.6855555555555556,-0.31190529637729736
+AP26-10719,V. Murugan,,Prefer not to say,Biomedical Engineering,vignesh.murugan@mailbox.in,,EWS,71.7,,85.0,71.7,0.6855555555555556,-0.31190529637729736
+AP26-11085,Rao Lakshmi,,Female,Biomedical Engineering,lakshmi.rao@mailbox.in,,OBC,71.5,,85.0,71.5,0.6833333333333333,-0.32061967110543105
+AP26-10394,Rohit R.,,Female,Artificial Intelligence and Data Science,rohit.r@mailbox.in,8585183261,EWS,0.71,,85.0,71.0,0.6777777777777778,-0.34240560792576485
+AP26-10580,V. Reddy,,F,Civil Engineering,vijay.reddy@mailbox.in,7485315566,OBC,71.0,,85.0,71.0,0.6777777777777778,-0.34240560792576485
+AP26-10271,G. Pereira,,F,Computer Science and Engineering,gita.pereira@mailbox.in,6675612802,ST,0.71,2026-07-24,85.0,71.0,0.6777777777777778,-0.34240560792576485
+AP26-10871,H. Banerjee,,Female,Biomedical Engineering,harish.banerjee@mailbox.in,,EWS,0.71,2026-07-24,85.0,71.0,0.6777777777777778,-0.34240560792576485
+AP26-10998,Pradeep Gupta,,F,Computer Science and Engineering,pradeep.gupta@mailbox.in,7549010928,SC,0.7,,85.0,70.0,0.6666666666666666,-0.3859774815664325
+AP26-10667,Hemalatha R.,,Male,Business Administration,hemalatha.r@mailbox.in,7045650410,GEN,0.7,,85.0,70.0,0.6666666666666666,-0.3859774815664325
+AP26-10306,Gita Iyengar,,M,Artificial Intelligence and Data Science,gita.iyengar@mailbox.in,6210022129,GEN,0.7,2026-07-18,85.0,70.0,0.6666666666666666,-0.3859774815664325
+AP26-10940,J. Fernandez,,Prefer not to say,Computer Science and Engineering,jayanth.fernandez@mailbox.in,,EWS,0.7,2026-07-23,85.0,70.0,0.6666666666666666,-0.3859774815664325
+AP26-10359,Gita Patel,,Female,Artificial Intelligence and Data Science,gita.patel@mailbox.in,6802938750,OBC,69.8,2026-07-24,85.0,69.8,0.6644444444444444,-0.39469185629456616
+AP26-10928,Naveen Sharma,,Male,Biomedical Engineering,naveen.sharma@mailbox.in,9907322833,EWS,0.69,,85.0,69.0,0.6555555555555556,-0.42954935520710014
+AP26-10697,Irfan Jagan,,F,Business Administration,jagan.irfan@mailbox.in,8864794494,ST,0.69,,85.0,69.0,0.6555555555555556,-0.42954935520710014
+AP26-10323,Patel Varun,,F,Computer Science and Engineering,varun.patel@mailbox.in,7714698587,SC,0.69,2026-07-22,85.0,69.0,0.6555555555555556,-0.42954935520710014
+AP26-10155,Zeeshan K.,,Male,Biomedical Engineering,zeeshan.k@mailbox.in,7231094765,OBC,0.69,2026-07-25,85.0,69.0,0.6555555555555556,-0.42954935520710014
+AP26-10186,Patel Ishwarya,,Prefer not to say,Business Administration,ishwarya.patel@mailbox.in,6995137621,ST,0.69,2026-07-18,85.0,69.0,0.6555555555555556,-0.42954935520710014
+AP26-10983,Venkatesh Ishwarya,,M,Civil Engineering,ishwarya.venkatesh@mailbox.in,,OBC,0.69,2026-07-23,85.0,69.0,0.6555555555555556,-0.42954935520710014
+AP26-10692,Farhan Venkatesh,,Male,Artificial Intelligence and Data Science,farhan.venkatesh@mailbox,6157092347,EWS,68.8,2026-07-21,85.0,68.8,0.6533333333333333,-0.43826372993523377
+AP26-10680,Kumar Vignesh,,Female,Biomedical Engineering,vignesh.kumar@mailbox.in,9294932448,SC,0.68,2026-07-21,85.0,68.0,0.6444444444444445,-0.4731212288477678
+AP26-10341,Nithya Nathan,,F,Artificial Intelligence and Data Science,nithya.nathan@mailbox.in,,OBC,0.68,2026-07-25,85.0,68.0,0.6444444444444445,-0.4731212288477678
+AP26-10632,Joshi Subramanian,,Male,Computer Science and Engineering,subramanian.joshi@mailbox.in,,OBC,0.68,,85.0,68.0,0.6444444444444445,-0.4731212288477678
+AP26-10734,Swetha Sundaram,,Prefer not to say,Biomedical Engineering,swetha.sundaram@mailbox.in,,ST,0.68,2026-07-17,85.0,68.0,0.6444444444444445,-0.4731212288477678
+AP26-10818,Rahul Bose,,Male,Business Administration,rahul.bose@mailbox.in,,OBC,0.68,2026-07-25,85.0,68.0,0.6444444444444445,-0.4731212288477678
+AP26-10546,Arun Gupta,,Male,Biomedical Engineering,arun.gupta@mailbox.in,9344799076,ST,67.8,,85.0,67.8,0.6422222222222221,-0.48183560357590144
+AP26-10153,Vijay Reddy,,Prefer not to say,Biomedical Engineering,vijay.reddy@mailbox.in,,GEN,67.8,2026-07-15,85.0,67.8,0.6422222222222221,-0.48183560357590144
+AP26-10867,Pereira Zeeshan,,Male,Computer Science and Engineering,zeeshan.pereira@mailbox.in,7567698895,EWS,67.4,,85.0,67.4,0.6377777777777779,-0.49926435303216815
+AP26-10137,Choudhury Kavitha,,M,Civil Engineering,kavitha.choudhury@mailbox.in,9278776360,ST,0.67,2026-07-20,85.0,67.0,0.6333333333333333,-0.5166931024884355
+AP26-10325,Sundaram Swetha,,Female,Computer Science and Engineering,swetha.sundaram@mailbox.in,7353775367,OBC,0.67,,85.0,67.0,0.6333333333333333,-0.5166931024884355
+AP26-10659,Anitha Banerjee,,Male,Civil Engineering,anitha.banerjee@mailbox.in,6770536529,SC,0.67,2026-07-25,85.0,67.0,0.6333333333333333,-0.5166931024884355
+AP26-10748,Sundaram Farhan,,F,Artificial Intelligence and Data Science,farhan.sundaram@mailbox.in,,OBC,0.67,,85.0,67.0,0.6333333333333333,-0.5166931024884355
+AP26-10926,Subramanian Bose,,M,Artificial Intelligence and Data Science,subramanian.bose@mailbox.in,,ST,0.67,,85.0,67.0,0.6333333333333333,-0.5166931024884355
+AP26-10956,Rahul D'Silva,,F,Artificial Intelligence and Data Science,rahul.d'silva@mailbox.in,,EWS,0.67,,85.0,67.0,0.6333333333333333,-0.5166931024884355
+AP26-10629,A. Irfan,,Female,Civil Engineering,ashwin.irfan@mailbox.in,8764244938,ST,0.66,,85.0,66.0,0.6222222222222222,-0.5602649761291031
+AP26-10094,Arun Menon,,F,Biomedical Engineering,arun.menon@mailbox.in,7899405180,EWS,0.66,,85.0,66.0,0.6222222222222222,-0.5602649761291031
+AP26-10816,Fernandez Ashwin,,Prefer not to say,Information Technology,ashwin.fernandez@mailbox.in,6321522017,OBC,0.66,,85.0,66.0,0.6222222222222222,-0.5602649761291031
+AP26-10167,Ishwarya Nair,,Female,Biomedical Engineering,ishwarya.nair@mailbox.in,,EWS,0.66,,85.0,66.0,0.6222222222222222,-0.5602649761291031
+AP26-10316,Verma Harish,,F,Biomedical Engineering,harish.verma@mailbox.in,,SC,0.66,2026-07-18,85.0,66.0,0.6222222222222222,-0.5602649761291031
+AP26-11036,Reddy Pradeep,,Male,Computer Science and Engineering,pradeep.reddy@mailbox.in,,OBC,0.66,,85.0,66.0,0.6222222222222222,-0.5602649761291031
+AP26-10766,Joshi Keerthi,,Male,Mechanical Engineering,keerthi.joshi@mailbox,6168411073,ST,0.65,,85.0,65.0,0.6111111111111112,-0.6038368497697707
+AP26-10894,Vijay Irfan,,Prefer not to say,Biomedical Engineering,vijay.irfan@mailbox.in,,OBC,0.65,,85.0,65.0,0.6111111111111112,-0.6038368497697707
+AP26-10224,Menon Yamini,,Prefer not to say,Civil Engineering,yamini.menon@mailbox.in,6027220493,EWS,64.3,2026-07-22,85.0,64.3,0.6033333333333333,-0.6343371613182383
+AP26-10987,Zeeshan de Souza,,Male,Mechanical Engineering,zeeshan.de souza@mailbox.in,,ST,62.6,,85.0,62.6,0.5844444444444444,-0.708409346507373
+AP26-11047,R. de Souza,,F,Civil Engineering,rajesh.de souza@mailbox.in,8497097383,ST,62.5,2026-07-22,85.0,62.5,0.5833333333333334,-0.7127665338714398
+AP26-10380,Aarav S.,,Prefer not to say,Artificial Intelligence and Data Science,aarav.s@mailbox.in,7644647309,SC,62.5,2026-07-17,85.0,62.5,0.5833333333333334,-0.7127665338714398
+AP26-10571,S. Banerjee,,M,Civil Engineering,sneha.banerjee@mailbox.in,9747684648,OBC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10423,Mohammed de Souza,,F,Mechanical Engineering,mohammed.de souza@mailbox.in,9344711095,SC,-10,2026-07-20,85.0,10.0,0.0,-3.000289900006491
+AP26-11009,Y. Murugan,,F,Computer Science and Engineering,yamini.murugan@mailbox.in,9217190827,SC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10044,Menon Chirag,,F,Information Technology,chirag.menon@mailbox.in,9214372876,SC,-10,2026-07-24,85.0,10.0,0.0,-3.000289900006491
+AP26-10019,Pereira Ezhil,,Prefer not to say,Mechanical Engineering,ezhil.pereira@mailbox.in,9171603748,OBC,-10,2026-07-18,85.0,10.0,0.0,-3.000289900006491
+AP26-10179,G. S.,,M,Artificial Intelligence and Data Science,gayathri.s@mailbox.in,9094272593,OBC,-10,2026-07-22,85.0,10.0,0.0,-3.000289900006491
+AP26-10021,C. Nathan,,Male,Biomedical Engineering,charulatha.nathan@mailbox.in,9046168780,EWS,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10725,R. D'Silva,,Male,Civil Engineering,rajesh.d'silva@mailbox.in,8963504094,GEN,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10687,Nithya O'Brien,,Prefer not to say,Biomedical Engineering,nithya.o'brien@mailbox.in,8897716468,OBC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10996,V. Iyengar,,Male,Information Technology,vasanth.iyengar@mailbox.in,8896078822,OBC,-10,2026-07-16,85.0,10.0,0.0,-3.000289900006491
+AP26-10498,Aarav Menon,,M,Computer Science and Engineering,aarav.menon@mailbox.in,8703119343,OBC,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-10413,Sharma Rohit,,M,Computer Science and Engineering,rohit.sharma@mailbox.in,8685846342,ST,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10232,Sandhya Reddy,,M,Civil Engineering,sandhya.reddy@mailbox.in,8480996365,ST,-10,2026-07-19,85.0,10.0,0.0,-3.000289900006491
+AP26-11061,Dinesh Gupta,,F,Computer Science and Engineering,dinesh.gupta@mailbox.in,8359834024,SC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10033,Sneha Verma,,Female,Information Technology,sneha.verma@mailbox.in,8275343265,GEN,-10,2026-07-20,85.0,10.0,0.0,-3.000289900006491
+AP26-10023,Nathan Rohit,,F,Biomedical Engineering,rohit.nathan@mailbox.in,8133693341,GEN,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10753,Yamini S.,,F,Civil Engineering,yamini.s@mailbox.in,8054241763,SC,-10,2026-07-20,85.0,10.0,0.0,-3.000289900006491
+AP26-10836,Vignesh Rao,,M,Artificial Intelligence and Data Science,vignesh.rao@mailbox.in,7782938615,SC,-10,2026-07-22,85.0,10.0,0.0,-3.000289900006491
+AP26-10688,S. Singh,,F,Mechanical Engineering,sandhya.singh@mailbox.in,7486712720,GEN,-10,2026-07-15,85.0,10.0,0.0,-3.000289900006491
+AP26-10422,Choudhury Lakshmi,,Female,Mechanical Engineering,lakshmi.choudhury@mailbox.in,7362965831,ST,-10,2026-07-24,85.0,10.0,0.0,-3.000289900006491
+AP26-10683,Nair Revathi,,F,Civil Engineering,revathi.nair@mailbox.in,7326589742,EWS,-10,2026-07-25,85.0,10.0,0.0,-3.000289900006491
+AP26-10454,Manoj Reddy,,M,Artificial Intelligence and Data Science,manoj.reddy@mailbox.in,7211113504,GEN,-10,2026-07-25,85.0,10.0,0.0,-3.000289900006491
+AP26-10463,Nair Meena,,M,Information Technology,meena.nair@mailbox.in,6530133324,EWS,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-10196,Singh Keerthi,,Prefer not to say,Computer Science and Engineering,keerthi.singh@mailbox.in,6496382079,OBC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-11011,S. K.,,Male,Computer Science and Engineering,suresh.k@mailbox.in,6456664074,EWS,-10,2026-07-16,85.0,10.0,0.0,-3.000289900006491
+AP26-11033,Vasanth de Souza,,F,Information Technology,vasanth.de souza@mailbox.in,6333179664,EWS,-10,2026-07-16,85.0,10.0,0.0,-3.000289900006491
+AP26-10889,Vignesh Reddy,,M,Computer Science and Engineering,vignesh.reddy@mailbox.in,6255585920,EWS,-10,2026-07-20,85.0,10.0,0.0,-3.000289900006491
+AP26-10372,Keerthi Pereira,,Male,Mechanical Engineering,keerthi.pereira@mailbox.in,6236838477,ST,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-10896,A. K.,,Prefer not to say,Artificial Intelligence and Data Science,abishek.k@mailbox.in,6212519378,GEN,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-11045,O'Brien Chirag,,F,Computer Science and Engineering,chirag.o'brien@mailbox.in,6173331417,GEN,-10,2026-07-20,85.0,10.0,0.0,-3.000289900006491
+AP26-10034,K. Sharma,,Male,Mechanical Engineering,keerthi.sharma@mailbox.in,,SC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10122,Pavithra Iyengar,,Female,Information Technology,pavithra.iyengar@mailbox.in,,OBC,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-10128,Vasanth Gupta,,Prefer not to say,Biomedical Engineering,vasanth.gupta@mailbox.in,,EWS,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10129,Verma Rahul,,Female,Artificial Intelligence and Data Science,rahul.verma@mailbox,,SC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10253,Irfan Jagan,,Male,Computer Science and Engineering,jagan.irfan@mailbox.in,,GEN,-10,2026-07-23,85.0,10.0,0.0,-3.000289900006491
+AP26-10264,M. Fernandez,,Female,Business Administration,meena.fernandez@mailbox.in,,OBC,-10,2026-07-16,85.0,10.0,0.0,-3.000289900006491
+AP26-10312,Pradeep R.,,Female,Computer Science and Engineering,pradeep.r@mailbox.in,,SC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10387,Kavitha Rao,,Female,Artificial Intelligence and Data Science,kavitha.rao@mailbox.in,,OBC,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-10416,D. Bose,,M,Civil Engineering,dinesh.bose@mailbox,,EWS,-10,2026-07-15,85.0,10.0,0.0,-3.000289900006491
+AP26-10427,Pradeep Venkatesh,,Male,Business Administration,pradeep.venkatesh@mailbox.in,,SC,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10535,Murugan Deepa,,Prefer not to say,Information Technology,deepa.murugan@mailbox.in,,SC,-10,2026-07-22,85.0,10.0,0.0,-3.000289900006491
+AP26-10567,Revathi Das,,Male,Artificial Intelligence and Data Science,revathi.das@mailbox.in,,GEN,-10,2026-07-23,85.0,10.0,0.0,-3.000289900006491
+AP26-10613,Nathan Arun,,Prefer not to say,Biomedical Engineering,arun.nathan@mailbox.in,,SC,-10,2026-07-21,85.0,10.0,0.0,-3.000289900006491
+AP26-10713,Choudhury Gayathri,,Female,Computer Science and Engineering,gayathri.choudhury@mailbox.in,,SC,-10,2026-07-25,85.0,10.0,0.0,-3.000289900006491
+AP26-10733,Iyer Rahul,,Male,Business Administration,rahul.iyer@mailbox.in,,GEN,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10737,Naveen Sundaram,,F,Computer Science and Engineering,naveen.sundaram@mailbox.in,,EWS,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10791,S. Swetha,,Prefer not to say,Artificial Intelligence and Data Science,swetha.s@mailbox,,ST,-10,2026-07-23,85.0,10.0,0.0,-3.000289900006491
+AP26-10854,Dinesh Nathan,,F,Biomedical Engineering,dinesh.nathan@mailbox.in,,GEN,-10,2026-07-18,85.0,10.0,0.0,-3.000289900006491
+AP26-10888,A. Iyengar,,Male,Artificial Intelligence and Data Science,anitha.iyengar@mailbox.in,,EWS,-10,2026-07-20,85.0,10.0,0.0,-3.000289900006491
+AP26-10933,Balaji Rajesh,,Prefer not to say,Biomedical Engineering,rajesh.balaji@mailbox.in,,ST,-10,,85.0,10.0,0.0,-3.000289900006491
+AP26-10936,Verma Ishwarya,,Male,Information Technology,ishwarya.verma@mailbox.in,,SC,-10,2026-07-20,85.0,10.0,0.0,-3.000289900006491
+AP26-10950,Rajesh Menon,,M,Information Technology,rajesh.menon@mailbox.in,,EWS,-10,2026-07-24,85.0,10.0,0.0,-3.000289900006491
+AP26-11025,L. R.,,Prefer not to say,Mechanical Engineering,lavanya.r@mailbox.in,,EWS,-10,2026-07-19,85.0,10.0,0.0,-3.000289900006491
+AP26-11038,D'Silva Mohammed,,Prefer not to say,Business Administration,mohammed.d'silva@mailbox.in,,ST,-10,2026-07-21,85.0,10.0,0.0,-3.000289900006491
+AP26-11050,Aarav Fernandez,,M,Biomedical Engineering,aarav.fernandez@mailbox.in,,SC,-10,2026-07-16,85.0,10.0,0.0,-3.000289900006491
+AP26-11052,Y. de Souza,,F,Biomedical Engineering,yamini.de souza@mailbox.in,,EWS,-10,2026-07-25,85.0,10.0,0.0,-3.000289900006491
+AP26-11058,Subramanian Pereira,,F,Artificial Intelligence and Data Science,subramanian.pereira@mailbox.in,,ST,-10,2026-07-17,85.0,10.0,0.0,-3.000289900006491
+AP26-11072,Lakshmi D'Silva,,M,Computer Science and Engineering,lakshmi.d'silva@mailbox.in,,SC,-10,,85.0,10.0,0.0,-3.000289900006491
